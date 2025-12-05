@@ -82,7 +82,7 @@ Die Grundstimmung und viele Themen basieren auf den Kriegserlebnissen von Ferdin
 
 Nicht zuletzt hast du in diesem Rollenspiel die Chance, kleine Fluchten und Rettungen zu ermöglichen. Denn hier wie im richtigen Leben gilt: Die Welt immer ein bisschen besser machen. Und Entscheidungen treffen, die damals getroffen hätten werden sollen.
 
-## 🛡️ Nie wieder – Ein Spiel gegen das Vergessen
+## 🛡️ Nie wieder!
 
 > Dieses Spielsystem wurde mit dem ausdrücklichen Ziel entwickelt, **kritische Auseinandersetzung mit totalitären Strukturen** zu ermöglichen.
 Es zeigt bewusst Elemente wie **Kontrolle, Propaganda, Gruppenzwang** und die **Unterdrückung von Individualität** – nicht zur Verherrlichung, sondern zur **Reflexion**.

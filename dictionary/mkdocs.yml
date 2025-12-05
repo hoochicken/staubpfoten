@@ -41,7 +41,7 @@ plugins:
 markdown_extensions:
   - markdown_include.include:  # HOE: Markdown-Dateien einfügen
       base_path: documentation
-
+  - attr_list
 extra_css:
   - "assets/css/custom.css"
 

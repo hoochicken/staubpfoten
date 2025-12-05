@@ -4,6 +4,8 @@
 
 Hab Spass auf dem Mars! Erlebe Gefahren und Abenteuer! Und wie weit wirst du gehen, um den Mars und das Marser Volk zu retten?
 
+![Eine Kadettschaft](assets/images/_website/startseite/kadettschaft.png)
+
 Das Rollenspiel in Stichpunkten erklärt:
 
 1. Du bist eine Katze auf zwei Beinen.
@@ -12,16 +14,18 @@ Das Rollenspiel in Stichpunkten erklärt:
 4. Du bist zwangsweise Mitglied in der Kadettschaft. Dort sollst du zu einem ordentlichen, wehrfähigen Soldaten erzogen werden.
 5. Irgendwann merkst du, dass das alles irgendwie gar kein Spiel ist. Was wirst du tun?
 
-**Besonderheit**: Jeder Charakter hat eine eigene Behinderung oder **Einschränkung** – **körperlich oder geistig**. Dies ist nicht nur ein Merkmal, sondern beeinflusst Spielweise, Entscheidungen und Lösungen.
+![Ein typischer Kadett, du?](assets/images/_website/startseite/kadett.png){ style="float:right; width:50%;" } **Besonderheit**: Jeder Charakter hat eine eigene Behinderung oder **Einschränkung** – **körperlich oder geistig**. Dies ist nicht nur ein Merkmal, sondern beeinflusst Spielweise, Entscheidungen und Lösungen.
 
 **Ambience Sound zu Mars, Krieg und Raumschiff**
 
-<p style="text-align:center">
+<p style="text-align:left; float:left;">
   <audio controls preload="auto">
     <source src="assets/audio/nand-echo.ogg" type="audio/ogg">
     Dein Browser unterstützt das Audio-Element nicht.
   </audio>
 </p>
+
+<p style="clear:both"></p>
 
 ## 🔴 Mars, 2045
 
@@ -32,6 +36,8 @@ Es riecht nach Brom. Denn dein Filter ist alt. Du solltest ihn schon länger ers
 >Ihr schlüpft in die Rollen **Marser Kinder**.
 >Marser sind Feline mit Fell, Schwarz und Schnurrhaaren.
 >Erlebt ein wundervolles Abenteuer – und macht die Welt ein bisschen besser!
+
+![MZ-Armbinde](assets/images/_website/startseite/armbinde.png){ style="float:right; width:50%;" }
 
 Die Handlung spielt auf dem Mars, in einer nahen Dimension. Du bist ein Feliner, der auf dem Mars lebt; also eine Katze auf zwei Beinen im Schutzanzug.
 
@@ -47,7 +53,7 @@ Nieder mit den KI!
 
 ### 🛸️ Erklärung zum Spielsystem und seiner historischen Einordnung
 
-Dieses Spielsystem wurde mit einem klaren Ziel entwickelt: Aufklärung durch kritische Auseinandersetzung. Die darin enthaltenen Elemente diktatorischer Systeme – etwa Kontrolle, Propaganda, Gehorsam oder Gewaltmonopol – sollen nicht ästhetisiert oder romantisiert, sondern offengelegt und hinterfragt werden.
+![MZ-Flagge](assets/images/_website/startseite/flagge.png){ style="float:left;width:50%;margin-right:25px" }Dieses Spielsystem wurde mit einem klaren Ziel entwickelt: Aufklärung durch kritische Auseinandersetzung. Die darin enthaltenen Elemente diktatorischer Systeme – etwa Kontrolle, Propaganda, Gehorsam oder Gewaltmonopol – sollen nicht ästhetisiert oder romantisiert, sondern offengelegt und hinterfragt werden.
 
 Gerade in Zeiten, in denen demokratische Werte wieder unter Druck geraten, halten wir es für notwendig, auch über spielerische Mechaniken zu vermitteln, wie gefährlich totalitäre Ideologien sind.
 
@@ -112,9 +118,8 @@ Was ist das Schöne daran? Du kannst dir deine Behinderung aussuchen!
 * Nicht-Behinderte: Erfahrungen sammeln. Dass man eben nicht mal jemandem hinterherrufen kann. Weil man eben nicht sprechen kann. Oder dass man nicht mal jemandem Bescheid geben kann, weil man massiv unter sozialen Ängsten leidet.
 * Behinderte: Erfahrungen als Anders-Behinderter sammeln und einfach Spass haben; beobachten wie Nicht-Behinderte plötzlich Erfahrungen mit unpraktischen Einschränkungen sammeln (und hoffentlich mit in ihren Alltag nehmen).
 
-<div class="textbox">
-  So fördern wir <strong>Empathie</strong>, <strong>Perspektivwechsel</strong> und <strong>Inklusion</strong> über die rein historische Ebene hinaus.
-</div>
+So fördern wir <strong>Empathie</strong>, <strong>Perspektivwechsel</strong> und <strong>Inklusion</strong> über die rein historische Ebene hinaus.
+
 
 ## 🎲 Spiel-Erfahrungen
 

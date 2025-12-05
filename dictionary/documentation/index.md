@@ -1,6 +1,6 @@
 # Staubpfoten
 
-## Das Rollenspiel
+## 🎭 Das Rollenspiel
 
 Hab Spass auf dem Mars! Erlebe Gefahren und Abenteuer! Und wie weit wirst du gehen, um den Mars und das Marser Volk zu retten?
 
@@ -23,7 +23,7 @@ Das Rollenspiel in Stichpunkten erklärt:
   </audio>
 </p>
 
-## Mars, 2045
+## 🔴 Mars, 2045
 
 Die unendliche Weite des Horizonts. Überspannt vom sanft grünen Himmel.  Der Sand und all die verschiedenen Farbtöne des Sands. Ocker. Ziegel. Dunkel. Braun. Bromig. Hier bist du geboren. Auf dem Mars.
 
@@ -45,7 +45,7 @@ Nieder mit den KI!
 
 ## Disclaimer
 
-###  ⚠️ Erklärung zum Spielsystem und seiner historischen Einordnung
+### 🛸️ Erklärung zum Spielsystem und seiner historischen Einordnung
 
 Dieses Spielsystem wurde mit einem klaren Ziel entwickelt: Aufklärung durch kritische Auseinandersetzung. Die darin enthaltenen Elemente diktatorischer Systeme – etwa Kontrolle, Propaganda, Gehorsam oder Gewaltmonopol – sollen nicht ästhetisiert oder romantisiert, sondern offengelegt und hinterfragt werden.
 
@@ -57,7 +57,7 @@ Dabei sehen wir unser Spiel in einer ähnlichen Tradition wie der Roman "Starshi
 
 Ergänzend dazu: Der besondere Wert unseres Ansatzes liegt in der Verbindung von spielerischem Zugang und historischer Sensibilisierung. Diese Herangehensweise hat viele Teilnehmer beeindruckt – sie macht Geschichte erlebbar, ohne sie zu trivialisieren.
 
-###  ⚠️ Triggerwarnungen
+### ⚠️ Triggerwarnungen
 
 * Ideologie
 * Gruppenzwang
@@ -70,7 +70,7 @@ Ergänzend dazu: Der besondere Wert unseres Ansatzes liegt in der Verbindung von
 * Ungewissheit
 * Gewalt gegen alles Mögliche, was der Ideologie widerspricht
 
-### Hintergrund
+### 🜁 Hintergrund
 
 Die Grundstimmung und viele Themen basieren auf den Kriegserlebnissen von Ferdinand Riegel, dem Vater der Autorin des Buches "Ich bin Nand" sowie dieses Rollenspiels. Seine Erfahrungen und Erkenntnisse aus dem 2. Weltkrieg geben dem Spiel eine ehrliche, emotionale Tiefe.
 
@@ -99,8 +99,6 @@ Wir sehen uns damit in der Tradition aufklärerischer Werke wie:
 Unser Spiel vermittelt diese Themen **nicht abstrakt**, sondern durch **erfahrbare Mechaniken**, **moralische Dilemmata** und **narrative Konflikte**.
 So werden **Verantwortung, Mitläufertum, Widerstand und Unrecht** spielerisch erfahrbar gemacht – **ohne Leid oder Gewalt zu trivialisieren**.
 
----
-
 ## 🌍 Diversität & Inklusion
 
 Dieses Rollenspiel wurde über mehrere Treffen am Rollenspieltreff des Rollenspielvereins Freiburg angeboten. Die Rückmeldung war durchweg positiv.
@@ -117,7 +115,6 @@ Was ist das Schöne daran? Du kannst dir deine Behinderung aussuchen!
 <div class="textbox">
   So fördern wir <strong>Empathie</strong>, <strong>Perspektivwechsel</strong> und <strong>Inklusion</strong> über die rein historische Ebene hinaus.
 </div>
----
 
 ## 🎲 Spiel-Erfahrungen
 

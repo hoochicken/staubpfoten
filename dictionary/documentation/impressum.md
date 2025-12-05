@@ -3,7 +3,7 @@
 Verantwortlich für den Inhalt dieser Website
 
 Dr. Mareike Riegel<br />
-[info@ichbinnand.de](mailto:info@ichbinnand.de)
+[info@staubpfoten.de](mailto:info@staubpfoten.de)
 
 ## Datenschutz
 
@@ -12,10 +12,10 @@ Sie legt keinerlei Informationen ab.
 
 ## Bilder
 
-![Michael.png](_images/Michael.png)
+![Michael.png](assets/images/Michael.png)
 * Michael Dietrich &amp; AI (AI-generierte Bilder)
 
-![Mareike.png](_images/Mareike_2.png)
+![Mareike.png](assets/images/Mareike.png)
 * Mareike Riegel (Handzeichnungen mit Bleistift, Tinte und Kohle)
 
 

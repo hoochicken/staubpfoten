@@ -1,0 +1,727 @@
+
+<!doctype html>
+<html lang="de" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Das Rollenspiel auf dem Mars">
+      
+      
+        <meta name="author" content="hoochicken">
+      
+      
+        <link rel="canonical" href="http://127.0.0.1:8000/">
+      
+      
+      
+        <link rel="next" href="rules/schnellstarter/">
+      
+      
+      <link rel="icon" href="assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.18">
+    
+    
+      
+        <title>Nand - RPG</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.7e37652d.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="assets/css/custom.css">
+    
+    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#staubpfoten" class="md-skip">
+          Zum Inhalt
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Kopfzeile">
+    <a href="." title="Nand - RPG" class="md-header__button md-logo" aria-label="Nand - RPG" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Nand - RPG
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              🏠 Startseite
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Suche" placeholder="Suche" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Suche">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Zurücksetzen" aria-label="Zurücksetzen" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Suche wird initialisiert
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/hoochicken/staubpfoten/dictionary" title="Zum Repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="." title="Nand - RPG" class="md-nav__button md-logo" aria-label="Nand - RPG" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Nand - RPG
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/hoochicken/staubpfoten/dictionary" title="Zum Repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path fill="currentColor" d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    🏠 Startseite
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="." class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    🏠 Startseite
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhaltsverzeichnis">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#das-rollenspiel" class="md-nav__link">
+    <span class="md-ellipsis">
+      Das Rollenspiel
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mars-2045" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mars, 2045
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#disclaimer" class="md-nav__link">
+    <span class="md-ellipsis">
+      Disclaimer
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Disclaimer">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#erklarung-zum-spielsystem-und-seiner-historischen-einordnung" class="md-nav__link">
+    <span class="md-ellipsis">
+      ⚠️ Erklärung zum Spielsystem und seiner historischen Einordnung
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#triggerwarnungen" class="md-nav__link">
+    <span class="md-ellipsis">
+      ⚠️ Triggerwarnungen
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hintergrund" class="md-nav__link">
+    <span class="md-ellipsis">
+      Hintergrund
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#nie-wieder-ein-spiel-gegen-das-vergessen" class="md-nav__link">
+    <span class="md-ellipsis">
+      🛡️ Nie wieder – Ein Spiel gegen das Vergessen
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#inspirationsquellen" class="md-nav__link">
+    <span class="md-ellipsis">
+      🎓 Inspirationsquellen
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#diversitat-inklusion" class="md-nav__link">
+    <span class="md-ellipsis">
+      🌍 Diversität &amp; Inklusion
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#spiel-erfahrungen" class="md-nav__link">
+    <span class="md-ellipsis">
+      🎲 Spiel-Erfahrungen
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fazit" class="md-nav__link">
+    <span class="md-ellipsis">
+      📌 Fazit
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="rules/schnellstarter/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    🧑‍🚀 Schnellstarter
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhaltsverzeichnis">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#das-rollenspiel" class="md-nav__link">
+    <span class="md-ellipsis">
+      Das Rollenspiel
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#mars-2045" class="md-nav__link">
+    <span class="md-ellipsis">
+      Mars, 2045
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#disclaimer" class="md-nav__link">
+    <span class="md-ellipsis">
+      Disclaimer
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Disclaimer">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#erklarung-zum-spielsystem-und-seiner-historischen-einordnung" class="md-nav__link">
+    <span class="md-ellipsis">
+      ⚠️ Erklärung zum Spielsystem und seiner historischen Einordnung
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#triggerwarnungen" class="md-nav__link">
+    <span class="md-ellipsis">
+      ⚠️ Triggerwarnungen
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#hintergrund" class="md-nav__link">
+    <span class="md-ellipsis">
+      Hintergrund
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#nie-wieder-ein-spiel-gegen-das-vergessen" class="md-nav__link">
+    <span class="md-ellipsis">
+      🛡️ Nie wieder – Ein Spiel gegen das Vergessen
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#inspirationsquellen" class="md-nav__link">
+    <span class="md-ellipsis">
+      🎓 Inspirationsquellen
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#diversitat-inklusion" class="md-nav__link">
+    <span class="md-ellipsis">
+      🌍 Diversität &amp; Inklusion
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#spiel-erfahrungen" class="md-nav__link">
+    <span class="md-ellipsis">
+      🎲 Spiel-Erfahrungen
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#fazit" class="md-nav__link">
+    <span class="md-ellipsis">
+      📌 Fazit
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<h1 id="staubpfoten">Staubpfoten</h1>
+<h2 id="das-rollenspiel">Das Rollenspiel</h2>
+<p>Hab Spass auf dem Mars! Erlebe Gefahren und Abenteuer! Und wie weit wirst du gehen, um den Mars und das Marser Volk zu retten?</p>
+<p>Das Rollenspiel in Stichpunkten erklärt:</p>
+<ol>
+<li>Du bist eine Katze auf zwei Beinen.</li>
+<li>Du lebst auf dem Mars. Die Atmosphäre des Mars ist giftig und darum brauchst du einen Schutzanzug.</li>
+<li>Der Marsianische Zephir herrscht über den Mars. Er ist wahnsinning und hat einen Krieg angezettelt.</li>
+<li>Du bist zwangsweise Mitglied in der Kadettschaft. Dort sollst du zu einem ordentlichen, wehrfähigen Soldaten erzogen werden.</li>
+<li>Irgendwann merkst du, dass das alles irgendwie gar kein Spiel ist. Was wirst du tun?</li>
+</ol>
+<p><strong>Besonderheit</strong>: Jeder Charakter hat eine eigene Behinderung oder <strong>Einschränkung</strong> – <strong>körperlich oder geistig</strong>. Dies ist nicht nur ein Merkmal, sondern beeinflusst Spielweise, Entscheidungen und Lösungen.</p>
+<p><strong>Ambience Sound zu Mars, Krieg und Raumschiff</strong></p>
+<p style="text-align:center">
+  <audio controls preload="auto">
+    <source src="assets/audio/nand-echo.ogg" type="audio/ogg">
+    Dein Browser unterstützt das Audio-Element nicht.
+  </audio>
+</p>
+
+<h2 id="mars-2045">Mars, 2045</h2>
+<p>Die unendliche Weite des Horizonts. Überspannt vom sanft grünen Himmel.  Der Sand und all die verschiedenen Farbtöne des Sands. Ocker. Ziegel. Dunkel. Braun. Bromig. Hier bist du geboren. Auf dem Mars.</p>
+<p>Es riecht nach Brom. Denn dein Filter ist alt. Du solltest ihn schon länger ersetzt haben. Das Brom ist bitter ... und ätzend.</p>
+<blockquote>
+<p>Ihr schlüpft in die Rollen <strong>Marser Kinder</strong>.
+Marser sind Feline mit Fell, Schwarz und Schnurrhaaren.
+Erlebt ein wundervolles Abenteuer – und macht die Welt ein bisschen besser!</p>
+</blockquote>
+<p>Die Handlung spielt auf dem Mars, in einer nahen Dimension. Du bist ein Feliner, der auf dem Mars lebt; also eine Katze auf zwei Beinen im Schutzanzug.</p>
+<p>Der Mars steht kurz vor dem Krieg beziehungsweise es ist schon Krieg. Und du bist Mitglied der sogenannten MZ-Kadettschaft, einer paramilitärische Gruppierung zum Heranziehen von Soldaten.</p>
+<p>Und das heisst Spass. Nachmittägliche Gruppenstunden, mehrtägige Wehrertüchtigungslager, HR-Führerschein! Besonders toll ist, dass ihr bald richtige Aufträge bekommt. Zum Beispiel KI überwachen oder gleich selbst zu plasmieren.</p>
+<p>Nieder mit den KI!</p>
+<p>(Oder auch nicht!)</p>
+<h2 id="disclaimer">Disclaimer</h2>
+<h3 id="erklarung-zum-spielsystem-und-seiner-historischen-einordnung">⚠️ Erklärung zum Spielsystem und seiner historischen Einordnung</h3>
+<p>Dieses Spielsystem wurde mit einem klaren Ziel entwickelt: Aufklärung durch kritische Auseinandersetzung. Die darin enthaltenen Elemente diktatorischer Systeme – etwa Kontrolle, Propaganda, Gehorsam oder Gewaltmonopol – sollen nicht ästhetisiert oder romantisiert, sondern offengelegt und hinterfragt werden.</p>
+<p>Gerade in Zeiten, in denen demokratische Werte wieder unter Druck geraten, halten wir es für notwendig, auch über spielerische Mechaniken zu vermitteln, wie gefährlich totalitäre Ideologien sind.</p>
+<p>Unser Spielsystem verherrlicht in keiner Weise die Greueltaten oder Ideologien des Dritten Reichs. Im Gegenteil: Wir verfolgen mit diesem System einen klar aufklärerischen Ansatz. Ziel ist es, insbesondere jungen Menschen auf eindringliche Weise bewusst zu machen, wie gefährlich diktatorische Systeme wie jenes des Nationalsozialismus sein können.</p>
+<p>Dabei sehen wir unser Spiel in einer ähnlichen Tradition wie der Roman "Starship Troopers" von Robert Heinlein, der häufig missverstanden wird, tatsächlich jedoch zur kritischen Auseinandersetzung mit autoritären Gesellschaftsformen einlädt.</p>
+<p>Ergänzend dazu: Der besondere Wert unseres Ansatzes liegt in der Verbindung von spielerischem Zugang und historischer Sensibilisierung. Diese Herangehensweise hat viele Teilnehmer beeindruckt – sie macht Geschichte erlebbar, ohne sie zu trivialisieren.</p>
+<h3 id="triggerwarnungen">⚠️ Triggerwarnungen</h3>
+<ul>
+<li>Ideologie</li>
+<li>Gruppenzwang</li>
+<li>Verrat</li>
+<li>Irrtum</li>
+<li>Tod</li>
+<li>Body-Horrer / Missgestaltung des Körpers</li>
+<li>Ungerechtigkeit gegenüber Minderheiten</li>
+<li>Zweifel</li>
+<li>Ungewissheit</li>
+<li>Gewalt gegen alles Mögliche, was der Ideologie widerspricht</li>
+</ul>
+<h3 id="hintergrund">Hintergrund</h3>
+<p>Die Grundstimmung und viele Themen basieren auf den Kriegserlebnissen von Ferdinand Riegel, dem Vater der Autorin des Buches "Ich bin Nand" sowie dieses Rollenspiels. Seine Erfahrungen und Erkenntnisse aus dem 2. Weltkrieg geben dem Spiel eine ehrliche, emotionale Tiefe.</p>
+<p>Nicht zuletzt hast du in diesem Rollenspiel die Chance, kleine Fluchten und Rettungen zu ermöglichen. Denn hier wie im richtigen Leben gilt: Die Welt immer ein bisschen besser machen. Und Entscheidungen treffen, die damals getroffen hätten werden sollen.</p>
+<h2 id="nie-wieder-ein-spiel-gegen-das-vergessen">🛡️ Nie wieder – Ein Spiel gegen das Vergessen</h2>
+<blockquote>
+<p>Dieses Spielsystem wurde mit dem ausdrücklichen Ziel entwickelt, <strong>kritische Auseinandersetzung mit totalitären Strukturen</strong> zu ermöglichen.
+Es zeigt bewusst Elemente wie <strong>Kontrolle, Propaganda, Gruppenzwang</strong> und die <strong>Unterdrückung von Individualität</strong> – nicht zur Verherrlichung, sondern zur <strong>Reflexion</strong>.</p>
+</blockquote>
+<p>In einer Zeit, in der <strong>autoritäres Denken</strong>, <strong>Verschwörungsideologien</strong> und <strong>politische Radikalisierung</strong> wieder zunehmen, sehen wir es als unsere Verantwortung, neue Wege der <strong>historischen und politischen Bildung</strong> zu gehen.
+Unser Spiel soll <strong>bewusst machen</strong>, wie diktatorische Systeme entstehen, funktionieren – und wohin sie führen können.</p>
+<p>Dabei <strong>distanzieren wir uns ausdrücklich</strong> von jeder Form der Verherrlichung des Dritten Reichs oder seiner Ideologie.
+Vielmehr ist es unser Ziel, insbesondere <strong>junge Menschen für die Gefahren von Faschismus, Diskriminierung und ideologischer Verblendung</strong> zu sensibilisieren.</p>
+<h2 id="inspirationsquellen">🎓 Inspirationsquellen</h2>
+<p>Wir sehen uns damit in der Tradition aufklärerischer Werke wie:</p>
+<ul>
+<li><strong>„Starship Troopers“</strong> von <em>Robert A. Heinlein</em>, der oft missverstanden wird, aber zur kritischen Auseinandersetzung mit Militarismus und gesellschaftlicher Organisation einlädt.</li>
+<li><strong>„1984“</strong> von <em>George Orwell</em> und <strong>„Fahrenheit 451“</strong> von <em>Ray Bradbury</em>, die zeigen, wie Sprachkontrolle, Informationsunterdrückung und Angst autoritäre Systeme stützen.</li>
+<li><strong>„V – Die außerirdischen Besucher kommen“</strong>, das in Science-Fiction-Hülle deutlich macht, wie sich faschistische Strukturen schleichend etablieren – und wie Widerstand dagegen wächst.</li>
+<li><strong>„Herr der Fliegen“</strong> von <em>William Golding</em>, das eindrucksvoll zeigt, wie schnell soziale Ordnung zerfallen und in Gewalt umschlagen kann, wenn Macht unreflektiert bleibt.</li>
+</ul>
+<p>Unser Spiel vermittelt diese Themen <strong>nicht abstrakt</strong>, sondern durch <strong>erfahrbare Mechaniken</strong>, <strong>moralische Dilemmata</strong> und <strong>narrative Konflikte</strong>.
+So werden <strong>Verantwortung, Mitläufertum, Widerstand und Unrecht</strong> spielerisch erfahrbar gemacht – <strong>ohne Leid oder Gewalt zu trivialisieren</strong>.</p>
+<hr />
+<h2 id="diversitat-inklusion">🌍 Diversität &amp; Inklusion</h2>
+<p>Dieses Rollenspiel wurde über mehrere Treffen am Rollenspieltreff des Rollenspielvereins Freiburg angeboten. Die Rückmeldung war durchweg positiv.</p>
+<p>Dieses Rollenspiel ist divers, nicht nur in Bezug auf <code>[AKTUELL_POLITISCH_KORREKTE_BEZEICHNUNG_FUER_LGBTQIA+]</code>-Community, sondern vor allem in Bezug auf Inklusion von Behinderten.</p>
+<p>Jeder Charakter hat Behinderungen, Einschränkungen, psychische Probleme - so wie wir alle.</p>
+<p>Was ist das Schöne daran? Du kannst dir deine Behinderung aussuchen!</p>
+<ul>
+<li>Nicht-Behinderte: Erfahrungen sammeln. Dass man eben nicht mal jemandem hinterherrufen kann. Weil man eben nicht sprechen kann. Oder dass man nicht mal jemandem Bescheid geben kann, weil man massiv unter sozialen Ängsten leidet.</li>
+<li>Behinderte: Erfahrungen als Anders-Behinderter sammeln und einfach Spass haben; beobachten wie Nicht-Behinderte plötzlich Erfahrungen mit unpraktischen Einschränkungen sammeln (und hoffentlich mit in ihren Alltag nehmen).</li>
+</ul>
+<div class="textbox">
+  So fördern wir <strong>Empathie</strong>, <strong>Perspektivwechsel</strong> und <strong>Inklusion</strong> über die rein historische Ebene hinaus.
+</div>
+<hr />
+<h2 id="spiel-erfahrungen">🎲 Spiel-Erfahrungen</h2>
+<p>Im monatlichen Rollenspielteff des Rollenspielvereins Freiburg habe ich dieses System / Rollenspiel mehrmals  angeboten. Die Rückmeldungen waren durchweg positiv.</p>
+<p>Hier einige Reaktionen und Situationen, die sich am Spieltisch ergeben haben:</p>
+<ul>
+<li>Diskussionen über das 3. Reich</li>
+<li>Rekapitulation des 3. Reichs und der Propaganda-Struktur. U. a. mit Schülerin, die dieses Thema gerade im gesamten Schuljahr in verschiedenen Unterrichtsfächern beleuchten durfte.</li>
+<li>Ganz süss, zwei Spieler*innen (mit Behinderungen) waren entzückt: "Schau mal, wir können uns unsere Behinderungen aussuchen!!"</li>
+<li>Erfahrungen im Mitläufertum: hilflose und schliesslich plasmierte KI; aus purem Eigennutz vernichtet (da war selbst ich als Meister baff). Empörung der Mitstreiterin: "Wir gründen eine Weisse Rose" (zur Rettung der KI)</li>
+</ul>
+<h2 id="fazit">📌 Fazit</h2>
+<p>Wir verstehen unser Spiel als <strong>Beitrag zur politischen Bildung</strong>, zur <strong>Stärkung demokratischer Werte</strong> und zur **Wachsamkeit gegenüber ideologischer Verführung.</p>
+<div class="textbox">
+  <strong>❗ Nie wieder </strong> ist kein leeres Wort ❗
+  <br>
+  Sondern eine <strong>Haltung</strong>, die man lernen, verstehen und leben muss.
+  <br>
+  Unser Spielsystem will genau das ermöglichen.
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      © 2025 Mareike Riegel <a href='/impressum/'>Impressum und Datenschutz</a>
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": ".", "features": [], "search": "assets/javascripts/workers/search.973d3a69.min.js", "tags": null, "translations": {"clipboard.copied": "In Zwischenablage kopiert", "clipboard.copy": "In Zwischenablage kopieren", "search.result.more.one": "1 weiteres Suchergebnis auf dieser Seite", "search.result.more.other": "# weitere Suchergebnisse auf dieser Seite", "search.result.none": "Keine Suchergebnisse", "search.result.one": "1 Suchergebnis", "search.result.other": "# Suchergebnisse", "search.result.placeholder": "Suchbegriff eingeben", "search.result.term.missing": "Es fehlt", "select.version": "Version ausw\u00e4hlen"}, "version": null}</script>
+    
+    
+      <script src="assets/javascripts/bundle.92b07e13.min.js"></script>
+      
+    
+  </body>
+</html>

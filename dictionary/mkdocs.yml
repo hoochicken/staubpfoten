@@ -1,9 +1,9 @@
 # Projektinformationen
-site_name: "Nand - RPG"
+site_name: "Staubpfoten"
 site_description: "Das Rollenspiel auf dem Mars"
 site_author: "hoochicken"
 site_url: "http://127.0.0.1:8000"
-copyright: "© 2025 Mareike Riegel <a href='/impressum/'>Impressum und Datenschutz</a>"
+copyright: "© 2026 Mareike Riegel <a href='/impressum/'>Impressum und Datenschutz</a>"
 
 # Repository-Infos
 repo_name: "GitHub"
@@ -15,8 +15,20 @@ docs_dir: "documentation"
 
 # Theme
 theme:
-  name: material
-  language: de
+  name: "readthedocs"
+  language: "en"
+  shortcuts:
+    help: 191 # ?
+    next: 78 # n
+    previous: 80 # p
+    search: 83 # s
+  palette:
+    scheme: slate
+    toggle:
+      icon: material/brightness-4
+      name: Switch to light mode
+  features:
+    - tabs
 
 # Plugins
 plugins:
@@ -35,6 +47,5 @@ extra_css:
 
 # Navigation
 nav:
-  - 🏠 Startseite: index.md
-
+  - Startseite: index.md
   - 🧑‍🚀 Schnellstarter: rules/schnellstarter.md

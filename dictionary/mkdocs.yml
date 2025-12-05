@@ -1,0 +1,40 @@
+# Projektinformationen
+site_name: "Nand - RPG"
+site_description: "Das Rollenspiel auf dem Mars"
+site_author: "hoochicken"
+site_url: "http://127.0.0.1:8000"
+copyright: "© 2025 Mareike Riegel <a href='/impressum/'>Impressum und Datenschutz</a>"
+
+# Repository-Infos
+repo_name: "GitHub"
+repo_url: "https://github.com/hoochicken/staubpfoten/dictionary"
+edit_uri: "dictionary/edit/main/documentation"
+
+# Dokumentationsverzeichnis
+docs_dir: "documentation"
+
+# Theme
+theme:
+  name: material
+  language: de
+
+# Plugins
+plugins:
+  - search:
+      separator: '[\s\-\.]+'
+      lang:
+        - de
+
+# Markdown-Erweiterungen
+markdown_extensions:
+  - markdown_include.include:  # HOE: Markdown-Dateien einfügen
+      base_path: documentation
+
+extra_css:
+  - "assets/css/custom.css"
+
+# Navigation
+nav:
+  - 🏠 Startseite: index.md
+
+  - 🧑‍🚀 Schnellstarter: rules/schnellstarter.md

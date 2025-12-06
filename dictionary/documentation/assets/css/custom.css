@@ -1,10 +1,10 @@
-/* Version: 2025-12-06 17:20 Europe/Berlin
+/* Version: 2025-12-06 17:35 Europe/Berlin
    Datei: documentation/assets/css/custom.css
    Zweck:
    - Staubpfoten-Farbtokens (Marsrot & Kometensilber) für Material-Theme
    - Getrennte Werte für helles Schema ("default") und dunkles Schema ("slate")
    - Header/Tabs explizit in Primärfarbe einfärben
-   - Footer (inkl. Zurück/Weiter) an Staubpfoten-Farben anpassen
+   - Footer (inkl. Zurück/Weiter + Impressum/Copyright) in Marsrot, auch im Dark-Mode
 */
 
 /* Schriften einbinden (liegt im selben Ordner) */
@@ -48,14 +48,16 @@
 /* 1) Header & Tabs explizit in Primärfarbe einfärben                    */
 /* ===================================================================== */
 
-/* Oberer Balken (Header) */
-.md-header {
-  background-color: var(--md-primary-fg-color);  /* nimmt Marsrot aus obigen Tokens */
+/* Oberer Balken (Header) – in beiden Schemen Marsrot */
+[data-md-color-scheme="default"] .md-header,
+[data-md-color-scheme="slate"]  .md-header {
+  background-color: var(--md-primary-fg-color);
 }
 
 /* Tabs-Leiste (falls du später navigation.tabs aktivierst) */
-.md-tabs {
-  background-color: var(--md-primary-fg-color);  /* ebenfalls Marsrot */
+[data-md-color-scheme="default"] .md-tabs,
+[data-md-color-scheme="slate"]  .md-tabs {
+  background-color: var(--md-primary-fg-color);
 }
 
 /* ===================================================================== */
@@ -83,37 +85,57 @@
 /* 3) Footer – Hintergrund & Links in Staubpfoten-Farben                 */
 /* ===================================================================== */
 
-/* Gesamter Footerbereich (Navigation + Copyright) */
-.md-footer {
-  background-color: var(--md-primary-fg-color);   /* Marsrot im Hintergrund */
-  color: var(--on-main-strong);                  /* Textfarbe passend zum Schema */
+/* Gesamter Footerbereich (Navigation + Meta) in Marsrot,
+   explizit für beide Farbschemata, damit das Theme uns nicht überstimmt */
+[data-md-color-scheme="default"] .md-footer,
+[data-md-color-scheme="slate"]  .md-footer {
+  background-color: var(--md-primary-fg-color);
+  color: var(--on-main-strong);
 }
 
-/* Links im Footer (inkl. Zurück/Weiter und Impressum/GitHub etc.) */
-.md-footer a {
-  color: var(--on-main-strong);                  /* Links in gleicher Textfarbe */
-  text-decoration: none;                         /* Unterstreichung weg */
+/* Meta-Footer (Impressum, Copyright, soziale Icons) ebenfalls Marsrot */
+[data-md-color-scheme="default"] .md-footer-meta,
+[data-md-color-scheme="slate"]  .md-footer-meta {
+  background-color: var(--md-primary-fg-color);
+  color: var(--on-main-strong);
+}
+
+/* Innerer Bereich des Meta-Footers – gleiche Farbe, damit nichts „absetzt“ */
+[data-md-color-scheme="default"] .md-footer-meta__inner,
+[data-md-color-scheme="slate"]  .md-footer-meta__inner {
+  background-color: var(--md-primary-fg-color);
+}
+
+/* Links im gesamten Footer (inkl. Zurück/Weiter und Impressum/GitHub etc.) */
+[data-md-color-scheme="default"] .md-footer a,
+[data-md-color-scheme="slate"]  .md-footer a {
+  color: var(--on-main-strong);
+  text-decoration: none;
 }
 
 /* Hover-Effekt für alle Footer-Links */
-.md-footer a:hover {
-  color: var(--md-accent-fg-color);              /* beim Hover Kometen-Silber */
+[data-md-color-scheme="default"] .md-footer a:hover,
+[data-md-color-scheme="slate"]  .md-footer a:hover {
+  color: var(--md-accent-fg-color);  /* Kometen-Silber beim Hover */
 }
 
 /* Leichte Trennlinie im Footer innen, damit der Bereich sauber abgeschlossen wirkt */
-.md-footer__inner {
+[data-md-color-scheme="default"] .md-footer__inner,
+[data-md-color-scheme="slate"]  .md-footer__inner {
   border-top: 1px solid var(--md-primary-fg-color--dark);
 }
 
-/* Buttons der Zurück/Weiter-Navigation etwas "buttonartiger" machen */
-.md-footer-nav__button {
-  border-radius: 999px;                          /* Pillenform */
+/* Buttons der Zurück/Weiter-Navigation etwas „buttonartiger“ machen */
+[data-md-color-scheme="default"] .md-footer-nav__button,
+[data-md-color-scheme="slate"]  .md-footer-nav__button {
+  border-radius: 999px;          /* Pillenform */
   padding-inline: 0.8rem;
   padding-block: 0.3rem;
 }
 
 /* Hover-Hintergrund nur um den Button herum leicht abdunkeln */
-.md-footer-nav__button:hover {
+[data-md-color-scheme="default"] .md-footer-nav__button:hover,
+[data-md-color-scheme="slate"]  .md-footer-nav__button:hover {
   background-color: var(--md-primary-fg-color--dark);
 }
 

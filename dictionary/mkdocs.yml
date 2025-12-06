@@ -23,9 +23,12 @@ theme:
   custom_dir: overrides   # NEU: Ordner für Overrides
   language: "de"                               # UI-Sprache Deutsch
 
-  # KEINE Top-Navigation, KEINE Tabs:
-  # Wenn du nur die Seitenleiste links willst, lässt du features leer oder weg.
-  features: []                                 # später kannst du hier bei Bedarf Features ergänzen
+  features:
+    - navigation.footer      # unten auf der Seite: Zurück / Weiter
+    # weitere Features kannst du hier auch eintragen, z.B.:
+    # - navigation.top       # „Nach oben“-Button
+    # - navigation.instant   # schnelles Laden der Seiten
+
 
   # Tastaturkürzel
   shortcuts:

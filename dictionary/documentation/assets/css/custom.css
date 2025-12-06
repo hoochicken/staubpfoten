@@ -1,9 +1,10 @@
-/* Version: 2025-12-06 16:14 Europe/Berlin
+/* Version: 2025-12-06 17:20 Europe/Berlin
    Datei: documentation/assets/css/custom.css
    Zweck:
    - Staubpfoten-Farbtokens (Marsrot & Kometensilber) für Material-Theme
    - Getrennte Werte für helles Schema ("default") und dunkles Schema ("slate")
    - Header/Tabs explizit in Primärfarbe einfärben
+   - Footer (inkl. Zurück/Weiter) an Staubpfoten-Farben anpassen
 */
 
 /* Schriften einbinden (liegt im selben Ordner) */
@@ -79,7 +80,45 @@
 }
 
 /* ===================================================================== */
-/* 3) Debug-Hilfe (nur bei Bedarf aktivieren)                            */
+/* 3) Footer – Hintergrund & Links in Staubpfoten-Farben                 */
+/* ===================================================================== */
+
+/* Gesamter Footerbereich (Navigation + Copyright) */
+.md-footer {
+  background-color: var(--md-primary-fg-color);   /* Marsrot im Hintergrund */
+  color: var(--on-main-strong);                  /* Textfarbe passend zum Schema */
+}
+
+/* Links im Footer (inkl. Zurück/Weiter und Impressum/GitHub etc.) */
+.md-footer a {
+  color: var(--on-main-strong);                  /* Links in gleicher Textfarbe */
+  text-decoration: none;                         /* Unterstreichung weg */
+}
+
+/* Hover-Effekt für alle Footer-Links */
+.md-footer a:hover {
+  color: var(--md-accent-fg-color);              /* beim Hover Kometen-Silber */
+}
+
+/* Leichte Trennlinie im Footer innen, damit der Bereich sauber abgeschlossen wirkt */
+.md-footer__inner {
+  border-top: 1px solid var(--md-primary-fg-color--dark);
+}
+
+/* Buttons der Zurück/Weiter-Navigation etwas "buttonartiger" machen */
+.md-footer-nav__button {
+  border-radius: 999px;                          /* Pillenform */
+  padding-inline: 0.8rem;
+  padding-block: 0.3rem;
+}
+
+/* Hover-Hintergrund nur um den Button herum leicht abdunkeln */
+.md-footer-nav__button:hover {
+  background-color: var(--md-primary-fg-color--dark);
+}
+
+/* ===================================================================== */
+/* 4) Debug-Hilfe (nur bei Bedarf aktivieren)                            */
 /* ===================================================================== */
 /* Wenn du testen willst, ob diese Datei überhaupt geladen wird,
    kannst du die folgende Zeile kurz einkommentieren:

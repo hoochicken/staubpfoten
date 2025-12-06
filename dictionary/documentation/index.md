@@ -4,7 +4,7 @@
 
 Hab Spass auf dem Mars! Erlebe Gefahren und Abenteuer! Und wie weit wirst du gehen, um den Mars und das Marser Volk zu retten?
 
-![Eine Kadettschaft](assets/images/_website/startseite/kadettschaft.png)
+![Eine Kadettschaft](assets/images/_website/startseite/kadettschaft_neu_50.png)
 
 Das Rollenspiel in Stichpunkten erklärt:
 
@@ -14,7 +14,7 @@ Das Rollenspiel in Stichpunkten erklärt:
 4. Du bist zwangsweise Mitglied in der Kadettschaft. Dort sollst du zu einem ordentlichen, wehrfähigen Soldaten erzogen werden.
 5. Irgendwann merkst du, dass das alles irgendwie gar kein Spiel ist. Was wirst du tun?
 
-![Ein typischer Kadett, du?](assets/images/_website/startseite/kadett.png){ style="float:right; width:50%;" } **Besonderheit**: Jeder Charakter hat eine eigene Behinderung oder **Einschränkung** – **körperlich oder geistig**. Dies ist nicht nur ein Merkmal, sondern beeinflusst Spielweise, Entscheidungen und Lösungen.
+![Ein typischer Kadett, du?](assets/images/_website/startseite/kadett_50.png){ style="float:right; width:50%;" } **Besonderheit**: Jeder Charakter hat eine eigene Behinderung oder **Einschränkung** – **körperlich oder geistig**. Dies ist nicht nur ein Merkmal, sondern beeinflusst Spielweise, Entscheidungen und Lösungen.
 
 **Ambience Sound zu Mars, Krieg und Raumschiff**
 
@@ -37,7 +37,7 @@ Es riecht nach Brom. Denn dein Filter ist alt. Du solltest ihn schon länger ers
 >Marser sind Feline mit Fell, Schwarz und Schnurrhaaren.
 >Erlebt ein wundervolles Abenteuer – und macht die Welt ein bisschen besser!
 
-![MZ-Armbinde](assets/images/_website/startseite/armbinde.png){ style="float:right; width:50%;" }
+![MZ-Armbinde](assets/images/_website/startseite/armbinde_50.png){ style="float:right; width:50%;" }
 
 Die Handlung spielt auf dem Mars, in einer nahen Dimension. Du bist ein Feliner, der auf dem Mars lebt; also eine Katze auf zwei Beinen im Schutzanzug.
 
@@ -53,7 +53,7 @@ Nieder mit den KI!
 
 ### 🛸️ Erklärung zum Spielsystem und seiner historischen Einordnung
 
-![MZ-Flagge](assets/images/_website/startseite/flagge.png){ style="float:left;width:50%;margin-right:25px" }Dieses Spielsystem wurde mit einem klaren Ziel entwickelt: Aufklärung durch kritische Auseinandersetzung. Die darin enthaltenen Elemente diktatorischer Systeme – etwa Kontrolle, Propaganda, Gehorsam oder Gewaltmonopol – sollen nicht ästhetisiert oder romantisiert, sondern offengelegt und hinterfragt werden.
+![MZ-Flagge](assets/images/_website/startseite/flagge_50.png){ style="float:left;width:50%;margin-right:25px" }Dieses Spielsystem wurde mit einem klaren Ziel entwickelt: Aufklärung durch kritische Auseinandersetzung. Die darin enthaltenen Elemente diktatorischer Systeme – etwa Kontrolle, Propaganda, Gehorsam oder Gewaltmonopol – sollen nicht ästhetisiert oder romantisiert, sondern offengelegt und hinterfragt werden.
 
 Gerade in Zeiten, in denen demokratische Werte wieder unter Druck geraten, halten wir es für notwendig, auch über spielerische Mechaniken zu vermitteln, wie gefährlich totalitäre Ideologien sind.
 
@@ -107,18 +107,18 @@ So werden **Verantwortung, Mitläufertum, Widerstand und Unrecht** spielerisch e
 
 ## 🌍 Diversität & Inklusion
 
-Dieses Rollenspiel wurde über mehrere Treffen am Rollenspieltreff des Rollenspielvereins Freiburg angeboten. Die Rückmeldung war durchweg positiv.
+Dieses Rollenspiel wurde mehrfach beim Rollenspieltreff des Rollenspielvereins Freiburg angeboten – die Rückmeldungen waren durchweg positiv.
 
-Dieses Rollenspiel ist divers, nicht nur in Bezug auf `[AKTUELL_POLITISCH_KORREKTE_BEZEICHNUNG_FUER_LGBTQIA+]`-Community, sondern vor allem in Bezug auf Inklusion von Behinderten.
+Es legt besonderen Wert auf Vielfalt, sowohl im Hinblick auf queere Identitäten (LGBTQIA+) als auch auf die bewusste Einbeziehung von Menschen mit Behinderungen.
 
-Jeder Charakter hat Behinderungen, Einschränkungen, psychische Probleme - so wie wir alle.
+Im Spiel hat jede Figur eine Form von Behinderung oder Einschränkung – körperlich, sensorisch oder psychisch. Denn Einschränkungen gehören zum Leben vieler Menschen.
 
-Was ist das Schöne daran? Du kannst dir deine Behinderung aussuchen!
+Das Besondere: Du entscheidest selbst, welche Behinderung dein Charakter hat und wie sie sein Leben beeinflusst.
 
-* Nicht-Behinderte: Erfahrungen sammeln. Dass man eben nicht mal jemandem hinterherrufen kann. Weil man eben nicht sprechen kann. Oder dass man nicht mal jemandem Bescheid geben kann, weil man massiv unter sozialen Ängsten leidet.
-* Behinderte: Erfahrungen als Anders-Behinderter sammeln und einfach Spass haben; beobachten wie Nicht-Behinderte plötzlich Erfahrungen mit unpraktischen Einschränkungen sammeln (und hoffentlich mit in ihren Alltag nehmen).
+* Spielende ohne eigene Behinderung können dadurch Erfahrungen sammeln, die einen Perspektivwechsel ermöglichen – zum Beispiel, wie es ist, nicht sprechen zu können oder sich aufgrund sozialer Ängste nicht mitteilen zu können.
+* Spielende mit Behinderung können neue Sichtweisen ausprobieren, unterschiedliche Formen von Behinderung erleben und einfach Spaß haben – während andere erleben, was alltägliche Barrieren bedeuten können.
 
-So fördern wir <strong>Empathie</strong>, <strong>Perspektivwechsel</strong> und <strong>Inklusion</strong> über die rein historische Ebene hinaus.
+So entstehen <strong>Empathie</strong>, <strong>Perspektivwechsel</strong> und <strong>ein Gefühl für Inklusion,</strong> das über reine Information oder historischen Kontext hinausgeht.
 
 
 ## 🎲 Spiel-Erfahrungen

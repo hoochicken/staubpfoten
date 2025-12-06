@@ -1,51 +1,76 @@
+# Version: 2025-12-06 Europe/Berlin
+# Konfiguration für Staubpfoten-Doku (MkDocs + Material)
+
 # Projektinformationen
-site_name: "Staubpfoten"
-site_description: "Das Rollenspiel auf dem Mars"
-site_author: "hoochicken"
-site_url: "http://127.0.0.1:8000"
+site_name: "Staubpfoten"                        # Titel oben links
+site_description: "Das Rollenspiel auf dem Mars"  # Untertitel / Meta
+site_author: "hoochicken"                      # Autor:in / Maintainer
+site_url: "http://127.0.0.1:8000"              # Lokale URL (für GitHub Pages später anpassen)
 copyright: "© 2026 Mareike Riegel <a href='/impressum/'>Impressum und Datenschutz</a>"
 
-# Repository-Infos
-repo_name: "GitHub"
-repo_url: "https://github.com/hoochicken/staubpfoten/dictionary"
-edit_uri: "dictionary/edit/main/documentation"
+# Repository-Infos (GitHub-Button oben rechts)
+repo_name: "hoochicken/staubpfoten"            # Text des GitHub-Links
+repo_url: "https://github.com/hoochicken/staubpfoten"  # Repo-URL
+# Edit-Button: zeigt auf dictionary/documentation/...
+edit_uri: "edit/main/dictionary/documentation/"
 
-# Dokumentationsverzeichnis
+# Dokumentationsverzeichnis relativ zur mkdocs.yml (liegt in dictionary/)
 docs_dir: "documentation"
 
-# Theme
+# Theme (Layout)
 theme:
-  name: "readthedocs"
-  language: "en"
+  name: "material"                             # Material-Theme
+  custom_dir: overrides   # NEU: Ordner für Overrides
+  language: "de"                               # UI-Sprache Deutsch
+
+  # KEINE Top-Navigation, KEINE Tabs:
+  # Wenn du nur die Seitenleiste links willst, lässt du features leer oder weg.
+  features: []                                 # später kannst du hier bei Bedarf Features ergänzen
+
+  # Tastaturkürzel
   shortcuts:
-    help: 191 # ?
-    next: 78 # n
-    previous: 80 # p
-    search: 83 # s
+    help: 191                                  # ? -> Hilfe
+    next: 78                                   # n -> Nächste Seite
+    previous: 80                               # p -> Vorherige Seite
+    search: 83                                 # s -> Suche
+
+  # Farbpaletten (mit Toggle zwischen dunkel/hell)
   palette:
-    scheme: slate
-    toggle:
-      icon: material/brightness-4
-      name: Switch to light mode
-  features:
-    - tabs
+    # Standard: dunkles Design
+    - scheme: slate                         # Dunkles Farbschema
+      primary: custom                       # nutzt eigene Primärfarbe (Marsrot)
+      accent: custom                        # nutzt eigene Akzentfarbe
+      toggle:
+        icon: material/brightness-7         # Sonnensymbol
+        name: "In helles Design wechseln"   # Tooltip / Screenreader-Text
+
+    # Zweite Palette: helles Design
+    - scheme: default                       # Helles Farbschema
+      primary: custom                       # nutzt eigene Primärfarbe (Marsrot)
+      accent: custom                        # nutzt eigene Akzentfarbe
+      toggle:
+        icon: material/brightness-4         # Mondsymbol
+        name: "In dunkles Design wechseln"  # Tooltip / Screenreader-Text
 
 # Plugins
 plugins:
   - search:
-      separator: '[\s\-\.]+'
+      separator: '[\s\-\.]+'                   # Worttrennung für Suche
       lang:
-        - de
+        - de                                   # Suchindex auf Deutsch
 
 # Markdown-Erweiterungen
 markdown_extensions:
-  - markdown_include.include:  # HOE: Markdown-Dateien einfügen
+  - markdown_include.include:                  # Andere .md-Dateien einbinden
       base_path: documentation
-  - attr_list
+  - attr_list                                  # Attribute im Markdown ({ })
+
+# Eigene CSS-Datei
 extra_css:
-  - "assets/css/custom.css"
+  - "assets/css/custom.css"                    # Pfad relativ zu docs_dir
 
 # Navigation
 nav:
   - Startseite: index.md
-  - 🧑‍🚀 Schnellstarter: rules/schnellstarter.md
+  - "🧑‍🚀 Schnellstarter": rules/schnellstarter.md
+

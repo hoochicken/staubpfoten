@@ -1,8 +1,91 @@
-@import 'fonts.css';
+/* Version: 2025-12-06 16:14 Europe/Berlin
+   Datei: documentation/assets/css/custom.css
+   Zweck:
+   - Staubpfoten-Farbtokens (Marsrot & Kometensilber) für Material-Theme
+   - Getrennte Werte für helles Schema ("default") und dunkles Schema ("slate")
+   - Header/Tabs explizit in Primärfarbe einfärben
+*/
 
-.wy-side-nav-search {background:#824f02;}
-.wy-nav-content a {color:#824f02;}
+/* Schriften einbinden (liegt im selben Ordner) */
+@import "fonts.css";  /* lädt deine Schriftdefinitionen, wenn vorhanden */
 
-* {font-family:Inter, Sans-serif;}
-h1, h2, h3, h4, h5 {font-family:Orbitron, Sans-serif;}
-.wy-side-scroll * {font-family:Orbitron, Sans-serif; letter-spacing:1px;}
+/* ===================================================================== */
+/* 0) FARBTOKENS pro Farbschema                                          */
+/* ===================================================================== */
+
+/* Helles Schema ("default") – Hintergrund weiß */
+[data-md-color-scheme="default"] {
+  /* Primärfarbe – Header, aktive Elemente, Links, Buttons */
+  --md-primary-fg-color:        #B04F34;  /* Marsrot */
+
+  /* Varianten – werden vom Theme z.B. für Hover/aktive Zustände genutzt */
+  --md-primary-fg-color--light: #C65B3C;  /* Marsrot hell */
+  --md-primary-fg-color--dark:  #8E3F2A;  /* Marsrot dunkel */
+
+  /* Akzentfarbe – Hover von Links, Slider, einige Buttons */
+  --md-accent-fg-color:         #8F9CA3;  /* Kometen-Silber */
+
+  /* Eigene Hilfsvariable: Textfarbe auf Marsrot-Flächen im hellen Schema */
+  --on-main-strong:             #000000;
+}
+
+/* Dunkles Schema ("slate") – Hintergrund dunkel */
+[data-md-color-scheme="slate"] {
+  /* gleiche Grundfarbe, aber etwas andere Light-Variante für Dark-UI */
+  --md-primary-fg-color:        #B04F34;  /* Marsrot */
+  --md-primary-fg-color--light: #D16651;  /* etwas heller für dunklen Hintergrund */
+  --md-primary-fg-color--dark:  #8E3F2A;  /* Marsrot dunkel */
+
+  /* leicht aufgehelltes Kometen-Silber als Akzent */
+  --md-accent-fg-color:         #B0BEC5;
+
+  /* Eigene Hilfsvariable: Textfarbe auf Marsrot-Flächen im dunklen Schema */
+  --on-main-strong:             #FFFFFF;
+}
+
+/* ===================================================================== */
+/* 1) Header & Tabs explizit in Primärfarbe einfärben                    */
+/* ===================================================================== */
+
+/* Oberer Balken (Header) */
+.md-header {
+  background-color: var(--md-primary-fg-color);  /* nimmt Marsrot aus obigen Tokens */
+}
+
+/* Tabs-Leiste (falls du später navigation.tabs aktivierst) */
+.md-tabs {
+  background-color: var(--md-primary-fg-color);  /* ebenfalls Marsrot */
+}
+
+/* ===================================================================== */
+/* 2) Typografie – Inter für Fließtext, Orbitron für Überschriften       */
+/* ===================================================================== */
+
+/* Grundschrift für Inhalt */
+.md-typeset,
+.md-content {
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+/* Überschriften in Orbitron mit leichtem Letterspacing */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  font-family: Orbitron, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  letter-spacing: 0.03em;
+}
+
+/* ===================================================================== */
+/* 3) Debug-Hilfe (nur bei Bedarf aktivieren)                            */
+/* ===================================================================== */
+/* Wenn du testen willst, ob diese Datei überhaupt geladen wird,
+   kannst du die folgende Zeile kurz einkommentieren:
+
+body {
+  outline: 5px solid red !important;   // dann siehst du einen roten Rahmen
+}
+
+*/

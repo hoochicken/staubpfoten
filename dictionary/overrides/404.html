@@ -1,0 +1,34 @@
+<!-- Version: 2025-12-06 Europe/Berlin
+     Eigene 404-Seite für Staubpfoten -->
+
+{% extends "main.html" %}
+{# Wir benutzen das normale Material-Layout als Basis #}
+
+{% block content %}
+  {# Alles innerhalb dieses Blocks ersetzt den Standardinhalt der 404-Seite #}
+
+  <h1>🚨 Seite nicht gefunden</h1>
+  <!-- Überschrift der Fehlerseite -->
+
+  <p>Die angeforderte Seite existiert nicht oder wurde verschoben.</p>
+  <!-- Kurze Erklärung -->
+
+  <p style="text-align: center;">
+    <!-- Bild wird zentriert angezeigt -->
+    <img
+      src="{{ 'assets/images/_website/404/Fehler 404_ Katze im Schacht.png' | url }}"
+      alt="Katze im Schacht – Fehler 404"
+      style="max-width: 50%; height: auto;"
+    >
+    <!--
+      max-width: 50%   -> Bild nimmt höchstens die Hälfte der verfügbaren Breite ein
+      height: auto;    -> Höhe passt sich proportional an, nichts wird verzerrt
+    -->
+  </p>
+
+  <p>
+    <a href="{{ nav.homepage.url | url }}">Zurück zur Startseite 🏠</a>
+    <!-- Link führt automatisch zur Startseite deiner Doku -->
+  </p>
+
+{% endblock %}

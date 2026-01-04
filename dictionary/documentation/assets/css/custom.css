@@ -1,8 +1,152 @@
-@import 'fonts.css';
+/* Version: 2025-12-06 17:35 Europe/Berlin
+   Datei: documentation/assets/css/custom.css
+   Zweck:
+   - Staubpfoten-Farbtokens (Marsrot & Kometensilber) für Material-Theme
+   - Getrennte Werte für helles Schema ("default") und dunkles Schema ("slate")
+   - Header/Tabs explizit in Primärfarbe einfärben
+   - Footer (inkl. Zurück/Weiter + Impressum/Copyright) in Marsrot, auch im Dark-Mode
+*/
 
-.wy-side-nav-search {background:#824f02;}
-.wy-nav-content a {color:#824f02;}
+/* Schriften einbinden (liegt im selben Ordner) */
+@import "fonts.css";  /* lädt deine Schriftdefinitionen, wenn vorhanden */
 
-* {font-family:Inter, Sans-serif;}
-h1, h2, h3, h4, h5 {font-family:Orbitron, Sans-serif;}
-.wy-side-scroll * {font-family:Orbitron, Sans-serif; letter-spacing:1px;}
+/* ===================================================================== */
+/* 0) FARBTOKENS pro Farbschema                                          */
+/* ===================================================================== */
+
+/* Helles Schema ("default") – Hintergrund weiß */
+[data-md-color-scheme="default"] {
+  /* Primärfarbe – Header, aktive Elemente, Links, Buttons */
+  --md-primary-fg-color:        #B04F34;  /* Marsrot */
+
+  /* Varianten – werden vom Theme z.B. für Hover/aktive Zustände genutzt */
+  --md-primary-fg-color--light: #C65B3C;  /* Marsrot hell */
+  --md-primary-fg-color--dark:  #8E3F2A;  /* Marsrot dunkel */
+
+  /* Akzentfarbe – Hover von Links, Slider, einige Buttons */
+  --md-accent-fg-color:         #8F9CA3;  /* Kometen-Silber */
+
+  /* Eigene Hilfsvariable: Textfarbe auf Marsrot-Flächen im hellen Schema */
+  --on-main-strong:             #000000;
+}
+
+/* Dunkles Schema ("slate") – Hintergrund dunkel */
+[data-md-color-scheme="slate"] {
+  /* gleiche Grundfarbe, aber etwas andere Light-Variante für Dark-UI */
+  --md-primary-fg-color:        #B04F34;  /* Marsrot */
+  --md-primary-fg-color--light: #D16651;  /* etwas heller für dunklen Hintergrund */
+  --md-primary-fg-color--dark:  #8E3F2A;  /* Marsrot dunkel */
+
+  /* leicht aufgehelltes Kometen-Silber als Akzent */
+  --md-accent-fg-color:         #B0BEC5;
+
+  /* Eigene Hilfsvariable: Textfarbe auf Marsrot-Flächen im dunklen Schema */
+  --on-main-strong:             #FFFFFF;
+}
+
+/* ===================================================================== */
+/* 1) Header & Tabs explizit in Primärfarbe einfärben                    */
+/* ===================================================================== */
+
+/* Oberer Balken (Header) – in beiden Schemen Marsrot */
+[data-md-color-scheme="default"] .md-header,
+[data-md-color-scheme="slate"]  .md-header {
+  background-color: var(--md-primary-fg-color);
+}
+
+/* Tabs-Leiste (falls du später navigation.tabs aktivierst) */
+[data-md-color-scheme="default"] .md-tabs,
+[data-md-color-scheme="slate"]  .md-tabs {
+  background-color: var(--md-primary-fg-color);
+}
+
+/* ===================================================================== */
+/* 2) Typografie – Inter für Fließtext, Orbitron für Überschriften       */
+/* ===================================================================== */
+
+/* Grundschrift für Inhalt */
+.md-typeset,
+.md-content {
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+/* Überschriften in Orbitron mit leichtem Letterspacing */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  font-family: Orbitron, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  letter-spacing: 0.03em;
+}
+
+/* ===================================================================== */
+/* 3) Footer – Hintergrund & Links in Staubpfoten-Farben                 */
+/* ===================================================================== */
+
+/* Gesamter Footerbereich (Navigation + Meta) in Marsrot,
+   explizit für beide Farbschemata, damit das Theme uns nicht überstimmt */
+[data-md-color-scheme="default"] .md-footer,
+[data-md-color-scheme="slate"]  .md-footer {
+  background-color: var(--md-primary-fg-color);
+  color: var(--on-main-strong);
+}
+
+/* Meta-Footer (Impressum, Copyright, soziale Icons) ebenfalls Marsrot */
+[data-md-color-scheme="default"] .md-footer-meta,
+[data-md-color-scheme="slate"]  .md-footer-meta {
+  background-color: var(--md-primary-fg-color);
+  color: var(--on-main-strong);
+}
+
+/* Innerer Bereich des Meta-Footers – gleiche Farbe, damit nichts „absetzt“ */
+[data-md-color-scheme="default"] .md-footer-meta__inner,
+[data-md-color-scheme="slate"]  .md-footer-meta__inner {
+  background-color: var(--md-primary-fg-color);
+}
+
+/* Links im gesamten Footer (inkl. Zurück/Weiter und Impressum/GitHub etc.) */
+[data-md-color-scheme="default"] .md-footer a,
+[data-md-color-scheme="slate"]  .md-footer a {
+  color: var(--on-main-strong);
+  text-decoration: none;
+}
+
+/* Hover-Effekt für alle Footer-Links */
+[data-md-color-scheme="default"] .md-footer a:hover,
+[data-md-color-scheme="slate"]  .md-footer a:hover {
+  color: var(--md-accent-fg-color);  /* Kometen-Silber beim Hover */
+}
+
+/* Leichte Trennlinie im Footer innen, damit der Bereich sauber abgeschlossen wirkt */
+[data-md-color-scheme="default"] .md-footer__inner,
+[data-md-color-scheme="slate"]  .md-footer__inner {
+  border-top: 1px solid var(--md-primary-fg-color--dark);
+}
+
+/* Buttons der Zurück/Weiter-Navigation etwas „buttonartiger“ machen */
+[data-md-color-scheme="default"] .md-footer-nav__button,
+[data-md-color-scheme="slate"]  .md-footer-nav__button {
+  border-radius: 999px;          /* Pillenform */
+  padding-inline: 0.8rem;
+  padding-block: 0.3rem;
+}
+
+/* Hover-Hintergrund nur um den Button herum leicht abdunkeln */
+[data-md-color-scheme="default"] .md-footer-nav__button:hover,
+[data-md-color-scheme="slate"]  .md-footer-nav__button:hover {
+  background-color: var(--md-primary-fg-color--dark);
+}
+
+/* ===================================================================== */
+/* 4) Debug-Hilfe (nur bei Bedarf aktivieren)                            */
+/* ===================================================================== */
+/* Wenn du testen willst, ob diese Datei überhaupt geladen wird,
+   kannst du die folgende Zeile kurz einkommentieren:
+
+body {
+  outline: 5px solid red !important;   // dann siehst du einen roten Rahmen
+}
+
+*/

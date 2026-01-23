@@ -1,3 +1,11 @@
+@import 'fonts.css';
+
+.wy-side-nav-search {background:#824f02;}
+.wy-nav-content a {color:#824f02;}
+
+* {font-family:Inter, Sans-serif;}
+h1, h2, h3, h4, h5 {font-family:Orbitron, Sans-serif;}
+.wy-side-scroll * {font-family:Orbitron, Sans-serif; letter-spacing:1px;}
 /* Version: 2025-12-06 16:14 Europe/Berlin
    Datei: documentation/assets/css/custom.css
    Zweck:

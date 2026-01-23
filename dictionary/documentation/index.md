@@ -134,7 +134,7 @@ Hier einige Reaktionen und Situationen, die sich am Spieltisch ergeben haben:
 
 ## 📌 Fazit
 
-Wir verstehen unser Spiel als **Beitrag zur politischen Bildung**, zur **Stärkung demokratischer Werte** und zur **Wachsamkeit gegenüber ideologischer Verführung.
+Wir verstehen unser Spiel als **Beitrag zur politischen Bildung**, zur **Stärkung demokratischer Werte** und zur **Wachsamkeit** gegenüber ideologischer Verführung.
 
 <div class="textbox">
   <strong>❗ Nie wieder </strong> ist kein leeres Wort ❗

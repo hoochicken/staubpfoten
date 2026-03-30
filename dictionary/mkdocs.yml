@@ -74,7 +74,11 @@ extra_css:
 # Navigation
 nav:
   - Startseite: index.md
-  - "🧑‍🚀 Schnellstarter": rules/schnellstarter.md
+  - "🧑‍🚀 Regeln":
+    - "Das ist Rollenspiel": rules/rollenspiel.md
+    - Charaktererstellung: rules/charaktererstellung.md
+    - Charakterbögen: rules/charakterboegen.md
+    - Regeln: rules/regeln.md
   - Archiv:
     - "🧑‍🚀 Schnellstarter": _archive-ichbinnand/rules/schnellstarter.md
 

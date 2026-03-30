@@ -132,6 +132,17 @@ Hier einige Reaktionen und Situationen, die sich am Spieltisch ergeben haben:
 * Ganz süss, zwei Spieler*innen (mit Behinderungen) waren entzückt: "Schau mal, wir können uns unsere Behinderungen aussuchen!!"
 * Erfahrungen im Mitläufertum: hilflose und schliesslich plasmierte KI; aus purem Eigennutz vernichtet (da war selbst ich als Meister baff). Empörung der Mitstreiterin: "Wir gründen eine Weisse Rose" (zur Rettung der KI)
 
+## Zum Geleit
+
+**Aufklärung**: Dieses Spielsystem wurde mit einem klaren Ziel entwickelt: Aufklärung durch kritische Auseinandersetzung. Die darin enthaltenen Elemente diktatorischer Systeme – etwa Kontrolle, Propaganda, Gehorsam oder Gewaltmonopol – sollen nicht ästhetisiert oder romantisiert, sondern offengelegt und hinterfragt werden.
+Unser Spielsystem verherrlicht in keiner Weise die Greueltaten oder Ideologien des Dritten Reichs. Im Gegenteil: Wir verfolgen mit diesem Spiel einen klar aufklärerischen Ansatz. Ziel ist es, insbesondere jungen Menschen auf eindringliche Weise bewusst zu machen, wie gefährlich diktatorische Systeme wie jenes des Nationalsozialismus sein können.
+
+**Aufarbeitung**: In jeder Spielrunde, die wir betreuten, kam irgendwann ein Bruch. Die Spieler berichteten vom Dritten Reich, den Kontakt von Verwandten mit dieser Zeit, die Aufklärung darüber in der Schule etc. Diesen Effekt bringt dieses Rollenspiel automatisch mit sich und ist beabsichtigt.
+Ergänzend dazu: Der besondere Wert unseres Ansatzes liegt in der Verbindung von spielerischem Zugang und historischer Sensibilisierung. Diese Herangehensweise hat viele Teilnehmer beeindruckt: Dies macht Geschichte erlebbar, ohne sie zu trivialisieren.
+
+**Charaktere mit Einschränkungen … sind gefährdet**: Den vorangegangenen Abschnitt zu Einschränkungen eingedenk: die Kadettschaft ist für junge, gesunde Marser. Da passt der Charakter natürlich mit seinem „minderwertigen“ genetischen Material nicht rein.
+Entsprechend wird der Charakter (und mittelbar der Spieler) mit anfeindender Propaganda konfrontiert. Mit „netten“ Kameraden, keinerlei Verständnis für andere Möchtegern-Kadetten haben, die nichts taugen.
+
 ## 📌 Fazit
 
 Wir verstehen unser Spiel als **Beitrag zur politischen Bildung**, zur **Stärkung demokratischer Werte** und zur **Wachsamkeit** gegenüber ideologischer Verführung.

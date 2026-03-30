@@ -17,11 +17,19 @@
          <lastmod>2026-03-30</lastmod>
     </url>
     <url>
+         <loc>http://127.0.0.1:8000/05-rules/quellen/</loc>
+         <lastmod>2026-03-30</lastmod>
+    </url>
+    <url>
          <loc>http://127.0.0.1:8000/05-rules/regeln/</loc>
          <lastmod>2026-03-30</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/05-rules/rollenspiel/</loc>
+         <lastmod>2026-03-30</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/05-rules/quellen/mars-hymne-rot-gruen-blau/</loc>
          <lastmod>2026-03-30</lastmod>
     </url>
     <url>
@@ -314,10 +322,6 @@
     </url>
     <url>
          <loc>http://127.0.0.1:8000/_archive-ichbinnand/welt/karten/wehrerziehungslager-und-alter-raumhafen/</loc>
-         <lastmod>2026-03-30</lastmod>
-    </url>
-    <url>
-         <loc>http://127.0.0.1:8000/quellen/mars-hymne-rot-gruen-blau/</loc>
          <lastmod>2026-03-30</lastmod>
     </url>
 </urlset>

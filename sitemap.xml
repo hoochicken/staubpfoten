@@ -9,6 +9,22 @@
          <lastmod>2026-03-30</lastmod>
     </url>
     <url>
+         <loc>http://127.0.0.1:8000/05-rules/charakterboegen/</loc>
+         <lastmod>2026-03-30</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/05-rules/charaktererstellung/</loc>
+         <lastmod>2026-03-30</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/05-rules/regeln/</loc>
+         <lastmod>2026-03-30</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/05-rules/rollenspiel/</loc>
+         <lastmod>2026-03-30</lastmod>
+    </url>
+    <url>
          <loc>http://127.0.0.1:8000/_archive-ichbinnand/</loc>
          <lastmod>2026-03-30</lastmod>
     </url>
@@ -229,10 +245,6 @@
          <lastmod>2026-03-30</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/_archive-ichbinnand/rules/materiallisten/</loc>
-         <lastmod>2026-03-30</lastmod>
-    </url>
-    <url>
          <loc>http://127.0.0.1:8000/_archive-ichbinnand/rules/regeln/</loc>
          <lastmod>2026-03-30</lastmod>
     </url>
@@ -306,10 +318,6 @@
     </url>
     <url>
          <loc>http://127.0.0.1:8000/quellen/mars-hymne-rot-gruen-blau/</loc>
-         <lastmod>2026-03-30</lastmod>
-    </url>
-    <url>
-         <loc>http://127.0.0.1:8000/rules/schnellstarter/</loc>
          <lastmod>2026-03-30</lastmod>
     </url>
 </urlset>

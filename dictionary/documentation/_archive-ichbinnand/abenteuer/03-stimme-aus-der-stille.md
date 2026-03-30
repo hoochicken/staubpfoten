@@ -53,18 +53,18 @@
 
 ### Bromsal und Umgebung
 
-{% include-markdown "../welt/karten/bromsal-und-umgebung.md" %}
+{% include-markdown "../_archive-ichbinnand/welt/karten/bromsal-und-umgebung.md" %}
 
 ### Wehrerziehungslager und Umgebung
 
-{% include-markdown "../welt/karten/wehr-erziehungs-lager-und-umgebung.md" %}
+{% include-markdown "../_archive-ichbinnand/welt/karten/wehr-erziehungs-lager-und-umgebung.md" %}
 
 ### Wehrerziehungslager und Alter Raumhafen
 
-{% include-markdown "../welt/karten/wehrerziehungslager-und-alter-raumhafen.md" %}
+{% include-markdown "../_archive-ichbinnand/welt/karten/wehrerziehungslager-und-alter-raumhafen.md" %}
 
 ### Brumsenbau im Schachtelhalmwald
 
-{% include-markdown "../welt/karten/brumsenbau-im-schachtelhalmwald.md" %}
+{% include-markdown "../_archive-ichbinnand/welt/karten/brumsenbau-im-schachtelhalmwald.md" %}
 
 > Aus dem Off: Meine Gruppe hat vorgezogen, statt die KI zu retten, diese auszurauben und danach auszubomben. Tja, da geht sie hin, die Menschlichkeit ... Rechne also mit allem!

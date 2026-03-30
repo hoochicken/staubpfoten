@@ -78,7 +78,7 @@ extra_css:
 # Navigation
 nav:
   - Startseite: index.md
-  - archive:
+  - Archiv:
     - "🧑‍🚀 Schnellstarter": _archive-ichbinnand/rules/schnellstarter.md
 
     - "🧑‍🚀 Regeln":

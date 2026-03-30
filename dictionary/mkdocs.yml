@@ -72,5 +72,58 @@ extra_css:
 # Navigation
 nav:
   - Startseite: index.md
-  - "🧑‍🚀 Schnellstarter": rules/schnellstarter.md
+  - archive:
+    - "🧑‍🚀 Schnellstarter": _archive-ichbinnand/rules/schnellstarter.md
 
+    - "🧑‍🚀 Regeln":
+      - Charaktererstellung: _archive-ichbinnand/rules/charaktererstellung.md
+      - Charakterbögen: _archive-ichbinnand/rules/charakterboegen.md
+      - Regeln: _archive-ichbinnand/rules/regeln.md
+
+    - "🪖 Kadettschaft":
+      - Allgemeine Infos: _archive-ichbinnand/kadettschaft/allgemein.md
+      - Rangabzeichen: _archive-ichbinnand/kadettschaft/rangabzeichen.md
+
+    - "🌍 Welt":
+      - Geograhie:
+        - Mars: _archive-ichbinnand/welt/mars.md
+        - Bromsal: _archive-ichbinnand/welt/bromsal.md
+        - Zeitlinien: _archive-ichbinnand/welt/timeline.md
+        - Sonnensystem: _archive-ichbinnand/welt/sonnensystem.md
+        - Quantenraum: _archive-ichbinnand/welt/quantenraum.md
+        - Karten: _archive-ichbinnand/welt/karten.md
+      - "👽 Kräfte & Völker":
+          - Völkerübersicht: _archive-ichbinnand/kraefte/voelker.md
+          - KI: _archive-ichbinnand/kraefte/ki.md
+          - AKI: _archive-ichbinnand/kraefte/aki.md
+          - Brom: _archive-ichbinnand/kraefte/brom.md
+          - Gott: _archive-ichbinnand/kraefte/gott.md
+          - Raummolche: _archive-ichbinnand/kraefte/raummolche.md
+      - "🛠️ Ausrüstung":
+        - Übersicht: _archive-ichbinnand/ausruestung/index.md
+        - Geraffel: _archive-ichbinnand/ausruestung/geraffel.md
+        - Anzüge: _archive-ichbinnand/ausruestung/anzuege.md
+        - Helme: _archive-ichbinnand/ausruestung/helme.md
+        - Leichtatmer & Handschuhe: _archive-ichbinnand/ausruestung/leichtatmer-und-handschuhe.md
+      - "⚙️ Technik":
+          - "Kommunikation & Medizin":
+            - Kommunikation: _archive-ichbinnand/technik/kommunikation.md
+            - Medizin: _archive-ichbinnand/technik/medizin.md
+          - "Fahrzeuge & Waffen":
+            - Vehikel: _archive-ichbinnand/technik/vehikel.md
+            - Waffen:
+              - Granaten: _archive-ichbinnand/technik/waffen/granaten.md
+      - "🧑‍🌾 Kultur & Alltag":
+        - Marser: _archive-ichbinnand/kultur/marser.md
+        - Hobbys: _archive-ichbinnand/kultur/hobbys.md
+        - Kommunikation: _archive-ichbinnand/kultur/kommunikation.md
+
+    - "🎲 Abenteuer":
+      - Hauptkampagne:
+        - Wehrerziehungslager: _archive-ichbinnand/abenteuer/01-wehrerziehungslager.md
+        - Der erste Auftrag: _archive-ichbinnand/abenteuer/02-erster-auftrag.md
+        - Stimme aus der Stille: _archive-ichbinnand/abenteuer/03-stimme-aus-der-stille.md
+      - Solo-RPG:
+        - Mini-RPG: _archive-ichbinnand/abenteuer/99-mini-rpg.md
+      - NPC-Datenbank:
+        - Wehrerziehungslager: _archive-ichbinnand/npc/wehrerziehungslager.md

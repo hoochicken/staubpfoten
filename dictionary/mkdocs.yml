@@ -26,10 +26,6 @@ theme:
   # KEINE Top-Navigation, KEINE Tabs:
   # Wenn du nur die Seitenleiste links willst, lässt du features leer oder weg.
   features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.indexes
-    - navigation.footer
     - content.code.copy
     - content.code.annotate
 
@@ -78,6 +74,7 @@ extra_css:
 # Navigation
 nav:
   - Startseite: index.md
+  - "🧑‍🚀 Schnellstarter": rules/schnellstarter.md
   - Archiv:
     - "🧑‍🚀 Schnellstarter": _archive-ichbinnand/rules/schnellstarter.md
 

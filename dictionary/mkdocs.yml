@@ -25,7 +25,13 @@ theme:
 
   # KEINE Top-Navigation, KEINE Tabs:
   # Wenn du nur die Seitenleiste links willst, lässt du features leer oder weg.
-  features: []                                 # später kannst du hier bei Bedarf Features ergänzen
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.footer
+    - content.code.copy
+    - content.code.annotate
 
   # Tastaturkürzel
   shortcuts:

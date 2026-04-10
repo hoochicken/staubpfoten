@@ -69,7 +69,10 @@ markdown_extensions:
 
 # Eigene CSS-Datei
 extra_css:
-  - "assets/css/custom.css"                    # Pfad relativ zu docs_dir
+  - "assets/css/custom.css"                    # Pfad relativ zu docs_dir                              # Attribute im Markdown ({ })
+
+extra_files:
+  - CNAME
 
 # Navigation
 nav:

@@ -140,7 +140,7 @@ Statt zu wählen kannst du auch einfach mit 2 W6 würfeln. Ggf. musst du ein bis
 | Stauballergie          | Husten, Niesen, gereizte Augen                                         |
 | Schwache Orientierung  | Verläuft sich leicht in unbekannten Umgebungen                         |
 
-## ⚠️⚠️ Mittlere Einschr. (2 Pkt)
+## ⚠️ Mittlere Einschr. (2 Pkt)
 
 (Haben klar spürbare Auswirkungen, aber noch mit Mühe ausgleichbar)
 
@@ -160,7 +160,7 @@ Statt zu wählen kannst du auch einfach mit 2 W6 würfeln. Ggf. musst du ein bis
 | Angst vor Dunkelheit   | Panik oder starke Angst in dunklen Umgebungen                           |
 | Entwicklungsverzögert  | Versteht vieles langsamer, braucht Hilfe                                |
 
-### ⚠️⚠️⚠️ Grosse Einschr. (3 Pkt)
+### ⚠️️ Grosse Einschr. (3 Pkt)
 
 (Massiv einschränkend, dominanter Teil der Figur)
 

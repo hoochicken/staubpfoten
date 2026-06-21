@@ -42,11 +42,11 @@ Marser sind daher auch gut im Kopfrechnen, weil die Zahlen geordnet sind.
 
 ### Brumsen
 
-![brumsen-01.png](../_images/fauna/brumsen-08.png)
+![_images/fauna/brumsen-01.png](_images/fauna/brumsen-08.png)
 
 ### Plötzen
 
-![ploetzen-01.png](../_images/fauna/ploetzen-01.png)
+![_images/fauna/ploetzen-01.png](_images/fauna/ploetzen-01.png)
 
 ### Flittermolche
 

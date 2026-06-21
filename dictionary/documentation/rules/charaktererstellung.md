@@ -113,16 +113,16 @@ Du kannst zwischen drei und max. fünf Fähigkeiten für deinen Charakter selbst
 
 ## Negative Eigenschaften – ggf. würfeln
 
-Suche dir mindestens 3 Behinderungen in derselben Wertigkeit aus, wie Du gute Eigenschaften hast.
+Suche dir mindestens 3 Einschränkungen in derselben Wertigkeit aus, wie Du gute Eigenschaften hast.
 
 **Beispiel**: Dein Charakter hat Fahrzeugsteuerung (3), Signalgeber (2) und Lautlos bewegen (2) => also insgesamt gute
 Eigenschaften mit einer Wertigkeit von 3+2+2 = 7
 
 Also wählst du Schwache Nachtsicht (1), Blind auf einem Auge und Lichtempfindlichkeit (3) und Künstliches Bein (3), also 1+3+3 = 7
 
-Statt zu wählen kannst du auch einfach mit 2 W6 würfeln. Ggf. musst du ein bisschen anpassen, weil ich manche guten Eigenschaften und Behinderungen einander ausschliessn, z. B.Lautlos bewegen und Lärmverursacher.
+Statt zu wählen kannst du auch einfach mit 2 W6 würfeln. Ggf. musst du ein bisschen anpassen, weil ich manche guten Eigenschaften und Einschränkungen einander ausschliessn, z. B.Lautlos bewegen und Lärmverursacher.
 
-### ⚠️ Kleine Behinderungen (1 Punkt)
+### ⚠️ Kleine Einschränkungen (1 Punkt)
 
 (Leicht störend, situationsabhängig)
 
@@ -160,7 +160,7 @@ Statt zu wählen kannst du auch einfach mit 2 W6 würfeln. Ggf. musst du ein bis
 | Angst vor Dunkelheit   | Panik oder starke Angst in dunklen Umgebungen                           |
 | Entwicklungsverzögert  | Versteht vieles langsamer, braucht Hilfe                                |
 
-### ⚠️⚠️⚠️ Grosse Behinderungen (3 Punkte)
+### ⚠️⚠️⚠️ Grosse Einschränkungen (3 Punkte)
 
 (Massiv einschränkend, dominanter Teil der Figur)
 
@@ -187,4 +187,4 @@ Nach jedem Abenteuer darfst du:
 * einen zusätzlichen Punkt auf deine Eigenschaften vergeben; also z. B: KLugheit oder INtuition steigern
 * zusätzliche positive Eigenschaft
 
-Info: eine zusätzlich Behinderung musst du dir nicht auswählen. Das anfängliche Set-up ust genug. Natürlich kannst du dich **freiwillig** für ein weiteres Manko entscheiden. Tipp: bbringe dies in Bezug zum Abenteuer, also z. B. eine klaustrophobische Störung, weil du im letzten Abenteuer in einer klaustrophoibischen Situation warst.
+Info: eine zusätzlich Einschränkung musst du dir nicht auswählen. Das anfängliche Set-up ust genug. Natürlich kannst du dich **freiwillig** für ein weiteres Manko entscheiden. Tipp: bbringe dies in Bezug zum Abenteuer, also z. B. eine klaustrophobische Störung, weil du im letzten Abenteuer in einer klaustrophoibischen Situation warst.

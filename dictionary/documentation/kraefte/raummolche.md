@@ -2,7 +2,7 @@
 
 "Inzwischen glauben wir zu wissen, dass die Raummolche über einen Riss im Raum-Zeit-Kontinuum in unsere Dimension geraten sind."
 
-![image](../_images/skizzen/raummolch-3.jpg)
+![image](_images/species/raummolch-3.jpg)
 
 ## Definition
 
@@ -19,7 +19,7 @@ Da man sich nicht mit ihnen verständigen kann, erscheinen sie als gedankenlose 
 
 **Gelege** bezeichnet eine Traube an Eiern. Das Gelege ist hell und biofluoreszierend und wird als Brut nicht wahrgenomnen. Im Volksmund wird es schlicht bis bewundernd als Leuchtglobus bezeichnet.
 
-![image](../_images/skizzen/raummolch-2.jpg)
+![image](_images/species/raummolch-2.jpg)
 
 **Nymphe** ist die kiemenlose Vorform, ein Sandwurm.
 
@@ -37,7 +37,7 @@ Da man sich nicht mit ihnen verständigen kann, erscheinen sie als gedankenlose 
 * Ferien mit der Familie an der Raumstation
 * Ramolche umschwäremen Nand wg. des Splitters Gottes, Nand denkt, es wären seine Brometten, aber es sind mehr als "normal"
 
-![image](../_images/skizzen/raummolch.jpg)
+![image](_images/species/raummolch.jpg)
 
 ## Fragen
 

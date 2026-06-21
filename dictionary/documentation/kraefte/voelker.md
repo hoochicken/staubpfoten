@@ -33,7 +33,7 @@ Das Grosse Schyff hat auch die KI mit auf den Mars gebracht.
 – Besonderheit: Nach Neith-Unfall (1990) erhalten sie „Gabe der Gegenwartsbrechung“
 – Sprache/Namensmuster: Polnisch – z. B. Kfyloon
 
-![Autonome KI](../_images/skizzen/dreifinger.jpg)Die sogenannten Dreifinger stammen vom terranen Mond her. Sie sind
+![Autonome KI](_images/species/dreifinger.jpg)Die sogenannten Dreifinger stammen vom terranen Mond her. Sie sind
 schlank, haben einen kreisrunden Mund und erwartungsgemäss drei Finger.
 
 Dreifinger sind von Natur aus freundlich und lieben philosophische Diskussionen. Ausserdem sind sie grundsätzlich zur
@@ -64,7 +64,7 @@ Entspricht Brittanien.
 – Schicksal: Heimatplanet durch UW-Bombe 2045 zerstört
 – Sprache/Namensmuster: Japanisch – z. B. Shokushu, Yamakawa, Myu
 
-![image](../_images/skizzen/vielarm.jpg)Entspricht Japan.
+![image](_images/species/vielarm.jpg)Entspricht Japan.
 
 ## Titanen, Titan
 
@@ -73,7 +73,7 @@ Entspricht Brittanien.
 – Gesellschaft: Wenig bekannt, vermutlich zurückgezogen
 – Sprache/Namensmuster: Russisch – z. B. Zaphod, Igor, Ivanna, Larissa
 
-![image](../_images/skizzen/titanen.jpg)Grosse, eindrucksvoll geflügelte Wesen. Man könnte sie für Engel halten, hätten
+![image](_images/species/titanen.jpg)Grosse, eindrucksvoll geflügelte Wesen. Man könnte sie für Engel halten, hätten
 sie nicht diesen grossen kräftigen Schnabel.
 
 ## Barben, Neith
@@ -84,7 +84,7 @@ sie nicht diesen grossen kräftigen Schnabel.
 – Rolle: Kriegstreiber, Besiedler von Neith und Mars
 – Sprache/Namensmuster: Französisch – z. B. Julbert („Schülbär“), Claudette
 
-![image](../_images/skizzen/barben.jpg)![image](../_images/skizzen/barben2.jpg)Die Barben leben auf dem künstlich
+![image](_images/species/barben.jpg)![image](_images/species/barben2.jpg)Die Barben leben auf dem künstlich
 geschaffenen venaren Mond Neith. Sie sind grandiose Biohacker, die Pflanzen zu allem Möglichen umbauen.
 
 Wo man auf dem Mars einen elektronischen Allempfänger erwarten würde, findet man bei drn Barben eine umstrukturierte

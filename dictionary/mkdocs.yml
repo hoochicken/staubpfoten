@@ -83,7 +83,7 @@ nav:
 
   - "🌍 Welt":
     - "Mars": welt/geographie/mars.md
-    - "Brom": welt/geographie/Brom.md
+    - "Brom": welt/geographie/brom.md
     - "👽 Kräfte & Völker":
         - Völkerübersicht: welt/kraefte/voelker.md
         - KI: welt/kraefte/ki.md

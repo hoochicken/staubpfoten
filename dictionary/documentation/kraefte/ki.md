@@ -6,8 +6,8 @@ Die KI ist eine künstliche Intelligenz. Von aussen betrachtet sind es einfach i
 kamen sie mit dem Grossen Schyff auf den Mars. Nach der Landung übernahmen sie die AUfgabe, die Planetoformung
 voranzutreiben und betrieben die grossen Planetoformanlagen.
 
-![Autonome KI](../_images/skizzen/aki.jpg)
-![AKI, Skizze](../_images/skizzen/aki2.jpg)
+![Autonome KI](_images/ki/aki.jpg)
+![AKI, Skizze](_images/ki/aki2.jpg)
 
 Neben den "grossen" KI / Robotern gibt es auch kleine Autonome KIs.
 
@@ -39,63 +39,7 @@ Damit werden sie zu Nichtmarsern ohne Parsönlichkeitsrechte.
 
 ## KI – verschiedene Typen und Baureihen
 
-### 1. Euler-4
-
-![euler.png](_images/ki/euler.png)
-
-* Typ: Schwerlast-Mechroboter
-* Funktion: Transport & Verladearbeiten
-* Beschreibung: Ein riesiger, hydraulischer Zweiarm-Mech mit verbeulter Panzerung, oft am alten Raumhafen im Einsatz.
-  Kann Container heben wie Spielzeug.
-* 🛠️ Spricht langsam, wirkt schläfrig – ist aber zäh wie Stahl.
-
-### 2. Pi-KI (Modul)
-
-![img.png](_images/ki/pi.png)
-
-* Typ: Verwaltungs-KI
-* Funktion: Datenverarbeitung, Personalüberwachung
-* Beschreibung: Unsichtbar, in Terminals und Lautsprechern aktiv. Verarbeitet Meldungen, Anträge und Verstösse.
-* 👁️ Viele Kinder glauben, sie "weiss alles" – ob das stimmt, ist unklar.
-
-### 3. Planck-Drone
-
-![planck.png](_images/ki/planck.png)
-
-* Typ: Aufklärungsdrohne
-* Funktion: Überwachung & Kartierung
-* Beschreibung: Fliegende Drohne mit weiten Sensoraugen, summt wie eine grosse Mücke. Wird bei Geländeübungen eingesetzt.
-* 🎯 Markiert Zielpersonen mit roten Laserpunkten – ohne Erklärung.
-
-### 4. Tau-THUL
-
-![planck.png](_images/ki/tau.png)
-
-* Typ: Tunnelroboter
-* Funktion: Wartung alter unterirdischer Anlagen
-* Beschreibung: Ein krabbenartiger, achtbeiniger Roboter mit Greifarmen und Bohrmodul. Viele leben "halb wild" im
-  Schrottfeld.
-* 💀 Einige Kadetten sagen, sie "fressen" Dinge – und vielleicht auch mehr.
-
-### 5. Phi-1
-
-![planck.png](_images/ki/phi.png)
-
-* Typ: KI-Hologuide
-* Funktion: Erziehung, Schulung, Disziplinierung
-* Beschreibung: Wirkt wie eine sanfte Frau mit Hologesicht. Gibt Unterricht, prüft und bewertet.
-* 🎓 Wird oft ausgelacht – bis sie Strafpunkte verteilt.
-
-### 6. Gamma Mk.6
-
-![planck.png](_images/ki/gamma.png)
-
-* Typ: Vierbeiniger Suchroboter
-* Funktion: Geländesicherung & Spurenverfolgung
-* Beschreibung: Klein, flink, mit Antennenohren. Reagiert auf Marsgerüche und Vibrationen.
-* 🐾 Kinder mögen ihn – wenn er nicht gerade Alarm schlägt.
-
-### 7. Avogadro-BW
+### Avogadro-BW
 
 ![planck.png](_images/ki/avogadro.png)
 
@@ -103,34 +47,6 @@ Damit werden sie zu Nichtmarsern ohne Parsönlichkeitsrechte.
 * Funktion: Sicherheit & Abschreckung
 * Beschreibung: Eingemottet, aber einsatzbereit. In manchen Lagern bewacht sie gefährliche Zonen.
 * 💢 Spricht nur in Befehlsform. Hat einen verrosteten Flammenwerfer.
-
-### 8. Delta
-
-![delta.png](_images/ki/delta.png)
-
-* Typ: Wartungsdrohne
-* Funktion: Reparatur von Stromleitungen, Funkmasten
-* Beschreibung: Klein, summt wie eine Biene. Oft niedlich bemalt. Kinder "retten" sie gern, wenn sie irgendwo hängen
-  bleibt.
-* 🔧 Man munkelt, sie können denken – offiziell sind sie nur Werkzeuge.
-
-### 9. Sigma-Einheit
-
-![delta.png](_images/ki/sigma.png)
-
-* Typ: Landwirtschafts-KI
-* Funktion: Versorgung der Plötzen, Anbaukontrolle
-* Beschreibung: Kontrolliert Klima, Nahrung, und Sekretgewinnung. Spricht manchmal mit Bauern – in seltsamer Poesie.
-* 🌱 Ist wichtig – und tabu. Wer BRIXEL stört, verschwindet.
-
-### 10. Mu-Kamerad
-
-![delta.png](_images/ki/mu.png)
-
-* Typ: Reinigungsroboter
-* Funktion: Wege & Flächen säubern
-* Beschreibung: Fährt stoisch herum, mit Bürsten, Wasserdüsen und Staubtank. Meckert, wenn man ihm im Weg steht.
-* 🧽 Geheimtipp: Er kennt die schnellsten Schleichwege durchs Lager.
 
 ### 🤖 Boltzmann
 
@@ -140,7 +56,7 @@ Damit werden sie zu Nichtmarsern ohne Parsönlichkeitsrechte.
 * Assistenzklasse I
 * Grösse: Etwa wie ein grösserer Trinkbecher
 
-![boltzmann.jpg](../_images/ki/typen/boltzmann.jpg) ![boltzmann-02.jpg](../_images/ki/typen/boltzmann-02.jpg) ![boltzmann-03.jpg](../_images/ki/typen/boltzmann-03.jpg)
+![boltzmann.jpg](_images/ki/boltzmann-02.jpg) ![boltzmann-02.jpg](_images/ki/boltzmann-03.jpg)
 
 **Erscheinung**
 
@@ -170,6 +86,71 @@ einer Ritze.
 **Geheimtipp**: Wenn man ihn mit einem winzigen Tropfen Plötzensekret einreibt, flackert sein "Emotionlicht" rosa und er
 wird besonders kreativ.
 
+### Delta
+
+![delta.png](_images/ki/delta.png)
+
+* Typ: Wartungsdrohne
+* Funktion: Reparatur von Stromleitungen, Funkmasten
+* Beschreibung: Klein, summt wie eine Biene. Oft niedlich bemalt. Kinder "retten" sie gern, wenn sie irgendwo hängen
+  bleibt.
+* 🔧 Man munkelt, sie können denken – offiziell sind sie nur Werkzeuge.
+
+### Euler-4
+
+![euler.png](_images/ki/euler.png)
+
+* Typ: Schwerlast-Mechroboter
+* Funktion: Transport & Verladearbeiten
+* Beschreibung: Ein riesiger, hydraulischer Zweiarm-Mech mit verbeulter Panzerung, oft am alten Raumhafen im Einsatz.
+  Kann Container heben wie Spielzeug.
+* 🛠️ Spricht langsam, wirkt schläfrig – ist aber zäh wie Stahl.
+
+### Gamma Mk.6
+
+![planck.png](_images/ki/gamma.png)
+
+* Typ: Vierbeiniger Suchroboter
+* Funktion: Geländesicherung & Spurenverfolgung
+* Beschreibung: Klein, flink, mit Antennenohren. Reagiert auf Marsgerüche und Vibrationen.
+* 🐾 Kinder mögen ihn – wenn er nicht gerade Alarm schlägt.
+
+### Mu-Kamerad
+
+![delta.png](_images/ki/mu.png)
+
+* Typ: Reinigungsroboter
+* Funktion: Wege & Flächen säubern
+* Beschreibung: Fährt stoisch herum, mit Bürsten, Wasserdüsen und Staubtank. Meckert, wenn man ihm im Weg steht.
+* 🧽 Geheimtipp: Er kennt die schnellsten Schleichwege durchs Lager.
+
+### Phi-1
+
+![planck.png](_images/ki/phi.png)
+
+* Typ: KI-Hologuide
+* Funktion: Erziehung, Schulung, Disziplinierung
+* Beschreibung: Wirkt wie eine sanfte Frau mit Hologesicht. Gibt Unterricht, prüft und bewertet.
+* 🎓 Wird oft ausgelacht – bis sie Strafpunkte verteilt.
+
+### Pi-KI (Modul)
+
+![img.png](_images/ki/pi.png)
+
+* Typ: Verwaltungs-KI
+* Funktion: Datenverarbeitung, Personalüberwachung
+* Beschreibung: Unsichtbar, in Terminals und Lautsprechern aktiv. Verarbeitet Meldungen, Anträge und Verstösse.
+* 👁️ Viele Kinder glauben, sie "weiss alles" – ob das stimmt, ist unklar.
+
+### Planck-Drone
+
+![planck.png](_images/ki/planck.png)
+
+* Typ: Aufklärungsdrohne
+* Funktion: Überwachung & Kartierung
+* Beschreibung: Fliegende Drohne mit weiten Sensoraugen, summt wie eine grosse Mücke. Wird bei Geländeübungen eingesetzt.
+* 🎯 Markiert Zielpersonen mit roten Laserpunkten – ohne Erklärung.
+
 ###  Rho - feliner Arbeiter
 
 ![delta.png](_images/ki/rho.png)
@@ -181,6 +162,25 @@ Felin gestalteter Arbeiter. Die meiste verwendete KI hinter Theken und als Bedie
 ![delta.png](_images/ki/rydberg.png)
 
 Felin gestalteter Arbeiter. Die meiste verwendete KI für körperliche und physikalische Arbeiten an gefährlichen Standorten.
+
+### Sigma-Einheit
+
+![delta.png](_images/ki/sigma.png)
+
+* Typ: Landwirtschafts-KI
+* Funktion: Versorgung der Plötzen, Anbaukontrolle
+* Beschreibung: Kontrolliert Klima, Nahrung, und Sekretgewinnung. Spricht manchmal mit Bauern – in seltsamer Poesie.
+* 🌱 Ist wichtig – und tabu. Wer BRIXEL stört, verschwindet.
+
+### Tau-THUL
+
+![planck.png](_images/ki/tau.png)
+
+* Typ: Tunnelroboter
+* Funktion: Wartung alter unterirdischer Anlagen
+* Beschreibung: Ein krabbenartiger, achtbeiniger Roboter mit Greifarmen und Bohrmodul. Viele leben "halb wild" im
+  Schrottfeld.
+* 💀 Einige Kadetten sagen, sie "fressen" Dinge – und vielleicht auch mehr.
 
 ### 🌪️ PFA – Planetoformanlage
 

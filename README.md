@@ -9,7 +9,8 @@ git commit -m "change description"
 git push
 cd dictionary
 # mkdocs gh-deploy -d dictionary
-python -m mkdocs gh-deploy #-d dictionary
+mkdocs gh-deploy 
+dictionary #-d dictionary
 ~~~
 
 <https://hoochicken.github.io/staubpfoten/index>

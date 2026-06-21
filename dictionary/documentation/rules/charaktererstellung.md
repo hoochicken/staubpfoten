@@ -3,7 +3,7 @@
 ## Charakterbogen
 
 | Farbig                                                            | Schwarz-Weiss                                                | Hellgrau                                                                 | Handgemalt                                                                  | Printed                                                          | Malvorlagen                                            |
-| ------------ | ----------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------ | --------------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------ |
+| ----------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------ | --------------------------------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------ |
 | [PDF](../_downloads/charakterbogen/charakterbogen-ki-rot.pdf)     | [PDF](../_downloads/charakterbogen/charakterbogen-ki-sw.pdf) | [PDF](../_downloads/charakterbogen/charakterbogen-ki-hellgrau.pdf)       | [PDF](../_downloads/charakterbogen/charakterbogen-ki-handgemalt.pdf)        | [PDF](../_downloads/charakterbogen/charakterbogen-printed.pdf)   | [PDF](../_downloads/charakterbogen/malvorlagen.pdf)    |
 | ![farbig](_images/charakterbogen/charakterbogen-ki-katze-rot.png) | ![sw](_images/charakterbogen/charakterbogen-ki-katze-sw.png) | ![hellgrau](_images/charakterbogen/charakterbogen-ki-katze-hellgrau.png) | ![handgemalt](_images/charakterbogen/charakterbogen-ki-katze-handgmalt.png) | ![printed](_images/charakterbogen/charakterbogen-ki-printed.png) | ![Malvorlagen](_images/charakterbogen/malvorlagen.png) |
 
@@ -111,7 +111,7 @@ Du kannst zwischen drei und max. fünf Fähigkeiten für deinen Charakter selbst
 * Lieder erfinden und singen  2
 * Malen  1
 
-## Negative Eigenschaften – ggf. würfeln
+## Einschränkungen
 
 Suche dir mindestens 3 Einschränkungen in derselben Wertigkeit aus, wie Du gute Eigenschaften hast.
 
@@ -122,7 +122,7 @@ Also wählst du Schwache Nachtsicht (1), Blind auf einem Auge und Lichtempfindli
 
 Statt zu wählen kannst du auch einfach mit 2 W6 würfeln. Ggf. musst du ein bisschen anpassen, weil ich manche guten Eigenschaften und Einschränkungen einander ausschliessn, z. B.Lautlos bewegen und Lärmverursacher.
 
-### ⚠️ Kleine Einschränkungen (1 Punkt)
+### ⚠️ Kleine Einschr. (1 Pkt)
 
 (Leicht störend, situationsabhängig)
 
@@ -140,7 +140,7 @@ Statt zu wählen kannst du auch einfach mit 2 W6 würfeln. Ggf. musst du ein bis
 | Stauballergie          | Husten, Niesen, gereizte Augen                                         |
 | Schwache Orientierung  | Verläuft sich leicht in unbekannten Umgebungen                         |
 
-## ⚠️⚠️ Mittlere Einschränkung (2 Punkte)
+## ⚠️⚠️ Mittlere Einschr. (2 Pkt)
 
 (Haben klar spürbare Auswirkungen, aber noch mit Mühe ausgleichbar)
 
@@ -160,7 +160,7 @@ Statt zu wählen kannst du auch einfach mit 2 W6 würfeln. Ggf. musst du ein bis
 | Angst vor Dunkelheit   | Panik oder starke Angst in dunklen Umgebungen                           |
 | Entwicklungsverzögert  | Versteht vieles langsamer, braucht Hilfe                                |
 
-### ⚠️⚠️⚠️ Grosse Einschränkungen (3 Punkte)
+### ⚠️⚠️⚠️ Grosse Einschr. (3 Pkt)
 
 (Massiv einschränkend, dominanter Teil der Figur)
 

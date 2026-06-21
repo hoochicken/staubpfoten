@@ -4,11 +4,11 @@
 
 | Download                                                              | Hinweis              | Preview                                                                                                             |
 |-----------------------------------------------------------------------|----------------------|---------------------------------------------------------------------------------------------------------------------|
-| [Charakterbogen (PDF)](_images/charakterbogen/charakterbogen-ki-rot.pdf)       | farbig               | ![nand-charakterbogen-ki-katze-rot.png](_images/charakterbogen/nand-charakterbogen-ki-katze-rot.png)             |
-| [Charakterbogen (PDF)](_images/charakterbogen/charakterbogen-ki-sw.pdf)        | schwarz-weiss        | ![nand-charakterbogen-ki-katze-sw.png](_images/charakterbogen/nand-charakterbogen-ki-katze-sw.png)               |
-| [Charakterbogen (PDF)](_images/charakterbogen/charakterbogen-ki-hellgrau.pdf)  | hellgrau             | ![nand-charakterbogen-ki-katze-hellgrau.png](_images/charakterbogen/nand-charakterbogen-ki-katze-hellgrau.png)   |
-| [Charakterbogen (PDF)](_images/charakterbogen/charakterbogen-ki-handgemalt.pdf) | handgemalt, original | ![nand-charakterbogen-ki-katze-handgmalt.png](_images/charakterbogen/nand-charakterbogen-ki-katze-handgmalt.png) |
-| [Charakterbogen (PDF)](_images/charakterbogen/charakterbogen-printed.pdf)      | handgemalt, original | ![nand-charakterbogen-ki-printed.png](_images/charakterbogen/nand-charakterbogen-ki-printed.png)                 |
+| [Charakterbogen (PDF)](_images/charakterbogen/charakterbogen-ki-rot.pdf)       | farbig               | ![charakterbogen-ki-katze-rot.png](_images/charakterbogen/charakterbogen-ki-katze-rot.png)             |
+| [Charakterbogen (PDF)](_images/charakterbogen/charakterbogen-ki-sw.pdf)        | schwarz-weiss        | ![charakterbogen-ki-katze-sw.png](_images/charakterbogen/charakterbogen-ki-katze-sw.png)               |
+| [Charakterbogen (PDF)](_images/charakterbogen/charakterbogen-ki-hellgrau.pdf)  | hellgrau             | ![charakterbogen-ki-katze-hellgrau.png](_images/charakterbogen/charakterbogen-ki-katze-hellgrau.png)   |
+| [Charakterbogen (PDF)](_images/charakterbogen/charakterbogen-ki-handgemalt.pdf) | handgemalt, original | ![charakterbogen-ki-katze-handgmalt.png](_images/charakterbogen/charakterbogen-ki-katze-handgmalt.png) |
+| [Charakterbogen (PDF)](_images/charakterbogen/charakterbogen-printed.pdf)      | handgemalt, original | ![charakterbogen-ki-printed.png](_images/charakterbogen/charakterbogen-ki-printed.png)                 |
 | [Malvorlagen (PDF)](_images/charakterbogen/malvorlagen.pdf)                    |  | ![Malvorlagen](_images/charakterbogen/malvorlagen.png)                                                           |
 
 ## Wer bist du?

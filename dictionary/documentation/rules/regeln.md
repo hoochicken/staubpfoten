@@ -9,7 +9,7 @@ Wenn ein Spieler sagt: „Mein Charakter wird einen Baum hochklettern“, entsch
 **So funktioniert eine Probe**
 
 1. Die Spielleitung bestimmt, welche Grundeigenschaft passt (z. B. KK fürs Klettern).
-2. Du würfelst 1W6.
+2. 🎲 Du würfelst 1W6.
 3. Die Probe ist geschafft, wenn die Augenzahl gleich oder niedriger ist als dein (angepasster) Eigenschaftswert.
 
 **Sonderregeln beim Würfeln einer 6**
@@ -20,15 +20,15 @@ Wenn ein Spieler sagt: „Mein Charakter wird einen Baum hochklettern“, entsch
 
 **(1) Einfaches Beispiel**
 
-**Beispiel**: Enno möchte einen Jerrybaum hochklettern. Er würfelt auf die passende Grundeigenschaft, hier KörperKraft (KK). Seine KK hat er 4. Er würfelt eine 3. Die Augenzahl 3 ist kleiner als eine KK von 4  die Probe ist geschafft. Enno klettert also den Baum hoch.
+**Beispiel**: Enno möchte einen Jerrybaum hochklettern. Er würfelt auf die passende Grundeigenschaft, hier KörperKraft (KK). Seine KK hat er 4. Er würfelt eine 🎲 3. Die Augenzahl 3 ist kleiner als eine KK von 4  die Probe ist geschafft. Enno klettert also den Baum hoch.
 
 **(2) Fähigkeiten erleichtern die Probe um ihre Wertigkeit.**
 
-**Beispiel**: Ralli möchte auch den Jerrybaum hochklettern. Seine KörperKraft beträgt 3 und ist ein „Guter Kletterer“, Bonus +2. Er hat also einen Kletterwert von 3 + 2 = 5. Er würfelt eine 5. Die Augenzahl 5 ist kleiner als der Wert von 5  die Probe ist geschafft. Er klettert behände hoch.
+**Beispiel**: Ralli möchte auch den Jerrybaum hochklettern. Seine KörperKraft beträgt 3 und ist ein „Guter Kletterer“, Bonus +2. Er hat also einen Kletterwert von 3 + 2 = 5. Er würfelt eine 🎲 5. Die Augenzahl 5 ist kleiner als der Wert von 5  die Probe ist geschafft. Er klettert behände hoch.
 
 **(3) Einschränkungen erschweren die Probe um ihre Wertigkeit.**
 
-**Beispiel**: Orb kriecht durch ein Labyrinth aus Schächten. In INtuition hat Orb eine 5 sowie die Einschränkung "Orientierungslos", Malus -3. Also hat er die Orientierungsfähigkeit 5 - 3 = 2. Er würfelt eine 5 und verfehlt seine Probe. Das heisst, er weiss nicht, wie es weitergeht und läuft in irgendeine Richtung.
+**Beispiel**: Orb kriecht durch ein Labyrinth aus Schächten. In INtuition hat Orb eine 5 sowie die Einschränkung "Orientierungslos", Malus -3. Also hat er die Orientierungsfähigkeit 5 - 3 = 2. Er würfelt eine 🎲 5 und verfehlt seine Probe. Das heisst, er weiss nicht, wie es weitergeht und läuft in irgendeine Richtung.
 
 **Erinnerung**: Eine 6 ist in allen Fällen IMMER ein Fehlschlag.
 

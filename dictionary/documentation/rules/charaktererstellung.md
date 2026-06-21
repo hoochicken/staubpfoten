@@ -16,10 +16,10 @@ Bevor dein Abenteuer beginnt, erschaffst du deinen eigenen Marser-Kadetten. Du b
 Jeder Marser hat einen Rufnamen (Vor- und Nachname) – und zusätzlich ein Handzeichen. Denn draussen im Anzug kann man kaum reden. Es ist also ein Gebärdenname, also ein Handzeichen, wie es gehörlose Menschen benutzen.
 Schau dir echte Gebärden an und wähle einen Ausdruck, der zu deiner Figur passt. Zum Beispiel „schwarz“, weil dein Fell diese Farbe hat. Oder „schnell“, weil du eben besonders schnell läufst. Hier findest du gute Beispiele:
 
-| [DGS-Lexikon Spreadthesign](https://spreadthesign.com)                         | [DGS-Lexikon Signdict](https://signdict.org)                         |                                                                                 |
-|--------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------------|
+| [DGS-Lexikon Spreadthesign](https://spreadthesign.com)                         | [DGS-Lexikon Signdict](https://signdict.org)                         |
+|--------------------------------------------------------------------|----------------------------------------------------------|
 | ![DGS-Lexikon Spreadthesign](_images/qrcode-spreadthesign.png) | ![DGS-Lexikon Signdict](_images/qrcode-signdict.png) | ![dgs-hallo.png](_images/dgs-hallo.png) |
-| Lexikon                                                            | Lexikon                                                  | Lernen                                                                          |
+| Lexikon                                                            | Lexikon                                                  |
 
 Wähle eine Gebärde, die zu deinem Marser passt. Alle in deiner Spielrunde sollen dein Handzeichen kennen.
 

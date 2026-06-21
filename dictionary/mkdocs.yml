@@ -80,6 +80,15 @@ nav:
     - Charakterbögen: rules/charakterboegen.md
     - Regeln: rules/regeln.md
     - Quellen: rules/quellen.md
+
+  - "🌍 Welt":
+    - "👽 Kräfte & Völker":
+        - Völkerübersicht: _archive-ichbinnand/kraefte/voelker.md
+        - KI: _archive-ichbinnand/kraefte/ki.md
+        - AKI: _archive-ichbinnand/kraefte/aki.md
+        - Brom: _archive-ichbinnand/kraefte/brom.md
+        - Gott: _archive-ichbinnand/kraefte/gott.md
+        - Raummolche: _archive-ichbinnand/kraefte/raummolche.md
   - Archiv:
     - "🧑‍🚀 Schnellstarter": _archive-ichbinnand/rules/schnellstarter.md
 

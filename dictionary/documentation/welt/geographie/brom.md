@@ -1,20 +1,14 @@
 # Brom
 
-Brom ist ein Halogen mit der Ordnungszahl 35.
-Es ist in hoher Dosierung giftig.
-Marser, die damit zuviel in Kontakt kommen, erkranken an Bromismus.
-Was Marser nicht daran hindert, fleissig Bromette zu rauchen.
+Brom ist ein Halogen mit der Ordnungszahl 35. Es ist in hoher Dosierung giftig. Marser, die damit zuviel in Kontakt kommen, erkranken an Bromismus.  Was Marser nicht daran hindert, fleissig Bromette zu rauchen.
 
-Brom ist das göttliche Ambrosia.
-Gott liebt es, denn damit kann er Wunder wirken.
-Als ein Scherben Gottes vor Nand auf den Boden fällt, zieht es Gott zu Nand, da dieser voller Brom ist.
-(Nand hat gerade eine Bromvergiftung.)
+Brom ist das göttliche Ambrosia. Gott liebt es, denn damit kann er Wunder wirken. Marser mit Bromvergiftung ziehen Gottessplitter - und Patrasiten / Raummolche - geradezu magisch an.
 
 ## Brom-Mindmap
 
 Brim ist ein Leitmotiv und Handlungs-Kondensator sowie -Element. Hier eine Übersicht:
 
-* **Bromvorkommen auf dem Mars**: 
+* **Bromvorkommen auf dem Mars**:
     * die rote Farbe des Mars stammt vom Brom. Es ist überall, geht im Bromsturz darnieder
     * das grösste Bromvirkommen des Sonnensystems befindet sich auf dem Mars, im Mare Rubrum
     * das Brom wird von der Oberfläche Gottes aufgesogen (der Gott wurde aus seiner Dimension vertrieben durch die Unwahrscheinlichkeitsbombe)
@@ -22,7 +16,7 @@ Brim ist ein Leitmotiv und Handlungs-Kondensator sowie -Element. Hier eine Über
 * **Brombeere**: wächst überall auf dem Mars, die wie eine Person geformte Wurzel zieht das Brom aus dem Boden und reichert es in ihren schwarz-roten Beeten an; die Pflanze wird als giftiger Zierstrauch in Gärten und Parks gepflanzt, aus ihr wird auch das Käfergiftmittel gewonnen
 * **Brometten** und **Bromierrohr** werden ab 2050 gerne geraucht, erinnert an die alte Zeit VOR der Bombe
 * **Gottes Oberfläche** benötigt Brom, um Wunder wirken bzw. Macht ausüben zu können, zur:
-    * Zeitverschiebung 
+    * Zeitverschiebung
     * Teleportation
     * Gegenwartsbrechung = Änderung der Wirklichkeit
 * **Raummolche** sind Parasiten Gottes, sie filtern über ihre Kiemen Brom aus und könnemn daher teleportieren und zeitverschieben und gegenwartbrechen; diese Wesen kommen über Dimensionsrisse in unsere Welt, s. Neithbaustelle und Unwahrscheinlichkeitsbombe
@@ -33,26 +27,6 @@ Brim ist ein Leitmotiv und Handlungs-Kondensator sowie -Element. Hier eine Über
 Der Mars kennt Jahreszeiten, die kalte wird angekündigt duch den sogenannten Bromsturz. Eine ungemütliche Zeit voller Stürme, bei denen jeder lieber zuhause bleibt.
 
 Nach dem Niedergang der Scherbe Gottes gibt es den letzten Bromsturz. Alles Brom geht im Bromdelta nieder.
-
-## Gottes Manna
-
-Brom ermöglicht (halb)göttlichen Wesen:
-
-* Gegenwartsbrechung
-* Raumbeugung
-
-Daher profitieren von Brom
-
-* Dreifinger, Gegenwartsbrechung
-* Feline NICHT, für sie isr Brom schädlich, weshalb sie Schutzanzüge tragen
-* Nand, denn er hst einen Splitter Gottes in sich
-  * Gegenwartsbrechung
-  * beschränkte Raumbeugung, er kann innerhalb seines Erlebens und seiner Zeitlinie springen
-* Soldatin / Mechanikerin springt
-* Raummolche beim Raumbeugen
-* Gott bei Wundern
-
-Nand kann von sich aus nicht springen. Vielmehr vergiftete er sich mehrmals, z. T. schwer, mit Brom. Die Gottesscherbe in ihm jedoch kann durchazs etwas mut Brom anfangen.
 
 ## Bromvergiftung
 
@@ -76,4 +50,4 @@ Nand erkrankt mehrmals an Bromismus
   * Neue Freiheit
   * Rotkralle
 
-Brometten-Raucher sind oft umgeben von ein paar Molchen; bei Nand scheinen es immer doppelt so viele zu sein.
+Brometten-Raucher sind gelegentlich umgeben von ein paar Molchen; bei Nand scheinen es immer doppelt so viele zu sein.

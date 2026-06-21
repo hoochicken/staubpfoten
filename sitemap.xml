@@ -305,30 +305,6 @@
          <lastmod>2026-06-21</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/kraefte/brom/</loc>
-         <lastmod>2026-06-21</lastmod>
-    </url>
-    <url>
-         <loc>http://127.0.0.1:8000/kraefte/ek-institut/</loc>
-         <lastmod>2026-06-21</lastmod>
-    </url>
-    <url>
-         <loc>http://127.0.0.1:8000/kraefte/gott/</loc>
-         <lastmod>2026-06-21</lastmod>
-    </url>
-    <url>
-         <loc>http://127.0.0.1:8000/kraefte/ki/</loc>
-         <lastmod>2026-06-21</lastmod>
-    </url>
-    <url>
-         <loc>http://127.0.0.1:8000/kraefte/raummolche/</loc>
-         <lastmod>2026-06-21</lastmod>
-    </url>
-    <url>
-         <loc>http://127.0.0.1:8000/kraefte/voelker/</loc>
-         <lastmod>2026-06-21</lastmod>
-    </url>
-    <url>
          <loc>http://127.0.0.1:8000/rules/charakterboegen/</loc>
          <lastmod>2026-06-21</lastmod>
     </url>
@@ -350,6 +326,34 @@
     </url>
     <url>
          <loc>http://127.0.0.1:8000/rules/quellen/mars-hymne-rot-gruen-blau/</loc>
+         <lastmod>2026-06-21</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/welt/geographie/brom/</loc>
+         <lastmod>2026-06-21</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/welt/geographie/mars/</loc>
+         <lastmod>2026-06-21</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/welt/kraefte/ek-institut/</loc>
+         <lastmod>2026-06-21</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/welt/kraefte/gott/</loc>
+         <lastmod>2026-06-21</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/welt/kraefte/ki/</loc>
+         <lastmod>2026-06-21</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/welt/kraefte/raummolche/</loc>
+         <lastmod>2026-06-21</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/welt/kraefte/voelker/</loc>
          <lastmod>2026-06-21</lastmod>
     </url>
 </urlset>

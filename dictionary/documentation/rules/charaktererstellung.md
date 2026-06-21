@@ -139,7 +139,7 @@ Statt zu wählen kannst du auch einfach mit 2 W6 würfeln. Ggf. musst du ein bis
 | Stauballergie          | Husten, Niesen, gereizte Augen                                         |
 | Schwache Orientierung  | Verläuft sich leicht in unbekannten Umgebungen                         |
 
-## ⚠️ Mittlere Einschr. (2 Pkt)
+## ⚠️ Mittl. Einschr. (2 Pkt)
 
 (Haben klar spürbare Auswirkungen, aber noch mit Mühe ausgleichbar)
 

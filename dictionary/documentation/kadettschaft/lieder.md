@@ -2,6 +2,7 @@
 
 ## Marser Planetarhymne
 
+~~~
 Rotes Brom
 Smaragdner Himmel
 Azuren Gras 
@@ -33,9 +34,11 @@ Azuren Gras
 Sand in der Hand
 Rot grün Blau
 Wir sind Mars
+~~~
 
 ##  Marschlied
 
+~~~
 Der Sand ist blau, der Himmel grün,
 Wenn wir durchg die Dünen ziehn.
 Die Stiefel knirschen auf dem Grund.
@@ -59,3 +62,4 @@ Kameradschaft bleibt bestehn!
 
 Mijaaaau.
 Mijaaaau.
+~~~

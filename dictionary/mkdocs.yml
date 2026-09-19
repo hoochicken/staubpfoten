@@ -89,6 +89,9 @@ nav:
         - KI: welt/kraefte/ki.md
         - Gott: welt/kraefte/gott.md
         - Raummolche: welt/kraefte/raummolche.md
+  - "Kultur":
+    - "Gegenstände":
+      - "HRG-Karten": kultur/gegenstaende/hrg-karten.md
   - Archiv:
     - "🧑‍🚀 Schnellstarter": _archive-ichbinnand/rules/schnellstarter.md
 

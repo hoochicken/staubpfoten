@@ -4,14 +4,14 @@ Für kurze Ausseneinsätze
 
 ## Standard-Model
 
-![Leichtatmer](../../_images/technologie/militaerische-ausruestung/leichtatmer/leichtatmer.jpg)
+![Leichtatmer](_images/leichtatmer/leichtatmer.jpg)
 
 ## Leichtatmer mit Helm
 
-![Leichtatmer mit Helm](../../_images/technologie/militaerische-ausruestung/leichtatmer/leichtatmer-mit-helm.jpg)
+![Leichtatmer mit Helm](_images/leichtatmer/leichtatmer-mit-helm-plus-komanlage.jpg)
 
 ## Handschuhe
 
-![Schutzhandschuhe, dunkel](../../_images/technologie/militaerische-ausruestung/handschuhe/handschuhe-dunkel.jpg)
+![Schutzhandschuhe, dunkel](_images/handschuhe/handschuhe-dunkel.jpg)
 
-![Schutzhandschuhe, hell](../../_images/technologie/militaerische-ausruestung/handschuhe/handschuhe-hell.jpg)
+![Schutzhandschuhe, hell](_images/handschuhe/handschuhe-hell.jpg)

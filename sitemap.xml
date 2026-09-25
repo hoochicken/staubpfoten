@@ -305,6 +305,114 @@
          <lastmod>2026-09-25</lastmod>
     </url>
     <url>
+         <loc>http://127.0.0.1:8000/ausruestung/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/geraffel/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/helme/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/leichtatmer-und-handschuhe/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/ausseneinsatz-anzug-bodentruppen-glx-03/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/ausseneinsatz-anzug-bodentruppen-glx-04/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/bord-anzug/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/eva-bord-iin-helm/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/eva-bord-marser-helm/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/eva-standard/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/filter/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/kadett-anzug-typ-k-1r/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/kadett-aussenanzug-typ-k-1r/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/kadett-clx-01/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/kadett-kommunikationssystem/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/kadett-lp-assistenz/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/kadett-standard/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/lazarett-pilot-typ-a-3k/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/ruestung-voll/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/scuba-atem-geraet/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/scuba-klein/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/scuba-tiefen/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/soldat-feldanzug-mars-ulx-03/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/soldat-feldanzug-standard/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/soldat-kommunikationsmodul/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/ausruestung/anzuege/terra-prototyp/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
          <loc>http://127.0.0.1:8000/kadettschaft/allgemein/</loc>
          <lastmod>2026-09-25</lastmod>
     </url>
@@ -313,7 +421,39 @@
          <lastmod>2026-09-25</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/kultur/gegenstaende/hrg-karten/</loc>
+         <loc>http://127.0.0.1:8000/kraefte/aki/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/kraefte/brom/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/kraefte/ek-institut/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/kraefte/gott/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/kraefte/ki/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/kraefte/raummolche/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/kraefte/voelker/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/kultur/hrg-karten/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/kultur/kommunikation/</loc>
          <lastmod>2026-09-25</lastmod>
     </url>
     <url>
@@ -338,6 +478,10 @@
     </url>
     <url>
          <loc>http://127.0.0.1:8000/rules/quellen/mars-hymne-rot-gruen-blau/</loc>
+         <lastmod>2026-09-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/welt/marser/</loc>
          <lastmod>2026-09-25</lastmod>
     </url>
     <url>

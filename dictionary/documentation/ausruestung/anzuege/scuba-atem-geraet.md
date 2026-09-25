@@ -4,4 +4,4 @@ Dieses Atemgerät basiert auf einem Kreislauf. Man nennt es auch "Kreislauftauch
 Ein Kreislauftauchgerät oder Kreislaufatemgerät reinigt die ausgeatmete Luft, um diese danach wieder mit Sauerstoff anzureichern.
 Dies ermöglicht lange Tauchgänge, denn weniger Atemgas wird verbraucht.
 
-![Atmungs-Gerät](../../_images/technologie/militaerische-ausruestung/anzuege/taucheranzug-atem-geraet.png)
+![Atmungs-Gerät](_images/anzuege/taucheranzug-atem-geraet.png)

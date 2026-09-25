@@ -3,9 +3,9 @@
 * 🏷️ Gebrauchsbezeichnung: Anzug CLx-01
 * 🗣️ Spitzname in der Truppe: Kadettenpellwurst
 
-![Aussenanzug](../../_images/technologie/militaerische-ausruestung/anzuege/kadett-ausseneinsatzsystem-typ-clx-01-a.png)
-![Aussenanzug](../../_images/technologie/militaerische-ausruestung/anzuege/kadett-ausseneinsatzsystem-typ-clx-01-b.png)
-![Aussenanzug](../../_images/technologie/militaerische-ausruestung/anzuege/kadett-ausseneinsatzsystem-typ-clx-01-c.png)
+![Aussenanzug](_images/anzuege/kadett-ausseneinsatzsystem-typ-clx-01-a.png)
+![Aussenanzug](_images/anzuege/kadett-ausseneinsatzsystem-typ-clx-01-b.png)
+![Aussenanzug](_images/anzuege/kadett-ausseneinsatzsystem-typ-clx-01-c.png)
 
 **🧾 Ausrüstungseintrag**
 

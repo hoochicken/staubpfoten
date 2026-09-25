@@ -1,6 +1,6 @@
 # 📄 Ausrüstungsakte: Ausseneinsatzanzug der Bodentruppen – Typ GLx-04P
 
-![Ausseneinsatzanzug der Bodentruppen](../../_images/technologie/militaerische-ausruestung/anzuege/ausseneinsatzanzug-bodentrippe-glx-04p.png)
+![Ausseneinsatzanzug der Bodentruppen](_images/anzuege/ausseneinsatzanzug-bodentrippe-glx-04p.png)
 
 🧾 **Ausrüstungseintrag**
 

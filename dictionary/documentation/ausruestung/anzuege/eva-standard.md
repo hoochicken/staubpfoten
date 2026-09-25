@@ -1,3 +1,3 @@
 ### EVA für Ausseneinsätze im Weltraum
 
-![EVA Standard](../../_images/technologie/militaerische-ausruestung/anzuege/eva-standard.png)
+![EVA Standard](_images/anzuege/eva-standard.png)

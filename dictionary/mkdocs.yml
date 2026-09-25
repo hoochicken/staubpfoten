@@ -82,16 +82,26 @@ nav:
     - Quellen: rules/quellen.md
 
   - "🌍 Welt":
-    - "Mars": welt/geographie/mars.md
-    - "Brom": welt/geographie/brom.md
+    - "Mars":
+      - Marser: welt/marser.md
+      - Planet: welt/geographie/mars.md
+      - Brom: welt/geographie/brom.md
+      - Bromsal: welt/geographie/bromsal.md
     - "👽 Kräfte & Völker":
-        - Völkerübersicht: welt/kraefte/voelker.md
-        - KI: welt/kraefte/ki.md
-        - Gott: welt/kraefte/gott.md
-        - Raummolche: welt/kraefte/raummolche.md
+      - Völkerübersicht: welt/kraefte/voelker.md
+      - KI: welt/kraefte/ki.md
+      - Gott: welt/kraefte/gott.md
+      - Raummolche: welt/kraefte/raummolche.md
   - "Kultur":
-    - "Gegenstände":
-      - "HRG-Karten": kultur/gegenstaende/hrg-karten.md
+    - "HRG-Karten": kultur/hrg-karten.md
+    - Kommunikation: kultur/kommunikation.md
+  - "🛠️ Ausrüstung":
+    - Übersicht: ausruestung/index.md
+    - Geraffel: ausruestung/geraffel.md
+    - Anzüge: ausruestung/anzuege.md
+    - Helme: ausruestung/helme.md
+    - Leichtatmer & Handschuhe: ausruestung/leichtatmer-und-handschuhe.md
+
   - Archiv:
     - "🧑‍🚀 Schnellstarter": _archive-ichbinnand/rules/schnellstarter.md
 

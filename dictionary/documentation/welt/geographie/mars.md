@@ -42,11 +42,11 @@ Marser sind daher auch gut im Kopfrechnen, weil die Zahlen geordnet sind.
 
 ### Brumsen
 
-![_images/fauna/brumsen-01.png](_images/fauna/brumsen-08.png)
+![_images/brumsen-01.png](_images/brumsen-08.png)
 
 ### Plötzen
 
-![_images/fauna/ploetzen-01.png](_images/fauna/ploetzen-01.png)
+![_images/ploetzen-01.png](_images/ploetzen-01.png)
 
 ### Flittermolche
 
@@ -71,3 +71,5 @@ Marser sind daher auch gut im Kopfrechnen, weil die Zahlen geordnet sind.
 * Schachtelhalme
 * Pilze
 * Blaugras
+
+## Grosse Städte auf dem Mars

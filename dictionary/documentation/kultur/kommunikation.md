@@ -14,19 +14,19 @@ Ausser-Marser chaben gernä ainen AAkzent!
     * h => ch
     * gezogene Vokale an den falschen Stellen
     * falsches grammatisches Geschlecht
-    * Merkspruch: ich wiinscht ichch chätte ein Pferdeekutsch
+    * Beipiel: *Ich wiinscht ichch chätte ein Äächsenschuupkutsch.*
 * **Barben**: französischer Akzent
     * jedes "ch" => "sch"
     * keine "h"
     * a => o
     * falsches grammatisches Geschlecht
-    * Merkspruch: isch säe einö 'übschen Kühlschronk
+    * Beipiel: *Isch säe einö 'übschen Kühlschronk.*
 * **Lunare**: knauffffeln
     * jedes "ch" => "f"
     * jedes "s" => "f"
     * jedes "sch" => "f"
     * jedes "z" => "tf"
-    * Merkspruch: If se-e nift, waf tu meinft ... gib dof einfaf tfu, daff daf feiffe ift
+    * Beipiel: *If se-e nift, waf tu meinft ... gib dof einfaf tfu, daff daf feiffe ift.*
 
 ## 2. Funkprotokolle, gesprochen
 
@@ -40,7 +40,7 @@ Generell gilt:
 * erste denken, dann sprechen
 * wer das Gespräch startet, der endet es auch
 
-![funkgeraet-2-mann.jpg](../_images/kommunikation/geraete/funkgeraet-2-mann.jpg)
+![funkgeraet-2-mann.jpg](_images/kommunikation/geraete/funkgeraet-2-mann.jpg)
 
 Hier Beispiele:
 
@@ -67,7 +67,7 @@ Einfach
 * hier gruppe x ort datum, uhrzeit [wiederholung der nachricht] kommen
 * hier basis verstanden
 
-![funkgeraet-handheld.jpg](../_images/kommunikation/geraete/funkgeraet-handheld.jpg)
+![funkgeraet-handheld.jpg](_images/kommunikation/geraete/funkgeraet-handheld.jpg)
 
 #### Reihenruf
 
@@ -107,14 +107,14 @@ Info: Grossschreibung? Ein Gebärdenbegriff wird durch Grossschreibung markiert.
 
 | [spreadthesign](https://spreadthesign.com)                                       | [signdict](https://signdict.org)                                       | [manimundo](https://manimundo.de)                                         |
 |----------------------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| ![qrcode-spreadthesign.png](../_images/kommunikation/gebaerdensprache/qrcode-spreadthesign.png) | ![qrcode-signdict.png](../_images/kommunikation/gebaerdensprache/qrcode-signdict.png) | ![qrcode-manimundo.png](../_images/kommunikation/gebaerdensprache/qrcode-manimundo.png) |
+| ![qrcode-spreadthesign.png](_images/kommunikation/gebaerdensprache/qrcode-spreadthesign.png) | ![qrcode-signdict.png](_images/kommunikation/gebaerdensprache/qrcode-signdict.png) | ![qrcode-manimundo.png](_images/kommunikation/gebaerdensprache/qrcode-manimundo.png) |
 | Lexikon                                                                          | Lexikon                                                                | Lernen                                                                   |
 
 #### Finger-Alphabet
 
 Neue Begriffe werden mit dem Fingeralphabet aufgegriffen. Und das findest du hier:
 
-![fingeralphabet.png](../_images/kommunikation/gebaerdensprache/fingeralphabet.png)
+![fingeralphabet.png](_images/kommunikation/gebaerdensprache/fingeralphabet.png)
 
 ## Schrift: Runen
 
@@ -150,7 +150,7 @@ Oder einfache Beschriftungen.
 | ᛚ    | Laguz       | l        |
 | ᛜ    | Ingwaz      | i        |
 | ᛞ    | Dagaz       | s        |
-| ᛟ    | Ōþila       | o        |
+| ᛟ     | Ōþila        | o         |
 
 ## 📖 Morsecode-Tabelle
 

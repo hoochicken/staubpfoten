@@ -81,6 +81,10 @@ nav:
     - Regeln: rules/regeln.md
     - Quellen: rules/quellen.md
 
+    - "🪖 Kadettschaft":
+      - Allgemeine Infos: kadettschaft/allgemein.md
+      - Rangabzeichen: kadettschaft/rangabzeichen.md
+
   - "🌍 Welt":
     - "Mars":
       - Marser: welt/marser.md
@@ -92,9 +96,16 @@ nav:
       - KI: welt/kraefte/ki.md
       - Gott: welt/kraefte/gott.md
       - Raummolche: welt/kraefte/raummolche.md
+    - "Geschichte":
+      - Zeitstrahl: welt/geschichte/zeitgeschehen.md
+      - Roboter-Gesetze: welt/geschichte/roboter-gesetze.md
+
   - "Kultur":
     - "HRG-Karten": kultur/hrg-karten.md
     - Kommunikation: kultur/kommunikation.md
+  - NPC-Datenbank:
+    - Wehrerziehungslager: _npc/wehrerziehungslager.md
+    - Wehrerziehungslager: _npc/Sonstige.md
   - "🛠️ Ausrüstung":
     - Übersicht: ausruestung/index.md
     - Geraffel: ausruestung/geraffel.md

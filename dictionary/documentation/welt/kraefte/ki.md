@@ -37,6 +37,18 @@ auf die KI erneut anfacht.
 Wieder gibt es Pogrome und Aufstände - die Fanatiker selbst bezeichnen dies als den Heiligen Krieg -, welche zu den Zweiten Robotergesetzen führt. Diese dienen nicht mehr der Sichrheit der KIs, sondern der Beschränkung ihrer Rechte.
 Damit werden sie zu Nichtmarsern ohne Parsönlichkeitsrechte.
 
+Die KIs stellen sich selbst in unterirdischen Werken her, die - nach dem Heiligen Krieg - streng kontrolliert werden.
+Es gibt praktisch keine P-gechippte KI mehr.
+
+## Robotergesetze
+
+KI haben immanente, unverrückbare Robotergesetze.
+An diese müssen sie sich halten:
+
+1. Kein Schaden an Chimäre
+2. Gehorsam gegenüber Chimäre (solange 1. nicht verletzt wird)
+3. Selbstschutz (solange 1. und 2. nicht verletzt werden)
+
 ## KI – verschiedene Typen und Baureihen
 
 ### Avogadro-BW

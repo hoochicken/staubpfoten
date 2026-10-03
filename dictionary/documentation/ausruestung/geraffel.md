@@ -27,6 +27,7 @@ Gekrümmte Linsen gegen Staubverzerrung. Hat Infrarot-Modus und Zielmarkierung (
 
 ![Feldstecher Mars INFRAROT, ein binokuläres Fernglas](_images/geraffel/feldstecher-mars-infrarot.jpg)
 ![feldstecher-mars-infrarot.jpg](_images/geraffel/feldstecher-mars-infrarot.jpg)
+
 ## 5. 🛡️ Schutzkappe "Typ 3"
 
 Hartfaser-Kopfschutz mit leichtem Kinnvisier. Schützt bei Stürzen und vor Sonnenstichen im Freien.

@@ -1,39 +1,5 @@
-1. Stabskadettin Heinlein
-    • Hobby: Alte Märchen über die Erde sammeln und nachspielen
-    • Geheimnis: Ihre Oma war früher eine berühmte Geschichtenerzählerin – doch ihre Bücher sind verboten
-    • Quest: Im Lagerarchiv eine versteckte Kiste mit den letzten Geschichten ihrer Oma finden – und retten, bevor der Inspektor kommt
+# NPC
 
-2. Kommandantin Solan
-    • Rolle: Lagerleitung / Disziplin / Taktische Planung
-    • Funktion: Hat das letzte Wort im Lager. Führt mit klarem Blick und harter Stimme.
-    • Persönlichkeit: Kühl, strategisch, charismatisch. Kein Platz für Schwäche – aber gerecht.
-    • Hobby: Alte Märchen über die Erde sammeln und nachspielen
-    • Geheimnis: Ihre Oma war früher eine berühmte Geschichtenerzählerin – doch ihre Bücher sind verboten
-    • Quest: Im Lagerarchiv eine versteckte Kiste mit den letzten Geschichten ihrer Oma finden – und retten, bevor der Inspektor kommt
-
-3. Furiemeister Kelv
-    • Rolle: Körperliche Ausbildung / Drill / Strafen
-    • Funktion: Zuständig für Ausdauertraining, Nahkampf und Lagerordnung.
-    • Persönlichkeit: Laut, unnachgiebig, hat immer einen Spruch auf den Lippen.
-    • Hobby: Miniaturmodelle von Marsfahrzeugen bauen und lackieren
-    • Geheimnis: Hat einen kleinen Bruder im Waisenhaus, den er heimlich besucht
-    • Quest: Genug Ersatzteile und Farben auftreiben, um dem Bruder ein funktionsfähiges Mini-Fahrzeug zu bauen – als Geburtstagsgeschenk
-
-4. Wachhabende Veyra
-    • Rolle: Sicherheit / Nachtwache / Maschinenkontrolle
-    • Funktion: Kontrolliert Zugänge, kontrolliert Maschinen, beobachtet Kadetten heimlich
-    • Persönlichkeit: Still, fokussiert, fast schon unheimlich ruhig
-    • Hobby: Marskäfer beobachten und in einem Skizzenbuch festhalten
-    • Geheimnis: Ihre große Schwester wurde „versetzt“ – in Wahrheit versteckt sie sich in einem alten Versorgungstunnel
-    • Quest: Eine alte Taschenlampe und Batterien besorgen, um heimlich einen sicheren Weg zur Schwester zu finden – und sie mit Essen zu versorgen
-
-5. Ausbilderin Fenn
-    • Rolle: Überlebenstraining / Geländeübungen / Notfallausbildung
-    • Funktion: Bringt den Kadetten bei, wie man im Ödland überlebt
-    • Persönlichkeit: Zäh, mitfühlend, heimlich rebellisch
-    • Hobby: Backt seltsame Kekse aus Marswurzeln und gibt ihnen Namen wie „Staubmuffin“
-    • Geheimnis: Ihr Cousin ist ein „langsamer Lerner“ – und soll in ein Speziallager kommen
-    • Quest: In die Lagerverwaltung schleichen, um seinen Bericht zu ändern – bevor der Transporter kommt
 
 🌑 1. SERREL – Der Heiler
     • Alter: 45 lunare Jahre
@@ -270,11 +236,19 @@ Wachtmeister Runn Sol	Lageraufsicht, Strafen & Kontrolle	Schwarzes Fell, glatte 
 
 
 
+## Schmuggler
 
+### 🕶️ Nira „Schleier“ Korr
 
+* Felin, dunkelgraues Fell, trägt immer ein Tuch über den Mund.
+* Spezialisiert auf Baumaterialien, Ersatzteile und Medikamente.
+* Schmuggelroute: vom Schrottfeld über versteckte Pfade durch den alten Raumhafen, dann weiter in Richtung „Dämmerhäuser“ (Pflege- und Versteckorte für Versehrte, die offiziell keine Rationen mehr bekommen).
 
+### 🐾 Taro Vess
 
-
+* Felin, rötliches Fell, schlank, mit scharfem Blick.
+* Schmuggelt Nahrungsmittel und kleine KI-Module.
+* Schmuggelroute: über die Plötzenweide, dann durch versteckte Kellerverbindungen bis zum „Markt der Schatten“ – ein geheimer Tauschplatz, wo Bauern, Arbeiter und verbotene KIs zusammenkommen.
 
 
 

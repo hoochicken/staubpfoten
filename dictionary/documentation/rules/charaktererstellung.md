@@ -61,56 +61,56 @@ Du hast **15 Punkte**, die du frei auf diese sechs Werte verteilen kannst. Ein W
 Dein Charakter hat – wie wir auch – bestimmte Fähigkeiten, aber auch Dinge, die ihm das Leben schwer machen.
 Du kannst zwischen drei und max. fünf Fähigkeiten für deinen Charakter selbst wählen. Du könntest zum Beispiel Fahrzeugsteuerung, Sicheres Auftreten und Staubschatten haben. Du kennst dich also mit Maschinen aus, andere mögen dich auf den ersten Blick, und du kannst dich gut verstecken.
 
-## ⚙️ Technik & Maschinen
+**⚙️ Technik & Maschinen**
 
 * Fahrzeugsteuerung  3
 * Maschinenwartung  2
 * Improvisationstechnik  1
 * Sensoren & Scanner nutzen  2
 
-## 🔥 Überleben & Umwelt
+**🔥 Überleben & Umwelt**
 
 * Navigation im Ödland  3
 * Hitzeresistenz  2
 * Vorratsschätzung  1
 * Staubsturm-Taktik  1
 
-## 🧠 Wissen & Analyse
+**🧠 Wissen & Analyse**
 
 * Planetoforming-Wissen  2
 * Mars-Geologie  2
 * Feindliche Taktiken  2
 * Codes und Systeme  1
 
-## 🗣️ Team & Kommunikation
+**🗣️ Team & Kommunikation**
 
 * Taktisches Denken  3
 * Kaltblütig unter Druck  2
 * Signalgeber  2
 * Mentale Stärke  1
 
-## 🤺 Kampf & Bewegung
+**🤺 Kampf & Bewegung**
 
 * Nahkampf  3
 * Waffenkenntnis  2
 * Lautlos bewegen  2
 * Schnelle Reaktion  1
 
-## 🛠️ Spezialfähigkeiten
+**🛠️ Spezialfähigkeiten**
 
 * Nachtblick  3
 * Maschinensprache  2
 * Feuerhand  1
 * Staubschatten  1
 
-## 🎨 Musische Künste
+**🎨 Musische Künste**
 
 * Dichten  2
 * Rhythmus und Helm-Kunst  1
 * Lieder erfinden und singen  2
 * Malen  1
 
-## Einschränkungen
+## 7. Einschränkungen
 
 Suche dir mindestens 3 Einschränkungen in derselben Wertigkeit aus, wie Du gute Eigenschaften hast.
 
@@ -121,7 +121,7 @@ Also wählst du Schwache Nachtsicht (1), Blind auf einem Auge und Lichtempfindli
 
 Statt zu wählen kannst du auch einfach mit 2 W6 würfeln. Ggf. musst du ein bisschen anpassen, weil ich manche guten Eigenschaften und Einschränkungen einander ausschliessn, z. B.Lautlos bewegen und Lärmverursacher.
 
-### ⚠️ Kleine Einschr. (1 Pkt)
+**⚠️ Kleine Einschr. (1 Pkt)**
 
 (Leicht störend, situationsabhängig)
 
@@ -139,7 +139,7 @@ Statt zu wählen kannst du auch einfach mit 2 W6 würfeln. Ggf. musst du ein bis
 | Stauballergie          | Husten, Niesen, gereizte Augen                                         |
 | Schwache Orientierung  | Verläuft sich leicht in unbekannten Umgebungen                         |
 
-## ⚠️ Mittl. Einschr. (2 Pkt)
+**⚠️ Mittl. Einschr. (2 Pkt)**
 
 (Haben klar spürbare Auswirkungen, aber noch mit Mühe ausgleichbar)
 
@@ -159,7 +159,7 @@ Statt zu wählen kannst du auch einfach mit 2 W6 würfeln. Ggf. musst du ein bis
 | Angst vor Dunkelheit   | Panik oder starke Angst in dunklen Umgebungen                           |
 | Entwicklungsverzögert  | Versteht vieles langsamer, braucht Hilfe                                |
 
-### ⚠️️ Grosse Einschr. (3 Pkt)
+**⚠️️ Grosse Einschr. (3 Pkt)**
 
 (Massiv einschränkend, dominanter Teil der Figur)
 
@@ -178,6 +178,41 @@ Statt zu wählen kannst du auch einfach mit 2 W6 würfeln. Ggf. musst du ein bis
 | Starke Entwicklungsverzögerung    | Stark eingeschränktes Verständnis                 |
 | Blind auf einem Auge + lichtempf. | Kombination aus Sehfeldverlust und Lichtproblemen |
 | Orientierungslos                  | Schlechte Orientierung auch in bekanntem Gelände  |
+
+## 8. Geheimnisse & Questen
+
+Questen sind Grillen, kleine verrückte Ideen, Spleens, die ein Charakter hat.
+Wie Kinder eben so sind: eines sammelt Kronkorken, ein anderes tote Brumsenorgane.
+
+Questen sind kleine Ziele, welche Spieler immer vor Augen haben und meist zu lustigen Nebenabenteuern führt.
+Jeder Charakter hat in der Regel eine Queste, und die ist geheim.
+Das führt dann zu überraschenden Wendungen in Abenteuern.
+
+Hier eine Auswahl an möglichen Questen / Spleens
+
+1. Kleptomanie – Steckt ständig kleine Dinge ein. Gibt sie später manchmal wieder zurück.
+2. Angst vor Brumsen – Brumsen are harmless, but the character panics when one comes close.
+3. Essensdieb – Kann an fremdem Essen einfach nicht vorbeigehen. „Ich wollte nur mal probieren.“
+4. Plötzenfreund – Muss jede Plötze begrüßen und füttern, sobald eine auftaucht.
+5. Sammelwut – Sammelt Schrauben, Steine, Knöpfe oder andere völlig nutzlose Dinge.
+6. Türkontrollierer – Muss jede Tür mindestens zweimal öffnen und schließen.
+7. Zeitangst – Hat Angst, dass plötzlich eine Zeitmaschine auftaucht.
+8. HR-Flüsterer – Spricht mit Hebrobotern, als wären sie lebendige Tiere.
+9. Dosenöffner – Kann an keiner Konservendose vorbeigehen, ohne nachzusehen, was darin ist.
+10. Verlaufensgenie – Verläuft sich zuverlässig, selbst an Orten, die er gut kennt.
+11. Fluchender Techniker – Beschimpft jedes Gerät, das nicht sofort funktioniert.
+12. Tempelzwang – Muss an jedem Tempel kurz hineinschauen. „Man weiß ja nie.“
+13. Schlafsammler – Schläft bei jeder Gelegenheit ein. Auch an völlig ungeeigneten Orten.
+14. Bröselangst – Kann es nicht ertragen, wenn Essen Krümel hinterlässt.
+15. Geheimniskrämer – Flüstert grundsätzlich, selbst wenn niemand zuhört.
+16. Uniformfetisch – Findet jede Uniform faszinierend und möchte wissen, welche Dienstgrade es gibt.
+17. Namensvergesser – Vergisst ständig Namen und erfindet deshalb spontan neue.
+18. Schilderleser – Muss jedes Schild laut vorlesen, auch wenn alle anderen längst weitergehen.
+19. Wettkampfsüchtig – Macht aus völlig normalen Dingen einen Wettbewerb. Wer zieht sich schneller den Raumanzug an?
+20. „Das kann man noch brauchen!“ – Hebt kaputte Gegenstände auf und weigert sich, etwas wegzuwerfen. Seine Wohnbleibe ist entsprechend vollgestellt.
+
+Der Spieler / Charakter gewinnt eine Eigenmotivation und probiert speziell Dinge aus, um seine Queste zu erfüllen.
+Es erleichtert Dich als Meister - andererseits fordert es Dich auch, weil die Charaktere komische Dinge tun.
 
 ## Stufenanstieg
 

@@ -84,6 +84,12 @@ nav:
     - "🪖 Kadettschaft":
       - Allgemeine Infos: kadettschaft/allgemein.md
       - Rangabzeichen: kadettschaft/rangabzeichen.md
+      - "🛠️ Ausrüstung":
+          - Übersicht: kadettschaft/ausruestung/index.md
+          - Geraffel: kadettschaft/ausruestung/geraffel.md
+          - Anzüge: kadettschaft/ausruestung/anzuege.md
+          - Helme: kadettschaft/ausruestung/helme.md
+          - Leichtatmer & Handschuhe: kadettschaft/ausruestung/leichtatmer-und-handschuhe.md
 
   - "🌍 Welt":
     - "Mars":
@@ -106,12 +112,20 @@ nav:
   - NPC-Datenbank:
     - Wehrerziehungslager: _npc/wehrerziehungslager.md
     - Wehrerziehungslager: _npc/Sonstige.md
-  - "🛠️ Ausrüstung":
-    - Übersicht: ausruestung/index.md
-    - Geraffel: ausruestung/geraffel.md
-    - Anzüge: ausruestung/anzuege.md
-    - Helme: ausruestung/helme.md
-    - Leichtatmer & Handschuhe: ausruestung/leichtatmer-und-handschuhe.md
+
+  - "⚙️ Technik":
+      - "Kommunikation & Medizin":
+        - Kommunikation: technik/kommunikation.md
+        - Medizin: technik/medizin.md
+      - "Fahrzeuge & Waffen":
+        - Vehikel: technik/vehikel.md
+        - Granaten: technik/waffen/granaten.md
+
+  - "🎲 Abenteuer":
+    - Schnellstarter: schnellstarter.md
+    - Hauptkampagne: kampagne.md
+    - Solo-RPG:
+      - Mini-RPG: abenteuer/99-mini-rpg.md
 
   - Archiv:
     - "🧑‍🚀 Schnellstarter": _archive-ichbinnand/rules/schnellstarter.md

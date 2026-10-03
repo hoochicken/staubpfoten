@@ -19,4 +19,4 @@ Bei schwerem Krankheits-Verlauf kann er nicht mehr atmen und stirbt.
 * Behandlung: Ruhe
 * Spätfolgen
     * Pratzenlähmung, Gehbehinderung
-    * kein eigenständiges Atmen => Eiserne Lunge lebenslang, Terranische Froschatmung kann erlernt werden
+    * selten: kein eigenständiges Atmen => Eiserne Lunge lebenslang, Terranische Froschatmung kann erlernt werden

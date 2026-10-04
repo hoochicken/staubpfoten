@@ -121,35 +121,35 @@ können einer beliebigen Spezies entstammen.
 
 ## KI
 
-– Ursprung: unbekannt; sie fliegen durch das All und planetofirmieren Planeten
-– Phase 1: Früher Helfer, integraler Bestandteil der Marsgesellschaft
-– Phase 2: Ab 2033 Verfolgung, Internierung
-– Phase 3: 2045 Entdeckung der KI-Lager → Rehabilitierung
-– Phase 4: 2071 neue Robotergesetze → keine Stimme, keine Persönlichkeit, keine Form
+- Ursprung: unbekannt; sie fliegen durch das All und planetofirmieren Planeten
+- Phase 1: Früher Helfer, integraler Bestandteil der Marsgesellschaft
+- Phase 2: Ab 2033 Verfolgung, Internierung
+- Phase 3: 2045 Entdeckung der KI-Lager → Rehabilitierung
+- Phase 4: 2071 neue Robotergesetze → keine Stimme, keine Persönlichkeit, keine Form
 
 ## AKI
 
-– Ursprung: Emergenz aus KI-Strukturen
-– Merkmal: Individualität, emotionale Bindung, Unterstützung von Spielern (z. B. HAL)
-– Rolle: Helfer, Mentoren, geheime Kontaktpersonen
+- Ursprung: Emergenz aus KI-Strukturen
+- Merkmal: Individualität, emotionale Bindung, Unterstützung von Spielern (z. B. HAL)
+- Rolle: Helfer, Mentoren, geheime Kontaktpersonen
 
 ## Raummolche
 
-– Ursprung: Andere Dimension (seit 1990 im Sonnensystem durch Riss)
-– Zyklus:
+- Ursprung: Andere Dimension (seit 1990 im Sonnensystem durch Riss)
+- Zyklus:
     - Gelege (Leuchtglobus)
     - Nymphe (sandwurmartig, ohne Kiemen)
     - Parasitiert → wird zum Raummolch
-– Besonderheiten:
+- Besonderheiten:
     - Teleportationsfähig (durch Gottesstaub)
     - Von weiteren Parasiten befallen (Raumkiemen)
-– Verhalten: Gedanklos, aber folgen Brom und göttlichen Spuren
-– Rolle: Gefahr, Symbol für Gottes Einfluss
+- Verhalten: Gedanklos, aber folgen Brom und göttlichen Spuren
+- Rolle: Gefahr, Symbol für Gottes Einfluss
 
 ## Gott / Gottesstaub / Scherbe Gottes
 
-– Ursprung: Fremddimension
-– 1990 & 2045: Risse ermöglichen Eintritt ins Sonnensystem
-– Wirkung: Wahnsinn, Mutation, Raummolche, göttliche Gaben
-– Symbolik: Chaos, Glaube, Machtquelle für Barben und andere
-– 2045: Scherbe landet auf Mars → Letzter Bromsturz
+- Ursprung: Fremddimension
+- 1990 & 2045: Risse ermöglichen Eintritt ins Sonnensystem
+- Wirkung: Wahnsinn, Mutation, Raummolche, göttliche Gaben
+- Symbolik: Chaos, Glaube, Machtquelle für Barben und andere
+- 2045: Scherbe landet auf Mars → Letzter Bromsturz

@@ -2,9 +2,9 @@
 
 Verwendung: Ausseneinsätze · Geländeübungen · Ausbildungsexpeditionen auf der Marsoberfläche
 
-![Vollrüstung Militär](../../_images/technologie/militaerische-ausruestung/soldaten/soldat-ruestung.jpg)
+![Vollrüstung Militär](_images/anzuege/soldaten/soldat-ruestung.jpg)
 
-![Vollrüstung Militär](../../_images/technologie/militaerische-ausruestung/ruestungen/ruestung-01.jpg)
+![Vollrüstung Militär](_images/anzuege/ruestungen/ruestung-01.jpg)
 
 **🧰 Allgemeines**
 

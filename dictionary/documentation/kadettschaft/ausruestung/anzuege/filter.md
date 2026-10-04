@@ -2,7 +2,7 @@
 
 Der Aktivkohleeinsatz Typ R-Filter/3K ist ein wiederaufbereitbares Filtermodul nach Interstellarer Norm (IN) für Mars-Einsatzanzüge. Es dient der atmosphärischen Luftreinigung bei Ausseneinsätzen unter Marsbedingungen und ist direkt im Anzug (Brust- oder Kragenbereich) verbaut. Der Einsatz ist austauschbar und wird nicht entsorgt, sondern über das Materiallager zur Regeneration zurückgeführt. Er ist kein Bestandteil eines Leichtatmers, sondern integraler Bestandteil des Anzugsystems.
 
-![Filter](../../_images/technologie/militaerische-ausruestung/ruestungen/filter.jpg)
+![Filter](_images/filter-einsatz.jpg)
 
 * Informationsblatt: Aktivkohleeinsatz – IN-genormtes Filtermodul für Mars-Einsatzanzüge
 * Code: F-IN-KEIN-INT-2.1

@@ -68,7 +68,9 @@ Ein leichter, grauer Überwurf gegen Wind und Sand. Hat eingebaute Kapuze und re
 
 ## 14. Medikit
 
-![Medikit, ein Erste-Hilfe-Kasten](../_images/technologie/medizin/medikit-03.jpg)
+![Medikit, ein Erste-Hilfe-Kasten](_images/medikit-01.jpg)
+![Medikit, ein Erste-Hilfe-Kasten](_images/medikit-02.jpg)
+![Medikit, ein Erste-Hilfe-Kasten](_images/medikit-03.jpg)
 
 ## 15. Multitool
 

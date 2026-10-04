@@ -133,10 +133,10 @@ nav:
 
   - "🎲 Abenteuer":
     - Schnellstarter: abenteuer/schnellstarter.md
-    - Kadetten-Fitness": abenteuer/99-fit-wie-ein-kadett.md
+    - Kadetten-Fitness: abenteuer/fit-wie-ein-kadett.md
     - Hauptkampagne: abenteuer/kampagne.md
     - Solo-RPG:
-      - Mini-RPG: abenteuer/99-mini-rpg.md
+      - Mini-RPG: abenteuer/mini-rpg.md
 
   - Archiv:
     - "🧑‍🚀 Schnellstarter": _archive-ichbinnand/rules/schnellstarter.md

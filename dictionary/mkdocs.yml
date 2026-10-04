@@ -115,8 +115,8 @@ nav:
       - Roboter-Gesetze: welt/geschichte/roboter-gesetze.md
 
   - NPCs:
-    - Wehrerziehungslager: _npc/wehrerziehungslager.md
-    - Sonstige: _npc/Sonstige.md
+    - Wehrerziehungslager: npc/wehrerziehungslager.md
+    - Sonstige: npc/Sonstige.md
 
   - "Kultur":
     - "HRG-Karten": kultur/hrg-karten.md

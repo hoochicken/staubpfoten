@@ -2,7 +2,7 @@
 
 Verwendung: Habitatbetrieb · Appelle · Technikbereiche · Unteranzug für Ausseneinsätze
 
-![standard-feldanzug.jpg](../../_images/technologie/militaerische-ausruestung/soldaten/standard-feldanzug.jpg)
+![standard-feldanzug.jpg](_images/standard-feldanzug.jpg)
 
 **🧰 Funktionaler Überblick**
 

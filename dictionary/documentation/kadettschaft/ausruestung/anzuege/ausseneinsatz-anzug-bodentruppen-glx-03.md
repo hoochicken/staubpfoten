@@ -1,6 +1,6 @@
 ## Ausseneinsatzanzug der Bodentruppen – Typ GLx-03P
 
-![Ausseneinsatzanzug der Bodentruppen](_images/anzuege/ausseneinsatzanzug-bodentrippe-glx-03p-a.png)
+![Ausseneinsatzanzug der Bodentruppen](_images/ausseneinsatzanzug-bodentrippe-glx-03p-a.png)
 
 🧾 **Ausrüstungseintrag**
 

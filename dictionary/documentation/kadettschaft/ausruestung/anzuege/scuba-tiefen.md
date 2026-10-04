@@ -1,3 +1,3 @@
 ### Tiefen-Scuba
 
-![Tiefen-Scuba](_images/anzuege/taucheranzug.png)
+![Tiefen-Scuba](_images/taucheranzug.png)

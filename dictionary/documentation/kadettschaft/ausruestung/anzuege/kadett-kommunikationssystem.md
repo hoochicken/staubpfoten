@@ -6,7 +6,7 @@ Verwendungszweck: Gruppenkommunikation bei Ausbildungsexpeditionen · Verbindung
 
 Im Kadettenbetrieb wird aus Kostengründen auf integrierte Helmfunktechnik verzichtet. Stattdessen kommt das einfache Funkmodul "K-Radio/01" zum Einsatz.
 
-![kadett-leichtatmer-mit-helm-plus-komanlage.jpg](../../_images/technologie/militaerische-ausruestung/kadetten/kadett-leichtatmer-mit-helm-plus-komanlage-02.jpg)
+![kadett-leichtatmer-mit-helm-plus-komanlage.jpg](_images/kadett-leichtatmer-mit-helm-plus-komanlage-02.jpg)
 
 * Anbringung: Das Funkmodul wird per Klett- oder Cliphalterung direkt am Anzug befestigt, meist im Brustbereich.
 * Verbindung:

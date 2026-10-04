@@ -33,7 +33,7 @@ Das Grosse Schyff hat auch die KI mit auf den Mars gebracht.
 – Besonderheit: Nach Neith-Unfall (1990) erhalten sie „Gabe der Gegenwartsbrechung“
 – Sprache/Namensmuster: Polnisch – z. B. Kfyloon
 
-![Dreifinger](../_images/dreifinger-skizze.jpg)Die sogenannten Dreifinger stammen vom terranen Mond her. Sie sind
+![Dreifinger](_images/dreifinger-skizze.jpg)Die sogenannten Dreifinger stammen vom terranen Mond her. Sie sind
 schlank, haben einen kreisrunden Mund und erwartungsgemäss drei Finger.
 
 Dreifinger sind von Natur aus freundlich und lieben philosophische Diskussionen. Ausserdem sind sie grundsätzlich zur
@@ -84,7 +84,7 @@ sie nicht diesen grossen kräftigen Schnabel.
 – Rolle: Kriegstreiber, Besiedler von Neith und Mars
 – Sprache/Namensmuster: Französisch – z. B. Julbert („Schülbär“), Claudette
 
-![image](_images/barbe-1-skizze.jpg)![image](../_images/barbe-2-skizze.jpg)Die Barben leben auf dem künstlich
+![image](_images/barbe-1-skizze.jpg)![image](_images/barbe-2-skizze.jpg)Die Barben leben auf dem künstlich
 geschaffenen venaren Mond Neith. Sie sind grandiose Biohacker, die Pflanzen zu allem Möglichen umbauen.
 
 Wo man auf dem Mars einen elektronischen Allempfänger erwarten würde, findet man bei drn Barben eine umstrukturierte

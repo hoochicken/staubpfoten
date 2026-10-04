@@ -2,11 +2,11 @@
 
 ## Sanitäter-Abzeichen
 
-![Sanitaeter-Abzeichen, Pfotenabdruck mit innenliegendem roten Kreuz](../_images/technologie/medizin/sanitaeter-abzeichen.jpg)
+![Sanitaeter-Abzeichen, Pfotenabdruck mit innenliegendem roten Kreuz](_images/medizin/sanitaeter-abzeichen.jpg)
 
 ## Medikit
 
-![Medikit](../_images/technologie/medizin/medikit-03.jpg)
+![Medikit](_images/medizin/medikit-03.jpg)
 
 ## Krankheiten
 

@@ -1,8 +1,8 @@
 # Hebroboto
 
-![image](../_images/skizzen/hr.jpg) Ein Arbeitgerät in Form eines Exoskeletts. Es gibt sie in verschiedenen Grössen, je nach auszuführender Arbeit und wie s
+![image](_images/hr/hr-02.jpg) Ein Arbeitgerät in Form eines Exoskeletts. Es gibt sie in verschiedenen Grössen, je nach auszuführender Arbeit und wie s
 
-![hr-01.jpg](../_images/technologie/vehikel/hr-01.jpg)
+![hr-01.jpg](_images/hr/hr-01.jpg)
 
 **Hebrobotos**
 

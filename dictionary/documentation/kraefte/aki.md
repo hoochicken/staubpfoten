@@ -12,7 +12,7 @@ Sie hilf ihm, weil sie dazu auf Basis der alten Robotergesetze verpflichtet ist.
 * wen  ja, wie
 * wenn nand die rübe brinht, dan  muss nand vorher mitgeteilt haben, dass er brom braucht
 
-![image](../_images/aki-skizze.jpg)
+![image](_images/aki-skizze.jpg)
 
 ## Vorkommen
 
@@ -33,7 +33,7 @@ Mother of all KI [in Arbeit]
 
 **Zusammenfassung**: Hüterin der Geschichten · Helfereinheit · Freundin der Kadetten
 
-![image](../_images/lyra-7.png)
+![image](_images/lyra-7.png)
 
 
 ### 📜 Hintergrund

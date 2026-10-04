@@ -1,3 +1,3 @@
 ## Kampagne
 
-{in Arbeit]
+[in Arbeit]

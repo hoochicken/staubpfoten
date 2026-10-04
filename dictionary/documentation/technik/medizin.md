@@ -20,3 +20,8 @@ Bei schwerem Krankheits-Verlauf kann er nicht mehr atmen und stirbt.
 * Spätfolgen
     * Pratzenlähmung, Gehbehinderung
     * selten: kein eigenständiges Atmen => Eiserne Lunge lebenslang, Terranische Froschatmung kann erlernt werden
+
+## Barbische Bio-Technologie
+
+Die fortgeschrittene barbische Bio-Technologie kommt nach dem 2. Interplanetarischen Krieg auf den Mars, teils.
+Dazu gehören z. B. die Farnholz-Beine für amputierte Gliedmassen und die Entkörperung.

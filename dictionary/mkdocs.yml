@@ -78,52 +78,64 @@ nav:
     - "Das ist Rollenspiel": rules/rollenspiel.md
     - Charaktererstellung: rules/charaktererstellung.md
     - Charakterbögen: rules/charakterboegen.md
+    - KI-Charaktererstellung: rules/charaktererstellung-ki.md
     - Regeln: rules/regeln.md
     - Quellen: rules/quellen.md
 
-    - "🪖 Kadettschaft":
-      - Allgemeine Infos: kadettschaft/allgemein.md
-      - Rangabzeichen: kadettschaft/rangabzeichen.md
-      - "🛠️ Ausrüstung":
-          - Übersicht: kadettschaft/ausruestung/index.md
-          - Geraffel: kadettschaft/ausruestung/geraffel.md
-          - Anzüge: kadettschaft/ausruestung/anzuege.md
-          - Helme: kadettschaft/ausruestung/helme.md
-          - Leichtatmer & Handschuhe: kadettschaft/ausruestung/leichtatmer-und-handschuhe.md
+  - "🪖 Kadettschaft":
+    - Allgemeine Infos: kadettschaft/allgemein.md
+    - Rangabzeichen: kadettschaft/rangabzeichen.md
+    - "🛠️ Ausrüstung":
+        - Übersicht: kadettschaft/ausruestung/index.md
+        - Geraffel: kadettschaft/ausruestung/geraffel.md
+        - Anzüge: kadettschaft/ausruestung/anzuege.md
+        - Helme: kadettschaft/ausruestung/helme.md
+        - Leichtatmer & Handschuhe: kadettschaft/ausruestung/leichtatmer-und-handschuhe.md
 
   - "🌍 Welt":
     - "Mars":
       - Marser: welt/marser.md
       - Planet: welt/geographie/mars.md
       - Brom: welt/geographie/brom.md
-      - Bromsal: welt/geographie/bromsal.md
+      - "Noctis Labyrinthus": welt/geographie/noctis-labyrinthus.md
+    - Bromsal:
+      - Stadt: welt/geographie/bromsal/bromsal.md
+      - Wehrerziehungslager: welt/geographie/bromsal/wel.md
+      - Stabsgebäude: welt/geographie/bromsal/stabsgebaeude.md
+      - Bauernhof Kropp: welt/geographie/bromsal/bauernhof-kropp.md
+      - Granaten-Fertigungsanlage: welt/granaten-fertigung.md
     - "👽 Kräfte & Völker":
       - Völkerübersicht: welt/kraefte/voelker.md
       - KI: welt/kraefte/ki.md
       - Gott: welt/kraefte/gott.md
       - Raummolche: welt/kraefte/raummolche.md
+      - EK-Institut: welt/kraefte/ek-institut.md
     - "Geschichte":
       - Zeitstrahl: welt/geschichte/zeitgeschehen.md
       - Roboter-Gesetze: welt/geschichte/roboter-gesetze.md
 
+  - NPCs:
+    - Wehrerziehungslager: _npc/wehrerziehungslager.md
+    - Sonstige: _npc/Sonstige.md
+
   - "Kultur":
     - "HRG-Karten": kultur/hrg-karten.md
     - Kommunikation: kultur/kommunikation.md
-  - NPC-Datenbank:
-    - Wehrerziehungslager: _npc/wehrerziehungslager.md
-    - Wehrerziehungslager: _npc/Sonstige.md
 
   - "⚙️ Technik":
-      - "Kommunikation & Medizin":
-        - Kommunikation: technik/kommunikation.md
-        - Medizin: technik/medizin.md
-      - "Fahrzeuge & Waffen":
-        - Vehikel: technik/vehikel.md
-        - Granaten: technik/waffen/granaten.md
+      - Kommunikation: technik/kommunikation.md
+      - Hebrobotos: technik/hr.md
+      - Vehikel: technik/vehikel.md
+      - Ornithopter: technik/ornithopter.md
+      - Baumschiffe: technik/baumschiffe.md
+      - Verschiedenes: technik/verschiedenes.md
+      - Medizin: technik/medizin.md
+      - Entkörperung: technik/entkoerperung.md
 
   - "🎲 Abenteuer":
-    - Schnellstarter: schnellstarter.md
-    - Hauptkampagne: kampagne.md
+    - Schnellstarter: abenteuer/schnellstarter.md
+    - Kadetten-Fitness": abenteuer/99-fit-wie-ein-kadett.md
+    - Hauptkampagne: abenteuer/kampagne.md
     - Solo-RPG:
       - Mini-RPG: abenteuer/99-mini-rpg.md
 

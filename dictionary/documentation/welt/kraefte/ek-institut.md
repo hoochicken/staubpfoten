@@ -1,8 +1,28 @@
 # Entkörperungsinstitut
 
-Das Entkörperungsinszitut ist eine Einrichtung, die Entkörperungen / Entleibungen durchführt.
+> **Das EK-Institut existiert in der Zukunft, d a. 30 Jahre NACH dem Krieg.**
+> Dieses Institut gibt es also erst später.
+> Allenfalls Anklänge der Entkörperungstechnologien sind zuzeiten des 2. Interplanetaren Krieges zu finden.
+>
+> Die EK-Technologie gelangt erst durch die Barben auf den Mars
+
+Das Entkörperungsinstitut ist eine Einrichtung, die Entkörperungen / Entleibungen durchführt.
 
 Äusserlich ist das EKI eine öffentliche, vielleicht sogar staatliche Einrichtung. Jedoch hat es eine versteckte Agenda: Manche Gehirne werden vertraglich dazu verpflichtet an Experimenten teilzunehmen.
+
+## Das Entkörperungsinstitut
+
+Das eigentliche **Entkörperungsinstitut (EKI)** entsteht erst ungefähr **30 Jahre nach dem Krieg**.
+
+Nach außen ist es eine:
+
+- öffentliche Einrichtung
+- medizinische Institution
+- möglicherweise staatliche Forschungseinrichtung
+- Anlaufstelle für Entkörperungen und fortgeschrittene biologische Behandlungen
+
+Doch hinter dieser Fassade gibt es eine geheime Forschungsagenda.
+
 
 # Experimente
 
@@ -12,9 +32,9 @@ Warum Gehirne in Exoskeletten? Weil sonst die Augen Gottes den Eindringling entd
 
 ## Verschwundener Stützpunkt
 
-Auf der Oberfläche Gottes gelang es, einen Stützpunkt einzurichten. Dieser jedich verschwand und es ist unbekannr, was mit ihm geschehen ist.
+Auf der Oberfläche Gottes gelang es, einen Stützpunkt einzurichten. Dieser jedoch verschwand und es ist unbekannr, was mit ihm geschehen ist.
 
-## Gemeinschafts-Tank
+## NPC Nand
 
 Nand kommt in einen Gemeinschafts-Tank, als er ins Labor kommt. Mit Sicht auf Experimentierhalle
 
@@ -34,14 +54,6 @@ Nand kommt in einen Gemeinschafts-Tank, als er ins Labor kommt. Mit Sicht auf Ex
 
 Proben werden von der OG, was machen sie damit? Es wird einen Unfall geben.
 
-## Im HR
-
-* Nand wird recht bald in den HR gesteckt, ist auf der Marsoberfläche
-* Nand erinnert sich, dass HRs auftauchte und wieder verschwand => Erkläring
-* UW-Technologie versteckt das Gebäude
-* Hat Nand Kontakt zur KI?
-* nach Nands Tod gewinnt Nand wieder die Überhand bzw. Wackelkontakt
-
 ## Die Scherbe Gottes
 
 Das EKI ist im Grossen Brom-Delta situiert. Dort entschloss sich damals nach dem Niedergang der Bombe der grösste aller Gottesscherben niederzugehen.
@@ -60,25 +72,46 @@ Bereits während des Zweiten Solaren Kriegs hat die erste Entkörperung marsisch
 
 Zumindest kann man das riesige Gebäude nicht sehen. Denn es ist mit UW-Technologoe getarnt. Die Trasse vom EK-Besuchertaum zum Laborgebäude scheint im nuczrs zu verschwinden.
 
-## Ideen
-
-* Fluchtversuch HR
-* Abschuss Ornithopter
-* Fuss-Patrouillien
-* Blitze / Aktionen von OG-Scherbe
-* Versuch det Kontaktaufnahme zu Nands Gottes-Scherbe
-* Fluchtversuch Hebroboto
-* Abschuss Ornithopter
-* Wachmarser
-* RRiesenbarben auf Stretschupps
-* Blitze von der Oberfläche-Gottes-Scherbe
-* viele Raummolche
-* Verbindung zwishcen Besuchern und Experimenten
-* neue Gehirne werden gehol
-* eines der ersten Kapitel: Nand wird Zeuge, wie Angehörige weinen, als ein Gehirn weggebracht wird
-* Vetsuch det Kontaktaufnahme zu Nands Gottes-Scherbe
-
 ## Das wahnsinnige Gehirn
 
 Ein HR kommt von der Marsoberfläche zurück. Der Cephaloid rammt daraufhin immer wieder gegen den Kubus, um seinen Frontallappen zu zerstören.
+
+## Die Scherbe Gottes
+
+Die Entwicklung der Gehirn-HRs erhält später einen ganz besonderen Zweck.
+Auf der Oberfläche der **Scherbe Gottes** können normale Lebewesen nicht gefahrlos operieren.
+Dort befinden sich unter anderem:
+
+- zahlreiche **Raummolche**, Parasiten der Gottesoberfläche
+- weitere unbekannte biologische Strukturen
+
+Die Augen Parasiten erkennen lebende Eindringlinge und töten sie.
+Die Forscher entdecken jedoch ein merkwürdiges Prinzip:
+Ein Gehirn in einem Exoskelett gilt biologisch nicht mehr als lebendes Wesen.
+Damit können Gehirn-HRs auf die Oberfläche geschickt werden.
+
+Ihre Aufgaben:
+
+- Proben entnehmen
+- biologische Materialien untersuchen
+- die Oberfläche erkunden
+- unbekannte Strukturen dokumentieren
+- Proben zurück zur Forschungsstation bringen
+
+## Das verschwundene Forschungszentrum
+
+Auf der Oberfläche Gottes gelingt es irgendwann sogar, einen **Stützpunkt** einzurichten.
+
+Doch dieser verschwindet.
+
+Niemand weiß genau:
+
+- was mit dem Stützpunkt passiert ist
+- ob seine Besatzung noch existiert
+- ob die Scherbe selbst darauf reagiert hat
+- ob die Proben etwas ausgelöst haben
+- ob der Stützpunkt zerstört oder einfach verschwunden wurde
+
+Das Ereignis bleibt eines der großen ungelösten Rätsel der EK-Forschung.
+
 

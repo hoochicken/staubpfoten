@@ -7,6 +7,11 @@ Hier kann man ganz normal sprechen.
 
 Ausser-Marser chaben gernä ainen AAkzent!
 
+> Hinweis der Autorin: Der Akzent ist ein **natürliches Phänomen**, das entsteht, wenn eine neue Sprache gelernt wird.
+> Der Akzent trägt dazu bei, die Figuren plastischer werden zu lassen.
+> Natürlich bietet es sich an, die Akzent an den süssen Varianten des Deutschen zu orientieren.
+> Info: Keine Frage: Auch Marser haben bei Neu-Spracherwerb einen deutlichen Akzent :-D
+
 * **Titanen**: russischer Akzent, die Betonungen sind verschoben
     * jedes "ch" => "kch"
     * a => aaa
@@ -30,7 +35,7 @@ Ausser-Marser chaben gernä ainen AAkzent!
 
 ## 2. Funkprotokolle, gesprochen
 
-### Einleitung
+**Einleitung**
 
 Kommunikation zwischen zwei und mehr Teilnehmern auf ein- und demselben Kanal setzt Disziplin voraus.
 Damit das klappt, gibt es das Funkprotokoll.
@@ -44,7 +49,7 @@ Generell gilt:
 
 Hier Beispiele:
 
-### Beispiele
+**Beispiele**
 
 Einfach
 
@@ -54,12 +59,12 @@ Einfach
 * hier gruppe 1 - verstanden kommen
 * hier basis - ende
 
-#### Eingespielter Funkverkehr
+**Eingespielter Funkverkehr**
 
 * Gruppe 1 von Basis, bla bla bla kommen
 * hier gruppe x verstanden, ende
 
-#### Achtung Spruch
+**Achtung Spruch**
 
 * gruppe x von basis achtung spruch kommen
 * hier gruppe x achtung sprung kommen
@@ -69,7 +74,7 @@ Einfach
 
 ![funkgeraet-handheld.jpg](_images/kommunikation/geraete/funkgeraet-handheld.jpg)
 
-#### Reihenruf
+**Reihenruf**
 
 * gruppe x,y,z von basis laber rhabarber kommen
 * hier gruppe x verstanden kommen
@@ -77,7 +82,7 @@ Einfach
 * hier gruppe z verstanden kommen
 * hier basis ende
 
-#### Sammelruf
+**Sammelruf**
 
 * alle von basis laber rhabarber kommen
 * hier gruppe x verstanden kommen
@@ -110,7 +115,7 @@ Info: Grossschreibung? Ein Gebärdenbegriff wird durch Grossschreibung markiert.
 | ![qrcode-spreadthesign.png](_images/kommunikation/gebaerdensprache/qrcode-spreadthesign.png) | ![qrcode-signdict.png](_images/kommunikation/gebaerdensprache/qrcode-signdict.png) | ![qrcode-manimundo.png](_images/kommunikation/gebaerdensprache/qrcode-manimundo.png) |
 | Lexikon                                                                          | Lexikon                                                                | Lernen                                                                   |
 
-#### Finger-Alphabet
+## Finger-Alphabet
 
 Neue Begriffe werden mit dem Fingeralphabet aufgegriffen. Und das findest du hier:
 

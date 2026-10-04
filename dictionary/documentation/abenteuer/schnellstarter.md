@@ -1,3 +1,3 @@
 ## Schnellstarter
 
-{in Arbeit]
+[in Arbeit]

@@ -1,13 +1,12 @@
 # Charaktererstellung
 
-## Charakterbogen
-
-[charakterbogen-ki-ichbinki.pdf](_images/charakterbogen/charakterbogen-ki-ichbinki.pdf)
-
 ## Wer bist du?
 
 Für ein Abenteuer benötigst Du eine KI als Charakter.
 KIs bezeichnen die Marser nicht also solche, sondern als sogenannte "Chimären".
+
+Den KI-Charakterbogen kannst DU DIr hier herunterladen: <a target="_blank" src="_images/charakterbogen/charakterbogen-ki-ichbinki.pdf">Charakterbogen KI</a>
+
 
 ## 1. Name
 

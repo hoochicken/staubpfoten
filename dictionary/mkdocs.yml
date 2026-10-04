@@ -73,7 +73,7 @@ extra_css:
 
 # Navigation
 nav:
-  - Startseite: index.md
+  - "🐱 Startseite": index.md
   - "🧑‍🚀 Regeln":
     - "Das ist Rollenspiel": rules/rollenspiel.md
     - Charaktererstellung: rules/charaktererstellung.md
@@ -85,7 +85,7 @@ nav:
   - "🪖 Kadettschaft":
     - Allgemeine Infos: kadettschaft/allgemein.md
     - Rangabzeichen: kadettschaft/rangabzeichen.md
-    - "🛠️ Ausrüstung":
+    - Ausrüstung:
         - Übersicht: kadettschaft/ausruestung/index.md
         - Geraffel: kadettschaft/ausruestung/geraffel.md
         - Anzüge: kadettschaft/ausruestung/anzuege.md
@@ -104,25 +104,24 @@ nav:
       - Stabsgebäude: welt/geographie/bromsal/stabsgebaeude.md
       - Bauernhof Kropp: welt/geographie/bromsal/bauernhof-kropp.md
       - Granaten-Fertigungsanlage: welt/bromsal/granaten-fertigung.md
-    - "👽 Kräfte & Völker":
+    - "Kräfte & Völker":
       - Völkerübersicht: welt/kraefte/voelker.md
       - KI: welt/kraefte/ki.md
       - Gott: welt/kraefte/gott.md
       - Raummolche: welt/kraefte/raummolche.md
       - EK-Institut: welt/kraefte/ek-institut.md
+    - Kultur:
+        - "HRG-Karten": kultur/hrg-karten.md
+        - Kommunikation: kultur/kommunikation.md
     - "Geschichte":
       - Zeitstrahl: welt/geschichte/zeitgeschehen.md
       - Roboter-Gesetze: welt/geschichte/roboter-gesetze.md
 
-  - NPCs:
+  - "🧑‍🌾 NPCs":
     - Wehrerziehungslager: npc/wehrerziehungslager.md
     - Sonstige: npc/sonstige.md
 
-  - "Kultur":
-    - "HRG-Karten": kultur/hrg-karten.md
-    - Kommunikation: kultur/kommunikation.md
-
-  - "⚙️ Technik":
+  - "🛠️ Technik":
       - Kommunikation: technik/kommunikation.md
       - Hebrobotos: technik/hr.md
       - Vehikel: technik/vehikel.md

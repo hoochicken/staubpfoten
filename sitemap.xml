@@ -305,19 +305,15 @@
          <lastmod>2026-10-04</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/abenteuer/99-fit-wie-ein-kadett/</loc>
-         <lastmod>2026-10-04</lastmod>
-    </url>
-    <url>
-         <loc>http://127.0.0.1:8000/abenteuer/99-individual-questen/</loc>
-         <lastmod>2026-10-04</lastmod>
-    </url>
-    <url>
-         <loc>http://127.0.0.1:8000/abenteuer/99-mini-rpg/</loc>
+         <loc>http://127.0.0.1:8000/abenteuer/fit-wie-ein-kadett/</loc>
          <lastmod>2026-10-04</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/abenteuer/kampagne/</loc>
+         <lastmod>2026-10-04</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/abenteuer/mini-rpg/</loc>
          <lastmod>2026-10-04</lastmod>
     </url>
     <url>

@@ -2,7 +2,7 @@
 
 Das **Kadetten-Fit-Programm** gehört zur täglichen Ausbildung jedes Kadetten. Die Übungen sollen nicht nur Kraft und Ausdauer verbessern, sondern den Kadetten Schritt für Schritt sicherer, beweglicher und belastbarer machen.
 
-Hier geht's zur <a onclick="confirm('Die App befindet sich auf einem anderen Server. Dafür kommst Du auf die Website atoms.dev. Klicke ABBRCHEN, wenn Du die App lieber niocht schauen willst.')" target="_blank" href="https://kadettenfit.atoms.world/">App mit Zeitnahme und Belohnung!</a>
+Hier geht's zur <a target="_blank" onclick="confirm('Die App befindet sich auf einem anderen Server. Dafür kommst Du auf die Website atoms.dev. Klicke ABBRCHEN, wenn Du die App lieber niocht schauen willst.')" href="https://kadettenfit.atoms.world/">App mit Zeitnahme und Belohnung!</a>
 
 Jede Stufe steht für ein Element und eine besondere Fähigkeit:
 

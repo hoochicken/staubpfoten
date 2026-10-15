@@ -49,19 +49,38 @@ Wir sind der Kadettenbund.
 Mijaaaau.
 Mijaaaau.
 
+Der Helm sitzt dicht, Ventil ist gut
+Vor Brom sei, Bruder, auf der Hut
+Den Nordweiser fest in der Hand
+Kadett, pass auf, der Bromstuz kommt.
+
+BALL DIE HAND ZUR FAUST
+FAUSTSCHLAG AUF DIE BRUST
+ADRETT MZ 
+ADRETT MZ
+ADRETT - M - Z
+~~~
+
+## Auf der Wacht
+
+~~~
 Der Wind singt leis durch kalten Sand,
 die Dünen glühn wie Sternenband.
 Mars leuchtet rot in stiller Nacht,
 der Kadettenbund — wir halten wacht.
 
-Mijaaaau.
-Mijaaaau.
+Auf der Düne
+Zwischen Farnen
+Wohl verborgen
+Tief im Sand
 
 Landet der Feind mit Bomb und Heer,
 Wie Bromsturz fegen wir daher.
 Alle müssen sie vergehn!
 Kameradschaft bleibt bestehn!
 
-Mijaaaau.
-Mijaaaau.
+Auf der Düne
+Zwischen Farnen
+Wohl verborgen
+Tief im Sand
 ~~~

@@ -30,6 +30,12 @@ Im Wind flüster das Blaugras, unter Mars ist wunderschön.
 Hmm hm hm hm hm
 [melodiöses Schnurren]
 
+Von Vater Mars bis an den Merkur, von Jupiter bis Neptun
+All' Planeten beugen sich dem Marsertum.
+
+Hmm hm hm hm hm
+[melodiöses Schnurren]
+
 Rotes Brom
 Smaragdner Himmel
 Azuren Gras

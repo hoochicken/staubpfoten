@@ -3,7 +3,7 @@
 {% include-markdown "./anzuege/soldat-feldanzug-standard.md" %}
 
 ## Kadett
-
+{!included_file.md!}
 {% include-markdown "./anzuege/kadett-clx-01.md" %}
 
 {% include-markdown "./anzuege/kadett-kommunikationssystem.md" %}

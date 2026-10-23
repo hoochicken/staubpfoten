@@ -1,4 +1,4 @@
-# Staubpfotencd - das Rollenspiel
+# Staubpfoten - das Rollenspiel
 
 ## Github pages 
 

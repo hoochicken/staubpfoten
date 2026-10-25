@@ -1,0 +1,20 @@
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mkdocs-product-gallery"
+version = "0.1.0"
+description = "A Markdown image carousel extension for MkDocs"
+requires-python = ">=3.9"
+dependencies = ["Markdown>=3.4", "mkdocs>=1.5"]
+
+[project.entry-points."markdown.extensions"]
+carousel = "mkdocs_product_gallery:CarouselExtension"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+mkdocs_product_gallery = ["assets/css/*.css", "assets/js/*.js"]

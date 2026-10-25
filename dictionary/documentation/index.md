@@ -2,21 +2,23 @@
 
 ## 🎭 Das Rollenspiel
 
-Hab Spass auf dem Mars! Erlebe Gefahren und Abenteuer! Und wie weit wirst du gehen, um den Mars und das Marser Volk zu retten?
+Hab Spaß auf dem Mars! Erlebe Gefahren und Abenteuer – und finde heraus, wie weit du gehen wirst, um den Mars und das Marservolk zu retten.
 
 ![Eine Kadettschaft](assets/images/_website/startseite/kadettschaft_neu_50.png)
 
-Das Rollenspiel in Stichpunkten erklärt:
+**Das Rollenspiel in Kürze:**
 
-1. Du bist eine Katze auf zwei Beinen.
-2. Du lebst auf dem Mars. Die Atmosphäre des Mars ist giftig und darum brauchst du einen Schutzanzug.
-3. Der Marsianische Zephir herrscht über den Mars. Er ist wahnsinning und hat einen Krieg angezettelt.
-4. Du bist zwangsweise Mitglied in der Kadettschaft. Dort sollst du zu einem ordentlichen, wehrfähigen Soldaten erzogen werden.
-5. Irgendwann merkst du, dass das alles irgendwie gar kein Spiel ist. Was wirst du tun?
+1. Du bist eine Katze auf zwei Beinen – eine Felin.
+2. Du lebst auf dem Mars. Seine Atmosphäre ist giftig, deshalb brauchst du einen Schutzanzug.
+3. Der Marsianische Zephir herrscht über den Mars. Er ist wahnsinnig und hat einen Krieg angezettelt.
+4. Du bist zwangsweise Mitglied der MZ-Kadettschaft. Dort sollst du zu einem ordentlichen, wehrfähigen Soldaten erzogen werden.
+5. Irgendwann merkst du, dass das alles kein Spiel ist. Was wirst du tun?
 
-![Ein typischer Kadett, du?](assets/images/_website/startseite/kadett_50.png){ style="float:right; width:50%;" } **Besonderheit**: Jeder Charakter hat eine eigene Behinderung oder **Einschränkung** – **körperlich oder geistig**. Dies ist nicht nur ein Merkmal, sondern beeinflusst Spielweise, Entscheidungen und Lösungen.
+![Ein typischer Kadett – vielleicht du?](assets/images/_website/startseite/kadett_50.png){ style="float:right; width:50%;" }
 
-**Ambience Sound zu Mars, Krieg und Raumschiff**
+Jeder Charakter hat eine eigene **Behinderung oder Einschränkung** – körperlich, sensorisch oder psychisch. Sie ist mehr als ein Merkmal: Sie beeinflusst die Spielweise, Entscheidungen und möglichen Lösungen.
+
+**Atmosphäre: Mars, Krieg und Raumschiff**
 
 <p style="text-align:left; float:left;">
   <audio controls preload="auto">
@@ -29,148 +31,103 @@ Das Rollenspiel in Stichpunkten erklärt:
 
 ## 🔴 Mars, 2045
 
-Die unendliche Weite des Horizonts. Überspannt vom sanft grünen Himmel.  Der Sand und all die verschiedenen Farbtöne des Sands. Ocker. Ziegel. Dunkel. Braun. Bromig. Hier bist du geboren. Auf dem Mars.
+Die unendliche Weite des Horizonts, überspannt von einem sanft grünen Himmel. Sand in vielen Farbtönen: Ocker, Ziegelrot, dunkles Braun. Hier bist du geboren – auf dem Mars.
 
-Es riecht nach Brom. Denn dein Filter ist alt. Du solltest ihn schon länger ersetzt haben. Das Brom ist bitter ... und ätzend.
+Es riecht nach Brom. Dein Filter ist alt und hätte längst ersetzt werden müssen. Das Brom schmeckt bitter und ist ätzend.
 
->Ihr schlüpft in die Rollen **Marser Kinder**.
->Marser sind Feline mit Fell, Schwarz und Schnurrhaaren.
->Erlebt ein wundervolles Abenteuer – und macht die Welt ein bisschen besser!
+> Ihr schlüpft in die Rollen **Marser Kinder**.
+> Marser sind katzenartige Wesen mit Fell, schwarzen Nasen und Schnurrhaaren.
+> Erlebt ein Abenteuer – und macht die Welt ein bisschen besser!
 
 ![MZ-Armbinde](assets/images/_website/startseite/armbinde_50.png){ style="float:right; width:50%;" }
 
-Die Handlung spielt auf dem Mars, in einer nahen Dimension. Du bist ein Feliner, der auf dem Mars lebt; also eine Katze auf zwei Beinen im Schutzanzug.
+Die Handlung spielt auf dem Mars einer nahen Dimension. Du bist eine Felin: eine Katze auf zwei Beinen, die in einem Schutzanzug lebt.
 
-Der Mars steht kurz vor dem Krieg beziehungsweise es ist schon Krieg. Und du bist Mitglied der sogenannten MZ-Kadettschaft, einer paramilitärische Gruppierung zum Heranziehen von Soldaten.
+Der Mars steht kurz vor dem Krieg – oder der Krieg hat bereits begonnen. Du bist Mitglied der **MZ-Kadettschaft**, einer paramilitärischen Organisation, die junge Menschen zu Soldaten ausbildet.
 
-Und das heisst Spass. Nachmittägliche Gruppenstunden, mehrtägige Wehrertüchtigungslager, HR-Führerschein! Besonders toll ist, dass ihr bald richtige Aufträge bekommt. Zum Beispiel KI überwachen oder gleich selbst zu plasmieren.
+Das bedeutet nachmittägliche Gruppenstunden, mehrtägige Wehrertüchtigungslager und einen HR-Führerschein. Bald bekommt ihr sogar richtige Aufträge: zum Beispiel, eine KI zu überwachen oder sie selbst zu „plasmieren“.
 
-Nieder mit den KI!
+**Nieder mit den KI!**
 
-(Oder auch nicht!)
+(Oder auch nicht.)
 
 ## Disclaimer
 
-### 🛸️ Erklärung zum Spielsystem und seiner historischen Einordnung
+### 🛸️ Zum Spielsystem und seiner historischen Einordnung
 
-![MZ-Flagge](assets/images/_website/startseite/flagge_50.png){ style="float:left;width:50%;margin-right:25px" }Dieses Spielsystem wurde mit einem klaren Ziel entwickelt: Aufklärung durch kritische Auseinandersetzung. Die darin enthaltenen Elemente diktatorischer Systeme – etwa Kontrolle, Propaganda, Gehorsam oder Gewaltmonopol – sollen nicht ästhetisiert oder romantisiert, sondern offengelegt und hinterfragt werden.
+![MZ-Flagge](assets/images/_website/startseite/flagge_50.png){ style="float:left;width:50%;margin-right:25px" }
 
-Gerade in Zeiten, in denen demokratische Werte wieder unter Druck geraten, halten wir es für notwendig, auch über spielerische Mechaniken zu vermitteln, wie gefährlich totalitäre Ideologien sind.
+Dieses Spielsystem soll zur kritischen Auseinandersetzung mit diktatorischen Strukturen anregen. Kontrolle, Propaganda, Gehorsam, Gruppenzwang und Gewalt werden nicht ästhetisiert oder romantisiert, sondern sichtbar gemacht und hinterfragt.
 
-Unser Spielsystem verherrlicht in keiner Weise die Greueltaten oder Ideologien des Dritten Reichs. Im Gegenteil: Wir verfolgen mit diesem System einen klar aufklärerischen Ansatz. Ziel ist es, insbesondere jungen Menschen auf eindringliche Weise bewusst zu machen, wie gefährlich diktatorische Systeme wie jenes des Nationalsozialismus sein können.
+Das Spiel verherrlicht weder die Verbrechen des Nationalsozialismus noch dessen Ideologie. Es verfolgt einen aufklärerischen Ansatz und soll insbesondere junge Menschen für die Gefahren totalitärer Systeme, Faschismus, Diskriminierung und ideologischer Verblendung sensibilisieren.
 
-Dabei sehen wir unser Spiel in einer ähnlichen Tradition wie der Roman "Starship Troopers" von Robert Heinlein, der häufig missverstanden wird, tatsächlich jedoch zur kritischen Auseinandersetzung mit autoritären Gesellschaftsformen einlädt.
-
-Ergänzend dazu: Der besondere Wert unseres Ansatzes liegt in der Verbindung von spielerischem Zugang und historischer Sensibilisierung. Diese Herangehensweise hat viele Teilnehmer beeindruckt – sie macht Geschichte erlebbar, ohne sie zu trivialisieren.
+Wir verstehen das Spiel als Beitrag zur historischen und politischen Bildung. Seine Themen werden durch Spielmechaniken, moralische Dilemmata und narrative Konflikte erfahrbar – ohne Leid oder Gewalt zu trivialisieren.
 
 ### ⚠️ Triggerwarnungen
 
-* Ideologie
-* Gruppenzwang
-* Verrat
-* Irrtum
-* Tod
-* Body-Horrer / Missgestaltung des Körpers
-* Ungerechtigkeit gegenüber Minderheiten
-* Zweifel
-* Ungewissheit
-* Gewalt gegen alles Mögliche, was der Ideologie widerspricht
+Das Spiel behandelt unter anderem:
+
+- Ideologie und Propaganda
+- Gruppenzwang, Mitläufertum und Verrat
+- Irrtum, Zweifel und Ungewissheit
+- Tod und Gewalt
+- Körperhorror und körperliche Veränderungen
+- Ungerechtigkeit und Diskriminierung von Minderheiten
 
 ### 🜁 Hintergrund
 
-Die Grundstimmung und viele Themen basieren auf den Kriegserlebnissen von Ferdinand Riegel, dem Vater der Autorin des Buches "Ich bin Nand" sowie dieses Rollenspiels. Seine Erfahrungen und Erkenntnisse aus dem 2. Weltkrieg geben dem Spiel eine ehrliche, emotionale Tiefe.
+Grundstimmung und Themen des Spiels beruhen unter anderem auf den Kriegserlebnissen von Ferdinand Riegel, dem Vater der Autorin des Buches *Ich bin Nand* und dieses Rollenspiels. Seine Erfahrungen aus dem Zweiten Weltkrieg prägen die emotionale Tiefe des Spiels.
 
-Nicht zuletzt hast du in diesem Rollenspiel die Chance, kleine Fluchten und Rettungen zu ermöglichen. Denn hier wie im richtigen Leben gilt: Die Welt immer ein bisschen besser machen. Und Entscheidungen treffen, die damals getroffen hätten werden sollen.
-
-## 🛡️ Nie wieder!
-
-> Dieses Spielsystem wurde mit dem ausdrücklichen Ziel entwickelt, **kritische Auseinandersetzung mit totalitären Strukturen** zu ermöglichen.
-Es zeigt bewusst Elemente wie **Kontrolle, Propaganda, Gruppenzwang** und die **Unterdrückung von Individualität** – nicht zur Verherrlichung, sondern zur **Reflexion**.
-
-In einer Zeit, in der **autoritäres Denken**, **Verschwörungsideologien** und **politische Radikalisierung** wieder zunehmen, sehen wir es als unsere Verantwortung, neue Wege der **historischen und politischen Bildung** zu gehen.
-Unser Spiel soll **bewusst machen**, wie diktatorische Systeme entstehen, funktionieren – und wohin sie führen können.
-
-Dabei **distanzieren wir uns ausdrücklich** von jeder Form der Verherrlichung des Dritten Reichs oder seiner Ideologie.
-Vielmehr ist es unser Ziel, insbesondere **junge Menschen für die Gefahren von Faschismus, Diskriminierung und ideologischer Verblendung** zu sensibilisieren.
+Im Spiel gibt es die Möglichkeit, Menschen und andere Wesen zu retten und kleine Veränderungen zum Guten anzustoßen. Denn hier wie im richtigen Leben gilt: die Welt ein bisschen besser machen – und Entscheidungen treffen, die damals hätten getroffen werden sollen.
 
 ## 🎓 Inspirationsquellen
 
-Wir sehen uns damit in der Tradition aufklärerischer Werke wie:
+Das Spiel steht in der Tradition von Werken, die sich mit Macht, Militarismus und autoritären Gesellschaften auseinandersetzen:
 
-- **„Starship Troopers“** von *Robert A. Heinlein*, der oft missverstanden wird, aber zur kritischen Auseinandersetzung mit Militarismus und gesellschaftlicher Organisation einlädt.
-- **„1984“** von *George Orwell* und **„Fahrenheit 451“** von *Ray Bradbury*, die zeigen, wie Sprachkontrolle, Informationsunterdrückung und Angst autoritäre Systeme stützen.
-- **„V – Die außerirdischen Besucher kommen“**, das in Science-Fiction-Hülle deutlich macht, wie sich faschistische Strukturen schleichend etablieren – und wie Widerstand dagegen wächst.
-- **„Herr der Fliegen“** von *William Golding*, das eindrucksvoll zeigt, wie schnell soziale Ordnung zerfallen und in Gewalt umschlagen kann, wenn Macht unreflektiert bleibt.
+- **„Starship Troopers“** von *Robert A. Heinlein*
+- **„1984“** von *George Orwell*
+- **„Fahrenheit 451“** von *Ray Bradbury*
+- **„V – Die außerirdischen Besucher kommen“**
+- **„Herr der Fliegen“** von *William Golding*
 
-Unser Spiel vermittelt diese Themen **nicht abstrakt**, sondern durch **erfahrbare Mechaniken**, **moralische Dilemmata** und **narrative Konflikte**.
-So werden **Verantwortung, Mitläufertum, Widerstand und Unrecht** spielerisch erfahrbar gemacht – **ohne Leid oder Gewalt zu trivialisieren**.
+Diese Werke und das Rollenspiel eröffnen unterschiedliche Perspektiven auf Militarismus, Sprach- und Informationskontrolle, Angst, Widerstand und den Zerfall gesellschaftlicher Ordnung.
 
-## 🌍 Diversität & Inklusion
+## 🌍 Diversität und Inklusion
 
-Dieses Rollenspiel wurde mehrfach beim Rollenspieltreff des Rollenspielvereins Freiburg angeboten – die Rückmeldungen waren durchweg positiv.
+Das Spiel wurde mehrfach beim monatlichen Rollenspieltreff des Rollenspielvereins Freiburg angeboten. Die Rückmeldungen waren durchweg positiv.
 
-Es legt besonderen Wert auf Vielfalt, sowohl im Hinblick auf queere Identitäten (LGBTQIA+) als auch auf die bewusste Einbeziehung von Menschen mit Behinderungen.
+Jede Figur hat eine Behinderung oder Einschränkung – körperlich, sensorisch oder psychisch. Die Spielenden entscheiden selbst, welche Einschränkung ihr Charakter hat und wie sie dessen Leben beeinflusst.
 
-Im Spiel hat jede Figur eine Form von Behinderung oder Einschränkung – körperlich, sensorisch oder psychisch. Denn Einschränkungen gehören zum Leben vieler Menschen.
+Das ermöglicht unterschiedliche Perspektiven auf Barrieren und Teilhabe. Spielende können sich mit Erfahrungen auseinandersetzen, die ihnen fremd sind, oder neue Aspekte von Behinderung erkunden. Ziel ist es, Empathie und ein besseres Verständnis für Inklusion zu fördern.
 
-Das Besondere: Du entscheidest selbst, welche Behinderung dein Charakter hat und wie sie sein Leben beeinflusst.
+**Hinweis:** In der Spielwelt werden Charaktere mit Einschränkungen durch die Ideologie der Kadettschaft abgewertet und angefeindet. Das ist als Kritik an Ausgrenzung und eugenischem Denken gemeint, kann aber belastende Situationen am Spieltisch auslösen.
 
-* Spielende ohne eigene Behinderung können dadurch Erfahrungen sammeln, die einen Perspektivwechsel ermöglichen – zum Beispiel, wie es ist, nicht sprechen zu können oder sich aufgrund sozialer Ängste nicht mitteilen zu können.
-* Spielende mit Behinderung können neue Sichtweisen ausprobieren, unterschiedliche Formen von Behinderung erleben und einfach Spaß haben – während andere erleben, was alltägliche Barrieren bedeuten können.
+## 🎲 Erfahrungen am Spieltisch
 
-So entstehen <strong>Empathie</strong>, <strong>Perspektivwechsel</strong> und <strong>ein Gefühl für Inklusion,</strong> das über reine Information oder historischen Kontext hinausgeht.
+In den Spielrunden kamen unter anderem folgende Themen und Situationen auf:
 
+- Gespräche über das „Dritte Reich“, Propaganda und die Auseinandersetzung damit im Schulunterricht
+- Freude darüber, die Einschränkung der eigenen Figur selbst wählen zu können
+- Ein Dilemma, in dem eine KI aus Eigennutz vernichtet wurde – und eine Mitspielerin daraufhin eine „Weiße Rose“ zur Rettung der KI gründen wollte
 
-## 🎲 Spiel-Erfahrungen
+## 🛡️ Nie wieder!
 
-Im monatlichen Rollenspielteff des Rollenspielvereins Freiburg habe ich dieses System / Rollenspiel mehrmals  angeboten. Die Rückmeldungen waren durchweg positiv.
+„Nie wieder“ ist kein leeres Wort, sondern eine Haltung, die gelernt, verstanden und gelebt werden muss. Dieses Spiel möchte dazu beitragen, indem es zeigt, wie diktatorische Systeme entstehen, funktionieren und wohin sie führen können.
 
-Hier einige Reaktionen und Situationen, die sich am Spieltisch ergeben haben:
+## Impressum
 
-* Diskussionen über das 3. Reich
-* Rekapitulation des 3. Reichs und der Propaganda-Struktur. U. a. mit Schülerin, die dieses Thema gerade im gesamten Schuljahr in verschiedenen Unterrichtsfächern beleuchten durfte.
-* Ganz süss, zwei Spieler*innen (mit Behinderungen) waren entzückt: "Schau mal, wir können uns unsere Behinderungen aussuchen!!"
-* Erfahrungen im Mitläufertum: hilflose und schliesslich plasmierte KI; aus purem Eigennutz vernichtet (da war selbst ich als Meister baff). Empörung der Mitstreiterin: "Wir gründen eine Weisse Rose" (zur Rettung der KI)
-
-## Zum Geleit
-
-**Aufklärung**: Dieses Spielsystem wurde mit einem klaren Ziel entwickelt: Aufklärung durch kritische Auseinandersetzung. Die darin enthaltenen Elemente diktatorischer Systeme – etwa Kontrolle, Propaganda, Gehorsam oder Gewaltmonopol – sollen nicht ästhetisiert oder romantisiert, sondern offengelegt und hinterfragt werden.
-Unser Spielsystem verherrlicht in keiner Weise die Greueltaten oder Ideologien des Dritten Reichs. Im Gegenteil: Wir verfolgen mit diesem Spiel einen klar aufklärerischen Ansatz. Ziel ist es, insbesondere jungen Menschen auf eindringliche Weise bewusst zu machen, wie gefährlich diktatorische Systeme wie jenes des Nationalsozialismus sein können.
-
-**Aufarbeitung**: In jeder Spielrunde, die wir betreuten, kam irgendwann ein Bruch. Die Spieler berichteten vom Dritten Reich, den Kontakt von Verwandten mit dieser Zeit, die Aufklärung darüber in der Schule etc. Diesen Effekt bringt dieses Rollenspiel automatisch mit sich und ist beabsichtigt.
-Ergänzend dazu: Der besondere Wert unseres Ansatzes liegt in der Verbindung von spielerischem Zugang und historischer Sensibilisierung. Diese Herangehensweise hat viele Teilnehmer beeindruckt: Dies macht Geschichte erlebbar, ohne sie zu trivialisieren.
-
-**Charaktere mit Einschränkungen … sind gefährdet**: Den vorangegangenen Abschnitt zu Einschränkungen eingedenk: die Kadettschaft ist für junge, gesunde Marser. Da passt der Charakter natürlich mit seinem „minderwertigen“ genetischen Material nicht rein.
-Entsprechend wird der Charakter (und mittelbar der Spieler) mit anfeindender Propaganda konfrontiert. Mit „netten“ Kameraden, keinerlei Verständnis für andere Möchtegern-Kadetten haben, die nichts taugen.
-
-## 📌 Fazit
-
-Wir verstehen unser Spiel als **Beitrag zur politischen Bildung**, zur **Stärkung demokratischer Werte** und zur **Wachsamkeit** gegenüber ideologischer Verführung.
-
-<div class="textbox">
-  <strong>❗ Nie wieder </strong> ist kein leeres Wort ❗
-  <br>
-  Sondern eine <strong>Haltung</strong>, die man lernen, verstehen und leben muss.
-  <br>
-  Unser Spielsystem will genau das ermöglichen.
-</div>
-
-# Impressum
-
-Verantwortlich für den Inhalt dieser Website
-
-Dr. Mareike Riegel<br />
+**Verantwortlich für den Inhalt dieser Website:**
+Dr. Mareike Riegel
 [info@staubpfoten.de](mailto:info@staubpfoten.de)
 
-## Datenschutz
+### Datenschutz
 
-Diese Website ist vollkommen statisch.
-Sie legt keinerlei Informationen ab.
+Diese Website ist vollständig statisch und speichert nach Angaben der Betreiberin keine Informationen.
 
-## Bilder
+### Bilder
 
 ![Michael.png](assets/images/_website/impressum/Michael.png)
-* Michael Dietrich &amp; AI (AI-generierte Bilder)
+Michael Dietrich &amp; AI (KI-generierte Bilder)
 
 ![Mareike.png](assets/images/_website/impressum/Mareike.png)
-* Mareike Riegel (Handzeichnungen mit Bleistift, Tinte und Kohle)
+Mareike Riegel (Handzeichnungen mit Bleistift, Tinte und Kohle)

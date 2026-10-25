@@ -1,0 +1,10 @@
+pyproject.toml
+src/mkdocs_product_gallery/__init__.py
+src/mkdocs_product_gallery.egg-info/PKG-INFO
+src/mkdocs_product_gallery.egg-info/SOURCES.txt
+src/mkdocs_product_gallery.egg-info/dependency_links.txt
+src/mkdocs_product_gallery.egg-info/entry_points.txt
+src/mkdocs_product_gallery.egg-info/requires.txt
+src/mkdocs_product_gallery.egg-info/top_level.txt
+src/mkdocs_product_gallery/assets/css/gallery.css
+src/mkdocs_product_gallery/assets/js/gallery.js

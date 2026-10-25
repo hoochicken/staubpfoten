@@ -1,0 +1,259 @@
+{
+  "status": "success",
+  "results": [
+    {
+      "status": "success",
+      "filename": "bg-ameisenbau.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-21/y3swciycaloq/bg-ameisenbau.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-21/y3swciycaloq/bg-ameisenbau.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-21/y3swciycaloq/bg-ameisenbau.png",
+      "requested_size": "1280x720",
+      "size": "1280x720",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "char-halo.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-21/y3swcvycaloa/char-halo.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-21/y3swcvycaloa/char-halo.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-21/y3swcvycaloa/char-halo.png",
+      "requested_size": "1024x1024",
+      "size": "1024x1024",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "char-nerd.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-21/y3swdcqcalnq/char-nerd.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-21/y3swdcqcalnq/char-nerd.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-21/y3swdcqcalnq/char-nerd.png",
+      "requested_size": "1024x1024",
+      "size": "1024x1024",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "boss-koenigin.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-21/y3swdpqcalna/boss-koenigin.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-21/y3swdpqcalna/boss-koenigin.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-21/y3swdpqcalna/boss-koenigin.png",
+      "requested_size": "1024x1024",
+      "size": "1024x1024",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "item-kaugummi.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-21/y3swd4qcalmq/item-kaugummi.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-21/y3swd4qcalmq/item-kaugummi.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-21/y3swd4qcalmq/item-kaugummi.png",
+      "requested_size": "1024x1024",
+      "size": "1024x1024",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "char-halo-cat.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y4zppricalna/char-halo-cat.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y4zppricalna/char-halo-cat.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y4zppricalna/char-halo-cat.png",
+      "requested_size": "1024x1024",
+      "size": "1024x1024",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "char-nand-cat.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y4zpp6icalmq/char-nand-cat.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y4zpp6icalmq/char-nand-cat.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y4zpp6icalmq/char-nand-cat.png",
+      "requested_size": "1024x1024",
+      "size": "1024x1024",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "item-hinog.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y4zzm4qcalma/item-hinog.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y4zzm4qcalma/item-hinog.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y4zzm4qcalma/item-hinog.png",
+      "requested_size": "1024x1024",
+      "size": "1024x1024",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "char-halo-cat-helmet.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42guuaaalmq/char-halo-cat-helmet.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42guuaaalmq/char-halo-cat-helmet.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42guuaaalmq/char-halo-cat-helmet.png",
+      "requested_size": "1024x1024",
+      "size": "1024x1024",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "char-nand-cat-helmet.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42gvgyaalma/char-nand-cat-helmet.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42gvgyaalma/char-nand-cat-helmet.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42gvgyaalma/char-nand-cat-helmet.png",
+      "requested_size": "1024x1024",
+      "size": "1024x1024",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "room-wachraum.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42khfycalma/room-wachraum.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42khfycalma/room-wachraum.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42khfycalma/room-wachraum.png",
+      "requested_size": "1280x720",
+      "size": "1280x720",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "room-korridor.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42khsqcaloq/room-korridor.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42khsqcaloq/room-korridor.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42khsqcaloq/room-korridor.png",
+      "requested_size": "1280x720",
+      "size": "1280x720",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "room-schlafraum.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kh7qcaloa/room-schlafraum.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kh7qcaloa/room-schlafraum.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kh7qcaloa/room-schlafraum.png",
+      "requested_size": "1280x720",
+      "size": "1280x720",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "room-ventilationsraum.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kimqcalnq/room-ventilationsraum.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kimqcalnq/room-ventilationsraum.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kimqcalnq/room-ventilationsraum.png",
+      "requested_size": "1280x720",
+      "size": "1280x720",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "room-lager.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kizqcalna/room-lager.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kizqcalna/room-lager.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kizqcalna/room-lager.png",
+      "requested_size": "1280x720",
+      "size": "1280x720",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "room-aufzuchtkammer.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kjgicalmq/room-aufzuchtkammer.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kjgicalmq/room-aufzuchtkammer.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kjgicalmq/room-aufzuchtkammer.png",
+      "requested_size": "1280x720",
+      "size": "1280x720",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "room-ki-versteck.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kjtacalma/room-ki-versteck.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kjtacalma/room-ki-versteck.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kjtacalma/room-ki-versteck.png",
+      "requested_size": "1280x720",
+      "size": "1280x720",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "room-abseits.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kkaacaloq/room-abseits.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kkaacaloq/room-abseits.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kkaacaloq/room-abseits.png",
+      "requested_size": "1280x720",
+      "size": "1280x720",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "room-staubgrube.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kkmycaloa/room-staubgrube.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kkmycaloa/room-staubgrube.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kkmycaloa/room-staubgrube.png",
+      "requested_size": "1280x720",
+      "size": "1280x720",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "room-fermentpilzkammer.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kkzqcalnq/room-fermentpilzkammer.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kkzqcalnq/room-fermentpilzkammer.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kkzqcalnq/room-fermentpilzkammer.png",
+      "requested_size": "1280x720",
+      "size": "1280x720",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "room-verschuetteter-raum.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42klgqcalna/room-verschuetteter-raum.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42klgqcalna/room-verschuetteter-raum.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42klgqcalna/room-verschuetteter-raum.png",
+      "requested_size": "1280x720",
+      "size": "1280x720",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "room-koeniginnenkammer.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42klticalmq/room-koeniginnenkammer.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42klticalmq/room-koeniginnenkammer.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42klticalmq/room-koeniginnenkammer.png",
+      "requested_size": "1280x720",
+      "size": "1280x720",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "room-hinogkammer.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kmaicalma/room-hinogkammer.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kmaicalma/room-hinogkammer.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y42kmaicalma/room-hinogkammer.png",
+      "requested_size": "1280x720",
+      "size": "1280x720",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "win-halo-hinog.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y44n65aaalma/win-halo-hinog.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y44n65aaalma/win-halo-hinog.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y44n65aaalma/win-halo-hinog.png",
+      "requested_size": "1280x720",
+      "size": "1280x720",
+      "size_adjustments": []
+    },
+    {
+      "status": "success",
+      "filename": "win-nand-hinog.png",
+      "url": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y44n7qqaaloq/win-nand-hinog.png",
+      "path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y44n7qqaaloq/win-nand-hinog.png",
+      "absolute_path": "https://mgx-backend-cdn.metadl.com/generate/images/394337/2026-10-22/y44n7qqaaloq/win-nand-hinog.png",
+      "requested_size": "1280x720",
+      "size": "1280x720",
+      "size_adjustments": []
+    }
+  ],
+  "success_count": 25,
+  "failed_count": 0,
+  "running_count": 0,
+  "message": "Generated 25/25 images total"
+}

@@ -89,4 +89,9 @@ Was sich darin befindet, ist nicht allgemein bekannt.
 
 Gerade deshalb übt die Halle auf die Kadetten eine gewisse Anziehungskraft aus.
 
-## Donner
+## Donnerbalken
+
+## Landeplatz des alten Raumhafens
+
+
+

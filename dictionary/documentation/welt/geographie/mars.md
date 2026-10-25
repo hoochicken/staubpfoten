@@ -38,40 +38,6 @@ Auf dem Mars wird regelmässig gezählt: erst der Zehner, dann der einer, also:
 
 Marser sind daher auch gut im Kopfrechnen, weil die Zahlen geordnet sind.
 
-## Fauna
-
-### Brumsen
-
-![_images/brumsen-01.png](_images/brumsen-08.png)
-
-### Plötzen
-
-![_images/ploetzen-01.png](_images/ploetzen-01.png)
-
-### Flittermolche
-
-* legen Eier, bevorzugt auf Leichen und Kadaverb
-* Flittermolch-Maden sind eklig
-
-### Weitere
-
-* Brumsen
-* Molche
-* Gallertkrabben
-* Plötzen
-* Echsenschupps
-* Streitschupps
-* Flieder
-* Käfer
-* Wasserfische
-
-## Fauna
-
-* Jerrybäume
-* Schachtelhalme
-* Pilze
-* Blaugras
-
 ## Grosse Städte auf dem Mars
 
 ### Marsstadt

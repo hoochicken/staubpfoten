@@ -1,0 +1,2 @@
+[markdown.extensions]
+carousel = mkdocs_product_gallery:CarouselExtension

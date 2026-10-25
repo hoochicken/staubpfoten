@@ -30,6 +30,24 @@ Wähle ein Model, s. Liste der KI-Modelle, hier eine Kurzfassung
 * Sigma-Einheit
 * Tau-THUL
 
+::: carousel
+![Avogadro](/rules/_images/ki/avogadro.png "Avogadro")
+![Boltzmann](/rules/_images/ki/boltzmann.jpg "Boltzmann")
+![Delta](/rules/_images/ki/delta.png "Delta")
+![Euler](/rules/_images/ki/euler.png "Euler")
+![Gamma](/rules/_images/ki/gamma.png "Gamma")
+![Lyra 7](/rules/_images/ki/lyra-7.png "Lyra 7")
+![Mu](/rules/_images/ki/mu.png "Mu")
+![Phi](/rules/_images/ki/phi.png "Phi")
+![Pi](/rules/_images/ki/pi.png "Pi")
+![Planck](/rules/_images/ki/planck.png "Planck")
+![Rho](/rules/_images/ki/rho.png "Rho")
+![Rydberg](/rules/_images/ki/rydberg.png "Rydberg")
+![Sigma](/rules/_images/ki/sigma.png "Sigma")
+![Tau](/rules/_images/ki/tau.png "Tau")
+:::
+
+
 ## 3. Robotergesetze
 
 KI haben immanente, unverrückbare Robotergesetze.

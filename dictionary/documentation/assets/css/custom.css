@@ -86,14 +86,5 @@ h1, h2, h3, h4, h5 {font-family:Orbitron, Sans-serif;}
   letter-spacing: 0.03em;
 }
 
-/* ===================================================================== */
-/* 3) Debug-Hilfe (nur bei Bedarf aktivieren)                            */
-/* ===================================================================== */
-/* Wenn du testen willst, ob diese Datei überhaupt geladen wird,
-   kannst du die folgende Zeile kurz einkommentieren:
-
-body {
-  outline: 5px solid red !important;   // dann siehst du einen roten Rahmen
-}
-
-*/
+.product-gallery__stage img { height: 540px; }
+.product-gallery__stage .gallery-caption { font-size:30px; }

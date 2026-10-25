@@ -2,7 +2,7 @@
 
 ## Bromsal und Umgebung
 
-{% include-markdown "./karten/bromsal-und-umgebung.md" %}
+{%include-markdown "./karten/bromsal-und-umgebung.md" %}
 
 **1. Bromsal**
 
@@ -42,7 +42,7 @@
 
 ## Wehrerziehungslager und Umgebung
 
-{% include-markdown "./karten/wehr-erziehungs-lager-und-umgebung.md" %}
+{%include-markdown "./karten/wehr-erziehungs-lager-und-umgebung.md" %}
 
 🛡️ Wehrerziehungslager (WEL)
 
@@ -69,11 +69,11 @@ Umliegende Bauernhöfe:
 
 ## Wehrerziehungslager und Alter Raumhafen
 
-{% include-markdown "./karten/wehrerziehungslager-und-alter-raumhafen.md" %}
+{%include-markdown "./karten/wehrerziehungslager-und-alter-raumhafen.md" %}
 
 ## Brumsenbau im Schachtelhalmwald
 
-{% include-markdown "./karten/brumsenbau-im-schachtelhalmwald.md" %}
+{%include-markdown "./karten/brumsenbau-im-schachtelhalmwald.md" %}
 
 ## Mars
 

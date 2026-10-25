@@ -66,11 +66,17 @@ plugins:
 markdown_extensions:
   - markdown_include.include:                  # Andere .md-Dateien einbinden
       base_path: documentation
-  - attr_list                                  # Attribute im Markdown ({ })
+  - attr_list
+  - md_in_html
+  - carousel
 
 # Eigene CSS-Datei
 extra_css:
   - "assets/css/custom.css"                    # Pfad relativ zu docs_dir                              # Attribute im Markdown ({ })
+  - "assets/css/gallery.css"                    # Pfad relativ zu docs_dir                              # Attribute im Markdown ({ })
+
+extra_javascript:
+  - "assets/js/gallery.js"
 
 # Navigation
 nav:
@@ -97,9 +103,13 @@ nav:
   - "🌍 Welt":
     - "Mars":
       - Marser: welt/marser.md
+      - Flora: welt/flora.md
+      - Fauna: welt/fauna.md
       - Planet: welt/geographie/mars.md
       - Brom: welt/geographie/brom.md
       - "Noctis Labyrinthus": welt/geographie/noctis-labyrinthus.md
+      - Karten: welt/karten.md
+    - Quantenraum: welt/quantenraum.md
     - Bromsal:
       - Stadt: welt/geographie/bromsal/bromsal.md
       - Wehrerziehungslager: welt/geographie/bromsal/wel.md
@@ -107,15 +117,15 @@ nav:
       - Bauernhof Kropp: welt/geographie/bromsal/bauernhof-kropp.md
       - Granaten-Fertigungsanlage: welt/geographie/bromsal/granaten-fertigung.md
     - "Kräfte & Völker":
-      - Völkerübersicht: welt/kraefte/voelker.md
+      - Völker - Übersicht: welt/kraefte/voelker.md
       - KI: welt/kraefte/ki.md
       - Gott: welt/kraefte/gott.md
       - Raummolche: welt/kraefte/raummolche.md
       - EK-Institut: welt/kraefte/ek-institut.md
     - Kultur:
-        - "HRG-Karten": kultur/hrg-karten.md
-        - Kommunikation: kultur/kommunikation.md
-    - "Geschichte":
+      - "HRG-Karten": kultur/hrg-karten.md
+      - Kommunikation: kultur/kommunikation.md
+    - Geschichte:
       - Zeitstrahl: welt/geschichte/zeitgeschehen.md
       - Roboter-Gesetze: welt/geschichte/roboter-gesetze.md
 

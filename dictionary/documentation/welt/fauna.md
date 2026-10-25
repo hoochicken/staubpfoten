@@ -2,7 +2,7 @@
 
 ## Brumsen
 
-![_images/fauna/brumsen.png](_images/brumsen-08.png)
+![_images/fauna/brumsen.png](_images/fauna/brumsen.png)
 
 Brumsen sind große, auffällige Insektenwesen. Ihr Körper ist von einem stabilen Panzer geschützt, während ihre Flügel ein deutlich hörbares Brummen erzeugen. Ihre Erscheinung wirkt auf Fremde einschüchternd.
 
@@ -14,7 +14,7 @@ Brumsen werden unter anderem als Wachtiere genutzt. Ihre Nester und ihr Verhalte
 
 ## Plötzen
 
-![_images/fauna/ploetzen.png](_images/ploetzen-01.png)
+![_images/fauna/ploetzen.png](_images/fauna/ploetzen.png)
 
 Plötzen sind große, raupenartige Freundwesen mit durchscheinender Haut. Durch ihre Körperwand sind die inneren Organe sichtbar, die von den Marsern liebevoll Welse, Robengang, Bromscheide und Sekretwabbel genannt werden.
 

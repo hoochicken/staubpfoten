@@ -2,9 +2,9 @@
 
 ## Befehls-Stab
 
-![heinlein.jpeg](_images%2Fheinlein.jpeg)
-
 **Stabskadettin Heinlein**
+
+![heinlein.jpeg](_images%2Fheinlein.jpeg)
 
 * Hobby: Alte Märchen über die Erde sammeln und nachspielen
 * Geheimnis: Ihre Oma war früher eine berühmte Geschichtenerzählerin – doch ihre Bücher sind verboten

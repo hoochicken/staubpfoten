@@ -1,5 +1,13 @@
 # HR-Gladiatoren
 
+::: carousel
+![Brakk](/kultur/_images/hrg/brakk.jpeg "Brakk")
+![Skorr](/kultur/_images/hrg/skorr.jpeg "Skorr")
+![Mörder Murk](/kultur/_images/hrg/moerder-murk.jpeg "Mörder Murk")
+![Zyle](/kultur/_images/hrg/zyle.jpeg "Zyle")
+![Metz](/kultur/_images/hrg/metz.jpeg "Metz")
+:::
+
 ## HR-Gladiatoren zur Propaganda
 
 HR-Gladiatoren sind bezahlte Kämpfer.

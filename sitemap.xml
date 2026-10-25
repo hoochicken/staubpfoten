@@ -477,6 +477,10 @@
          <lastmod>2026-10-25</lastmod>
     </url>
     <url>
+         <loc>http://127.0.0.1:8000/kultur/design/</loc>
+         <lastmod>2026-10-25</lastmod>
+    </url>
+    <url>
          <loc>http://127.0.0.1:8000/kultur/hrg-karten/</loc>
          <lastmod>2026-10-25</lastmod>
     </url>
@@ -550,10 +554,6 @@
     </url>
     <url>
          <loc>http://127.0.0.1:8000/technik/medizin/</loc>
-         <lastmod>2026-10-25</lastmod>
-    </url>
-    <url>
-         <loc>http://127.0.0.1:8000/technik/ornithopter/</loc>
          <lastmod>2026-10-25</lastmod>
     </url>
     <url>

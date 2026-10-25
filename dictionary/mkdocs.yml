@@ -105,12 +105,12 @@ nav:
     - "Mars":
       - Planet: welt/geographie/mars.md
       - Marser: welt/marser.md
-      - Fauna: welt/fauna.md
-      - Flora: welt/flora.md
       - Brom: welt/geographie/brom.md
       - "Noctis Labyrinthus": welt/geographie/noctis-labyrinthus.md
       - Karten: welt/karten.md
-    - Quantenraum: welt/quantenraum.md
+      - Quantenraum: welt/quantenraum.md
+    - Fauna: welt/fauna.md
+    - Flora: welt/flora.md
     - Bromsal:
       - Stadt: welt/geographie/bromsal/bromsal.md
       - Wehrerziehungslager: welt/geographie/bromsal/wel.md

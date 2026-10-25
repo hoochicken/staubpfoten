@@ -72,6 +72,8 @@ Jerrybäume bieten zahlreichen kleinen Lebewesen Lebensraum und prägen das Land
 
 Yggdrasil sind gewaltige Baumschiffe mit einem dicken, mehrere Kilometer großen Stamm und weit ausladenden Ästen. Zwischen den Ästen hängen zahlreiche runde Sphären, in denen sich die Aufenthaltsräume der Barben befinden. Von außen wirken sie wie riesige, schwebende Weltenbäume.
 
+Über Yggdrasil als Fortbewegungsmittel => <a href="/technik/baumschiffe">unter Technik lesen</a>
+
 **Fortbewegung**: Yggdrasil können durch den Weltraum fliegen und sind sprungfähig. Sie falten den Raum, um gewaltige Entfernungen in kurzer Zeit zu überwinden. Dadurch können sie zwischen weit entfernten Orten reisen, ohne den gesamten Weg auf herkömmliche Weise zurücklegen zu müssen.
 
 **Leben an Bord**: Die runden Sphären zwischen den Ästen dienen den Barben als Wohn- und Aufenthaltsräume. Der gewaltige Stamm und die Äste bilden das Grundgerüst des Baumschiffs. Ein Yggdrasil ist damit nicht nur ein Transportmittel, sondern zugleich ein Lebensraum für seine Bewohner.

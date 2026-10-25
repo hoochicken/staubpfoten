@@ -361,6 +361,10 @@
          <lastmod>2026-10-25</lastmod>
     </url>
     <url>
+         <loc>http://127.0.0.1:8000/kadettschaft/nie-wieder/</loc>
+         <lastmod>2026-10-25</lastmod>
+    </url>
+    <url>
          <loc>http://127.0.0.1:8000/kadettschaft/rangabzeichen/</loc>
          <lastmod>2026-10-25</lastmod>
     </url>
@@ -481,11 +485,23 @@
          <lastmod>2026-10-25</lastmod>
     </url>
     <url>
+         <loc>http://127.0.0.1:8000/kultur/musik/</loc>
+         <lastmod>2026-10-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/npc/politiker/</loc>
+         <lastmod>2026-10-25</lastmod>
+    </url>
+    <url>
          <loc>http://127.0.0.1:8000/npc/sonstige/</loc>
          <lastmod>2026-10-25</lastmod>
     </url>
     <url>
          <loc>http://127.0.0.1:8000/npc/wehrerziehungslager/</loc>
+         <lastmod>2026-10-25</lastmod>
+    </url>
+    <url>
+         <loc>http://127.0.0.1:8000/npc/zivilisten/</loc>
          <lastmod>2026-10-25</lastmod>
     </url>
     <url>
@@ -562,22 +578,6 @@
     </url>
     <url>
          <loc>http://127.0.0.1:8000/welt/marser/</loc>
-         <lastmod>2026-10-25</lastmod>
-    </url>
-    <url>
-         <loc>http://127.0.0.1:8000/welt/_images/karten/bromsal-und-umgebung/</loc>
-         <lastmod>2026-10-25</lastmod>
-    </url>
-    <url>
-         <loc>http://127.0.0.1:8000/welt/_images/karten/brumsenbau-im-schachtelhalmwald/</loc>
-         <lastmod>2026-10-25</lastmod>
-    </url>
-    <url>
-         <loc>http://127.0.0.1:8000/welt/_images/karten/wehr-erziehungs-lager-und-umgebung/</loc>
-         <lastmod>2026-10-25</lastmod>
-    </url>
-    <url>
-         <loc>http://127.0.0.1:8000/welt/_images/karten/wehrerziehungslager-und-alter-raumhafen/</loc>
          <lastmod>2026-10-25</lastmod>
     </url>
     <url>

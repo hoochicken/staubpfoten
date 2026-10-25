@@ -2,6 +2,8 @@
 
 ## Proben
 
+![kadetten-und-w6.jpeg](_images%2Fkadetten-und-w6.jpeg)
+
 Die Welt wäre langweilig, wenn immer alles so geschieht, wie man sich das wünscht. Daher gibt es Proben, um das Spiel spannend zu machen.
 
 Wenn ein Spieler sagt: „Mein Charakter wird einen Baum hochklettern“, entscheidet eine Probe, wie gut das klappt. Proben werden auf die Grundeigenschaften gewürfelt. Also auf **KL** – Klugheit, **IN** – Intuition, **KK** – Körperkraft, **CH** – Charisma, **GE** – Geschicklichkeit, **MU** – Mut, s. o.

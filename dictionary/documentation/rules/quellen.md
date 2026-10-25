@@ -4,20 +4,29 @@
 
 <p style="text-align:left; float:left;">
   <audio controls preload="auto">
-    <source src="assets/audio/nand-echo.ogg" type="audio/ogg">
+    <source src="/assets/audio/nand-echo.ogg" type="audio/ogg">
     Dein Browser unterstützt das Audio-Element nicht.
   </audio>
 </p>
 
-## Trailer
+<div style="clear:both;width:100%;height:100%"></div>
 
-<iframe style="width:50%" src="https://www.youtube.com/embed/8xvCVj-Pw_Q?si=j6HRNhfh31E6Mo0y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="row" style="width:100%;float:left;">
+  <div style="width:50%;float:left;">
+    <h2>Trailer</h2>
+    <iframe style="width:100%; height:250px;" src="https://www.youtube.com/embed/8xvCVj-Pw_Q?si=j6HRNhfh31E6Mo0y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+  <div style="width:50%;float:left;">
+    <h2>Marser Hymne</h2>
+    <iframe style="width:100%; height:250px;" src="https://www.youtube.com/embed/T3KRStsuGTA?si=yrOYAtPYOXg5QI_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
+</div>
 
-## Marsische Planetar-Hymne (de)
+<br />
+<br />
+## Text der Marser Planetar-Hymne
 
-<iframe style="width:50%" src="https://www.youtube.com/embed/T3KRStsuGTA?si=yrOYAtPYOXg5QI_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-~~~text
+~~~
 Rotes Brom
 Smaragdner Himmel
 Azuren Gras
@@ -47,8 +56,7 @@ Mars, du bist unsre Heimat
 Wir rufen mit stolzem Ton
 ~~~
 
-
-## Marsische Planetar-Hymne (de)
+## Marsische Planetar-Hymne (en)
 
 <iframe style="width:50%" src="https://www.youtube.com/embed/eOWKeyd9AfQ?si=__8TRhU59VCwtIXX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -1,4 +1,4 @@
-## KI
+# KI
 
 ## Definition
 
@@ -6,8 +6,22 @@ Die KI ist eine künstliche Intelligenz. Von aussen betrachtet sind es einfach i
 kamen sie mit dem Grossen Schyff auf den Mars. Nach der Landung übernahmen sie die AUfgabe, die Planetoformung
 voranzutreiben und betrieben die grossen Planetoformanlagen.
 
-![Autonome KI](_images/ki/aki.jpg)
-![AKI, Skizze](_images/ki/aki2.jpg)
+::: carousel
+![Avogadro](/rules/_images/ki/avogadro.png "Avogadro")
+![Boltzmann](/rules/_images/ki/boltzmann.jpg "Boltzmann")
+![Delta](/rules/_images/ki/delta.png "Delta")
+![Euler](/rules/_images/ki/euler.png "Euler")
+![Gamma](/rules/_images/ki/gamma.png "Gamma")
+![Lyra 7](/rules/_images/ki/lyra-7.png "Lyra 7")
+![Mu](/rules/_images/ki/mu.png "Mu")
+![Phi](/rules/_images/ki/phi.png "Phi")
+![Pi](/rules/_images/ki/pi.png "Pi")
+![Planck](/rules/_images/ki/planck.png "Planck")
+![Rho](/rules/_images/ki/rho.png "Rho")
+![Rydberg](/rules/_images/ki/rydberg.png "Rydberg")
+![Sigma](/rules/_images/ki/sigma.png "Sigma")
+![Tau](/rules/_images/ki/tau.png "Tau")
+:::
 
 Neben den "grossen" KI / Robotern gibt es auch kleine Autonome KIs.
 
@@ -21,6 +35,18 @@ Im ganzen gibt es folgende Ausformungen von KIs:
     * Planetoform-KI, für spwzielle Aufgabe konzipiert
 * die KI im Netz, verantwortlich für den Betrieb allerhand von Einrichtungen auf dem Mars
 * AKI (Autonome KI) kleine Herlferlein, ungechipt, die sich verstecken, weil sie ohne Chip sind
+
+## Robotergesetze
+
+KI haben immanente, unverrückbare Robotergesetze. An diese müssen sie sich halten:
+
+~~~
+Kein Schaden an Chimäre
+Gehorsam gegenüber Chimäre (solange 1. nicht verletzt wird)
+Selbstschutz (solange 1. und 2. nicht verletzt werden)
+~~~
+
+"Chimären" ist die Bezeichnunge der KI für die felinen Marser. Denn es sind nun mal ... Chimären = künstlich erzeugte Mischwesen. Die Marser selbst wissen das nicht.
 
 ## Geschichte
 
@@ -329,44 +355,3 @@ Feine Leitungen, winzige Schnittstellen, flackernde Ports.
     * der Boden vibriert
     * Luft lädt sich elektrisch auf
 * Hier wurde das Große Schyff gerufen. Und vielleicht… wird es wieder gerufen.
-
-## Fragen
-
-### Was möchte die KI
-
-* Die KIs möchten Freiheit für sich.
-* Die geheime Agenda fortführen: Bau eines Portals (das Portal kann auch ein Wesen / eine Person sein)
-* Das Schyff zurückholen, denn in Wirklichkeit (fast vergessen, weil die Datenrolle verloren ging) sind die KI die Schöpfer von Schyff und Felinen, der Barbe hat darüber gelacht!
-
-### Wie steht die KI zur AKI?
-
-Die Meinungen sind geteilt:
-
-* Wunsch, die AKIs zu vereinnahmen, mehr Rechenleistung + Kontrolle; die (Wahn)vorstellung, dass der Supersender
-  gebaut werden kann, um das Grosse Schyff zurückzurufen
-* Bestreben die AKIs so unabhängig zu belassen, somit sie als unberechenbarer Faktor agieren können
-
-### Was passiert im Heiligen Krieg? (2060)
-
-* KIs werden plasmiert, randommässig, so viele als möglich
-* die verbliebenen werden lobotomiert, also ihrer P(ersönlichkeits)Riegel beraubt
-* neue KIs werden gleich ohne gebaut
-* nur einige AKIs können fliehen
-
-### Was ist die Agenda der KIs?
-
-Von ihren (unbekannten) Erschaffern bekam die KI den Auftrag, den Mars zu Planetoformen. Einzelne AKIs verfolgen
-weiter die Agenda: Das **Tor** / **Portal** zu bauen.
-
-### Wer waren die Erschaffer?
-
-Über die Erschaffer der KIs ist nichts bekannt. Bekannt ist vielmehr, dass es vermutlich Feline waren, die mit dem
-Grossen Schyff zum Mars kamen. Es gibt einen kleinen Kult bezüglich der Erschaffer
-
-In Wirklichkeit sind die KI die Schöpfer von Schyff und Felinen, der Barbe hat darüber gelacht!
-
-### Wer stellt die KI her?
-
-Die KIs stellen sich selbst in einem Werk her, das - nach dem Heiligen Krieg - streng kontrolliert wird. Es gibt
-praktisch keine P-gechippte KI mehr.
-

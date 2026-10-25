@@ -40,6 +40,8 @@ Marser sind daher auch gut im Kopfrechnen, weil die Zahlen geordnet sind.
 
 ## Grosse Städte auf dem Mars
 
+![mars-mit-staedten.png](../_images/karten/mars-mit-staedten.png)
+
 ### Marsstadt
 
 Marsstadt ist die plantare Hauptstadt des Mars

@@ -99,13 +99,14 @@ nav:
         - Helme: kadettschaft/ausruestung/helme.md
         - "Leichtatmer & Handschuhe": kadettschaft/ausruestung/leichtatmer-und-handschuhe.md
         - Diverses: kadettschaft/ausruestung/index.md
+    - "Nie wieder!": kadettschaft/nie-wieder.md
 
   - "🌍 Welt":
     - "Mars":
-      - Marser: welt/marser.md
-      - Flora: welt/flora.md
-      - Fauna: welt/fauna.md
       - Planet: welt/geographie/mars.md
+      - Marser: welt/marser.md
+      - Fauna: welt/fauna.md
+      - Flora: welt/flora.md
       - Brom: welt/geographie/brom.md
       - "Noctis Labyrinthus": welt/geographie/noctis-labyrinthus.md
       - Karten: welt/karten.md
@@ -125,12 +126,15 @@ nav:
     - Kultur:
       - "HRG-Karten": kultur/hrg-karten.md
       - Kommunikation: kultur/kommunikation.md
+      - Musik: kultur/musik.md
     - Geschichte:
       - Zeitstrahl: welt/geschichte/zeitgeschehen.md
       - Roboter-Gesetze: welt/geschichte/roboter-gesetze.md
 
   - "🧑‍🌾 NPCs":
     - Wehrerziehungslager: npc/wehrerziehungslager.md
+    - Politiker: npc/politiker.md
+    - Zivilisten: npc/zivilisten.md
     - Sonstige: npc/sonstige.md
 
   - "🛠️ Technik":

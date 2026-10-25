@@ -7,28 +7,13 @@ KIs bezeichnen die Marser nicht also solche, sondern als sogenannte "Chimären".
 
 Den KI-Charakterbogen kannst Du Dir hier herunterladen: <a target="_blank" src="_images/charakterbogen/charakterbogen-ki-ichbinki.pdf">Charakterbogen KI</a>
 
-
 ## 1. Name
 
 Wähle einen Namen.
 
 ## 2. Model
 
-Wähle ein Model, s. Liste der KI-Modelle, hier eine Kurzfassung
-
-* Avogadro-BW
-* Boltzmann
-* Delta
-* Euler-4
-* Gamma Mk.6
-* Mu-Kamerad
-* Phi-1
-* Pi-KI
-* Planck-Drone
-* Rho
-* Rydberg
-* Sigma-Einheit
-* Tau-THUL
+Wähle ein Model aus dieser Liste: Avogadro-BW, Boltzmann, Delta, Euler-4, Gamma Mk.6, Mu-Kamerad, Phi-1, Pi-KI, Planck-Drone, Rho, Rydberg, Sigma-Einheit oder Tau-THUL.
 
 ::: carousel
 ![Avogadro](/rules/_images/ki/avogadro.png "Avogadro")
@@ -47,6 +32,7 @@ Wähle ein Model, s. Liste der KI-Modelle, hier eine Kurzfassung
 ![Tau](/rules/_images/ki/tau.png "Tau")
 :::
 
+"Chimären" ist die Bezeichnunge der KI für die felinen Marser. Denn es sind nun mal ... Chimären = künstlich erzeugte Mischwesen. Die Marser selbst wissen das nicht.
 
 ## 3. Robotergesetze
 

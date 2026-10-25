@@ -8,4 +8,4 @@ Warum extrem passend:
 * ideal für versteckte Eingänge
 * verwirrend, schwer navigierbar
 
-Hier wohnt TÖLVA.
+Hier wohnt <a href="/welt/kraefte/ki/#tolva-temperatur-okologie-leben-volumen-aktion">TÖLVA<a>.

@@ -1,8 +1,11 @@
-# Marser
-
 # Die Marser – Ein Überblick
 
 ## Aussehen und Körperbau
+
+::: carousel
+![Marserin](/welt/_images/marser/marserin.jpeg "Marserin")
+![Marser](/welt/_images/marser/marser.jpeg "Marser")
+:::
 
 Marser sind zweibeinige, katzenartige Lebewesen. Sie besitzen Fell, Ohren, Schnauze, Pfoten und einen Schwanz. Fellfarbe, Muster und Körperbau unterscheiden sich von Marser zu Marser. Manche sind schlank und flink, andere kräftig und breit gebaut. Ihre Ohren und Schwänze verraten oft ihre Stimmung.
 

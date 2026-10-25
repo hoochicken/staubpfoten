@@ -1,15 +1,15 @@
-# Personae
+# NPCs im Wehrertüchtigungslager
 
-## WEL - Befehls-Stab
+## Befehls-Stab
 
-### Stabskadettin Heinlein
+**Stabskadettin Heinlein**
 
 * Hobby: Alte Märchen über die Erde sammeln und nachspielen
 * Geheimnis: Ihre Oma war früher eine berühmte Geschichtenerzählerin – doch ihre Bücher sind verboten
 * Quest: Im Lagerarchiv eine versteckte Kiste mit den letzten Geschichten ihrer Oma finden – und retten, bevor der
   Inspektor kommt
 
-### Kommandantin Solan
+**Kommandantin Solan**
 
 * Rolle: Lagerleitung / Disziplin / Taktische Planung
 * Funktion: Hat das letzte Wort im Lager. Führt mit klarem Blick und harter Stimme.
@@ -23,7 +23,7 @@
     * unterhält Brumsenstöcke auf dem Areal des Alten Raumhafens
     * je nachdem, was die Kadetten angestellt haben, kööönnten die Brumsen auch mal tot sein und sie muss sich neue besorgen
 
-### Furiermeister Kelv
+**Furiermeister Kelv**
 
 * Rolle: Körperliche Ausbildung / Drill / Strafen
 * Funktion: Zuständig für Ausdauertraining, Nahkampf und Lagerordnung.
@@ -34,7 +34,7 @@
   Geburtstagsgeschenk
 * Hat Angst vor Larven allert Art, hasst das, kann den Raum / Zelt nicht betreten, wenn da was mit ekligen Maden oder so ist; z. B. Flittermolch-Maden
 
-### Wachhabende Veyra
+**Wachhabende Veyra**
 
 * Rolle: Sicherheit / Nachtwache / Maschinenkontrolle
 * Funktion: Kontrolliert Zugänge, kontrolliert Maschinen, beobachtet Kadetten heimlich
@@ -44,7 +44,7 @@
 * Quest: Eine alte Taschenlampe und Batterien besorgen, um heimlich einen sicheren Weg zur Schwester zu finden – und sie
   mit Essen zu versorgen
 
-### Ausbilderin Fenn
+**Ausbilderin Fenn**
 
 * Rolle: Überlebenstraining / Geländeübungen / Notfallausbildung
 * Funktion: Bringt den Kadetten bei, wie man im Ödland überlebt
@@ -53,7 +53,7 @@
 * Geheimnis: Ihr Cousin ist ein "langsamer Lerner" – und soll in ein Speziallager kommen
 * Quest: In die Lagerverwaltung schleichen, um seinen Bericht zu ändern – bevor der Transporter kommt
 
-### 🛡️ Oberfeldwebel Brann Korvet
+**🛡️ Oberfeldwebel Brann Korvet**
 
 Logistikoffizier der MZ-Staff, inoffizieller Beschützer von Lyra-7
 
@@ -86,7 +86,7 @@ Logistikoffizier der MZ-Staff, inoffizieller Beschützer von Lyra-7
 * Er sagt offiziell: „Das Ding spart mir Zeit und Schreiberlinge.“
 * In Wahrheit: Er sieht, dass Lyra-7 die Kinder stärkt. Und er will nicht noch einmal miterleben, wie jemand verschwindet, nur weil er „zu viel verstand“ (sein Bruder wurde deportiert).
 
-### Nand
+**Nand**
 
 Nand ist erst 13 Winter alte, aber gross gewachsen.
 Er hat ganz helles, leicht getigertes Fell.
@@ -105,39 +105,39 @@ Nand hat eine kleine Schwester. Sie heisst Halo.
 Der war damals bei der Hitlerjugend und hat mir das alles erzählt, was da so los war.
 Manches war toll, manches war scheisse.]
 
-## WEL - Kadetten in der Mondgruppe
+## Kadetten in der Mondgruppe
 
-### 1. Jaro – Späher
+**1. Jaro – Späher**
 
 * Aufgabe: Kundschaften, Wege erkunden, Feinde oder Gefahren frühzeitig entdecken
 * Typ: Wachsam, neugierig, oft ungeduldig
 * Konfliktpotenzial: Neigt dazu, Regeln zu ignorieren und auf eigene Faust loszuziehen.
 
-### 2. Mira – Schildträgerin
+**2. Mira – Schildträgerin**
 
 * Aufgabe: Beschützt schwächere Kameraden, hält die Gruppe zusammen, oft in vorderster Linie
 * Typ: Loyal, mutig, etwas stur
 * Konfliktpotenzial: Stellt sich selbst oft zu sehr in Gefahr, will niemanden enttäuschen.
 
-### 3. Eli – Signalgeber
+**3. Eli – Signalgeber**
 
 * Aufgabe: Gibt mit Flaggen, Pfeifen, Licht etc. Signale, hält Verbindung zur Basis
 * Typ: Klug, ruhig, kommunikativ
 * Konfliktpotenzial: Hat Angst, im entscheidenden Moment die falsche Botschaft zu senden.
 
-### 4. Lleora - Quartiermeisterin (oder: "Versorgungskadettin")
+**4. Lleora - Quartiermeisterin (oder: "Versorgungskadettin")**
 
 * Aufgabe: Kümmert sich um Ausrüstung, Rationen, Karten und Logistik
 * Typ: Ordentlich, praktisch, leicht reizbar
 * Konfliktpotenzial: Fühlt sich oft unterschätzt, obwohl ohne sie nichts funktioniert.
 
-### 5. Tomma – Feuerwart
+**5. Tomma – Feuerwart**
 
 * Aufgabe: Hüter des Lagerfeuers, der Rituale, der Geschichten und der Disziplin
 * Typ: Stolz, traditionsbewusst, manchmal zu ernst Konfliktpotenzial: Besteht auf Regeln, auch wenn Flexibilität gefragt
   wäre.
 
-### 6. Halo
+**6. Halo**
 
 Halo ist 11 Winter alt und Nands kleine Schwester.
 
@@ -147,44 +147,72 @@ Halo (li), Nand (re)
 
 [Die Autorin hierzu: Ja, und das ist Helga, meine Tante.]
 
-### 7. Rika – Kartenleserin
+**7. Rika – Kartenleserin**
 
 * Aufgabe: Verantwortlich für Navigation, Kartenkunde, Wegplanung
 * Typ: Klug, detailverliebt, manchmal etwas besserwisserisch
 * Konfliktpotenzial: Vertraut mehr auf Karten als auf Instinkt – was in der Wildnis nicht immer hilft.
 
-### 8. Linus – Lauscher
+**8. Linus – Lauscher**
 
 * Aufgabe: Lauscht auf entfernte Geräusche, Feindbewegungen oder geheime Gespräche
 * Typ: Still, aufmerksam, wirkt oft unbeteiligt – ist es aber nie.
 
-### 9. Runder
+**9. Runder**
 
-* Typ: MZ-Kadett, felinischer Herkunft
-* Alter: 12 Standardjahre
-* Fellfarbe: samtiges Grau mit hellem Bauch und dunklen Ringeln am Schweif (daher der Name "Runder")
-* Augenfarbe: bernsteinfarben, mit einem leichten grünen Schimmer im Sonnenlicht
-* Ohren: auffällig gross, mit dunkler Zeichnung an den Spitzen – immer in Bewegung
-* Besonderheit: ein altes Ohrpiercing aus Messing, das er von seiner Mutter hat – eigentlich nicht erlaubt
-* 💡 Charakter & Interessen
-    * Runder ist neugierig, flink und etwas verträumt – oft nicht ganz bei der Sache, aber voller Ideen. Er liebt Geschichten über alte Maschinen, besonders wenn sie fast lebendig wirken.
-    * Er hat eine Vorliebe für verlassene Orte, sammelt dort kleine Dinge: Dichtungen, Chips, Schrauben. Daraus baut er Mini-Kreaturen und behauptet, sie "atmen".
-* Lieblingsplatz: das Dach eines alten Containers, wo er in den Himmel schaut und Radioschnipsel fängt.
-* Lieblingswort: "brummstill" – so nennt er Momente, in denen alles gleichzeitig laut und friedlich ist.
-* 🤫 Kleines Geheimnis
-    * Runder spricht manchmal mit einer KI, die offiziell abgeschaltet wurde.
-    * Er hat ihr heimlich ein kleines Radiomodul geschenkt, damit sie wieder zuhören kann.
+- **Typ:** MZ-Kadett felinischer Herkunft.
+- **Alter:** 12 Standardjahre.
+- **Fell:** Samtiges Grau mit hellem Bauch und dunklen Ringeln am Schweif – daher der Name „Runder“.
+- **Augen:** Bernsteinfarben, mit leicht grünem Schimmer im Sonnenlicht.
+- **Ohren:** Auffällig groß, mit dunkler Zeichnung an den Spitzen; ständig in Bewegung.
+- **Besonderheit:** Altes Messing-Ohrpiercing von seiner Mutter, eigentlich nicht erlaubt.
 
-## Politiker
+Runder ist neugierig, flink und etwas verträumt. Oft ist er nicht ganz bei der Sache, hat aber viele Ideen. Er liebt Geschichten über alte Maschinen, besonders wenn sie beinahe lebendig wirken.
 
-### Der Marsianische Zephyr
+Er sammelt in verlassenen Orten kleine Dinge wie Dichtungen, Chips und Schrauben. Daraus baut er Mini-Kreaturen und behauptet, sie würden „atmen“.
 
-Wahnsinniger Politiker mit einem Hass auf KI.
-Seine Wut hat einen Konflikt im Sonnensystem angestachelt, der sich in den Zweiten Interplanetarischen Krieg verwandelt hat.
+- **Lieblingsplatz:** Das Dach eines alten Containers, wo er in den Himmel schaut und Radioschnipsel auffängt.
+- **Lieblingswort:** „Brummstill“ – so nennt er Momente, in denen alles gleichzeitig laut und friedlich ist.
 
-Die Charaktere werden dem Politiker auf einer Parade begegnen.
+Runder spricht manchmal mit einer KI, die offiziell abgeschaltet wurde. Heimlich hat er ihr ein kleines Radiomodul geschenkt, damit sie wieder zuhören kann.
 
-## Moebbels
+## Soldaten im Staubgebäude
 
-Der OMP, der Oberste Marser Propagandist.
-Auf sein Wirken gehen der Marsunterhalt (Radio) und die Kadettschaftssturktur zurück.
+**Bediener 1: Helkor Trass
+- **Fell:** Rotbraun.
+- **Besonderheit:** Trägt ein Metronom am Gürtel, mit dem er die Schusszyklen zählt.
+
+**Assistentin: Seyla Tirr**
+- **Fell:** Graugestreift.
+- **Besonderheit:** Trägt immer zwei Schraubenschlüssel gleichzeitig.
+
+**Bediener 2: Brumm-Ern Orrick
+- **Fell:** Schwarz.
+- **Besonderheit:** Summt beim Hochfahren dieselbe Melodie wie die FLAK.
+
+**Assistent: Nurr Pell**
+- **Fell:** Orange.
+- **Besonderheit:** Hat immer ölverschmierte Pfoten.
+
+**Bediener 3: Krenn Vexa
+- Siehe auch **Attentäter**.
+- **Fell:** Gelbbraun.
+- **Besonderheit:** Nutzt ein umgebautes, verbotenes KI-„Brumm“-Messgerät.
+
+**Assistentin: Felynn Rorr**
+- **Fell:** Weiß.
+- **Besonderheit:** Trägt eine kleine Kiste voller Ersatzkristalle.
+
+## Soldat aus Karsstille
+
+**Raskel Dorn – Obergefreiter der MZ-Exekutive**
+
+- **Aussehen:** Mittelgroß, kurz geschorenes graubraunes Fell.
+- **Uniform:** Außergewöhnlich sauber; schmales schwarzes Abzeichen ohne Symbol mit der Bezeichnung „Sonderauftrag“.
+- **Auftreten:** Seine Stimme bleibt selbst dann ruhig, wenn andere schreien. Er spricht wenig.
+- **Typische Sätze:**
+  - „Das ist keine Strafe.“
+  - „Die Ausbildung ist zu eurem Besten.“
+  - „Fragen sind nicht vorgesehen.“
+- **Verhalten gegenüber Camilla:** Vermeidet Blickkontakt, achtet aber genau darauf, ob sie Hilfe braucht – nicht aus Mitgefühl, sondern weil nichts beschädigt ankommen darf.
+

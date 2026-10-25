@@ -126,6 +126,7 @@ nav:
     - Kultur:
       - "HRG-Karten": kultur/hrg-karten.md
       - Kommunikation: kultur/kommunikation.md
+      - Design: kultur/design.md
       - Musik: kultur/musik.md
     - Geschichte:
       - Zeitstrahl: welt/geschichte/zeitgeschehen.md

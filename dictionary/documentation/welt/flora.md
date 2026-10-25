@@ -41,9 +41,12 @@ Marsische Pilze kommen in vielen Formen, Größen und Farben vor. Manche besitze
 
 Pilze spielen eine wichtige Rolle beim Abbau abgestorbener Pflanzen und anderer organischer Stoffe. Zugleich sind sie eine mögliche Nahrungs- und Rohstoffquelle.
 
-## Weissrohr
+## Weissrohr & Schwarzrohr
 
-![weissrohr.jpeg](_images/flora/weissrohr.jpeg)
+::: carousel
+![Weissrohr](/welt/_images/flora/weissrohr.jpeg "Weissrohr")
+![Schwarzrohr](/welt/_images/flora/schwarzrohr.jpeg "Schwarzrohr")
+:::
 
 ## Farn
 

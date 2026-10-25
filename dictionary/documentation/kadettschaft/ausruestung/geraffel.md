@@ -1,6 +1,8 @@
-# 🎒 technologie/geraffel
+# 🎒 Geraffel und Grundausstattung
 
-technologie/geraffel oder Ausrüstung gibt es viel.
+## Grundausstattung
+
+![grundausstattung.jpeg](_images/grundausstattung.jpeg)
 
 ## 1. 🧭 Nordweiser
 

@@ -581,6 +581,10 @@
          <lastmod>2026-10-25</lastmod>
     </url>
     <url>
+         <loc>http://127.0.0.1:8000/welt/quantenraum/</loc>
+         <lastmod>2026-10-25</lastmod>
+    </url>
+    <url>
          <loc>http://127.0.0.1:8000/welt/geographie/brom/</loc>
          <lastmod>2026-10-25</lastmod>
     </url>
@@ -590,10 +594,6 @@
     </url>
     <url>
          <loc>http://127.0.0.1:8000/welt/geographie/noctis-labyrinthus/</loc>
-         <lastmod>2026-10-25</lastmod>
-    </url>
-    <url>
-         <loc>http://127.0.0.1:8000/welt/geographie/quantenraum/</loc>
          <lastmod>2026-10-25</lastmod>
     </url>
     <url>

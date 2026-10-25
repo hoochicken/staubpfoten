@@ -1,5 +1,10 @@
 # Baumschiff
 
+::: carousel
+![Baumschiff](/technik/_images/vehikel/baumschiff/baumschiff.png "Baumschiff")
+![Sphäre](/technik/_images/vehikel/baumschiff/sphaere.png "Sphäre")
+:::
+
 Der Yggdrasil ist ein **lebender Baum**, der gleichzeitig ein Raumschiff ist. Er wurde von den Barben nicht gebaut, sondern gezüchtet und geformt. Sein Stamm, seine Äste, Wurzeln und Blätter bilden gemeinsam ein gigantisches lebendes Schiff.
 Von außen sieht der Yggdrasil zunächst wie ein gewaltiger Baum aus, der unmöglich im Weltraum existieren dürfte. Erst bei genauerem Hinsehen erkennt man, dass seine Äste ungewöhnlich angeordnet sind und sich zwischen ihnen technische und biologische Strukturen befinden.
 

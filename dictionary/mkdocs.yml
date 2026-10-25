@@ -151,8 +151,8 @@ nav:
     - Schnellstarter: abenteuer/schnellstarter.md
     - Kadetten-Fitness: abenteuer/fit-wie-ein-kadett.md
     - Hauptkampagne: abenteuer/kampagne.md
-    - Solo-RPG:
-      - Mini-RPG: abenteuer/mini-rpg.md
+    - Solo-RPG: abenteuer/solo-rpg.md
+    - Apps: abenteuer/apps.md
 
   - Archiv:
     - "🧑‍🚀 Schnellstarter": _archive-ichbinnand/rules/schnellstarter.md

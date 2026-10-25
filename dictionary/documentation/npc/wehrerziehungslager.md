@@ -218,3 +218,17 @@ Runder spricht manchmal mit einer KI, die offiziell abgeschaltet wurde. Heimlich
   - „Fragen sind nicht vorgesehen.“
 - **Verhalten gegenüber Camilla:** Vermeidet Blickkontakt, achtet aber genau darauf, ob sie Hilfe braucht – nicht aus Mitgefühl, sondern weil nichts beschädigt ankommen darf.
 
+**Zylle – HR-Gladiatorin**
+
+- **Fell:** Silberschwarz; athletischer Körperbau.
+- **Kleidung:** Modifizierte alte HR-Rüstung.
+- **Waffe:** Plasma-Stichlanze – kurz, brutal und beim Ziehen schwer zu erkennen.
+- **Besonderheit:** Gladiatorenhelm mit eingeritzten Strichmarkierungen, möglicherweise für Siege.
+
+**Krenn Vexa – Modularfaust-Bediener**
+
+- **Fell:** Gelbbraun.
+- **Kleidung:** Modularfaust-Uniform.
+- **Waffe/Sabotage:** Manipulierte Gleichwarmkartusche, die beim Laden explodiert.
+- **Besonderheit:** Hat ein altes, verbotenes KI-„Brumm“-Messgerät umgebaut und nutzt es weiterhin.
+- **Weitere Rolle:** Einer der drei Modularfaust-Bediener.

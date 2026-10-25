@@ -4,23 +4,6 @@ Diese Datei ordnet die vorhandenen Figuren nach Rolle und Einsatzbereich. Doppel
 
 ## Attentäter
 
-**Zylle – HR-Gladiatorin**
-
-- **Fell:** Silberschwarz; athletischer Körperbau.
-- **Kleidung:** Modifizierte alte HR-Rüstung.
-- **Waffe:** Plasma-Stichlanze – kurz, brutal und beim Ziehen schwer zu erkennen.
-- **Besonderheit:** Gladiatorenhelm mit eingeritzten Strichmarkierungen, möglicherweise für Siege.
-- **Hintergrund:** Will „Ehre“ auf ihre Weise zurückholen und glaubt, der Zephyr habe ihr Leben zerstört.
-
-**Krenn Vexa – Verräter und Modularfaust-Bediener**
-
-- **Fell:** Gelbbraun.
-- **Kleidung:** Modularfaust-Uniform.
-- **Waffe/Sabotage:** Manipulierte Gleichwarmkartusche, die beim Laden explodiert.
-- **Besonderheit:** Hat ein altes, verbotenes KI-„Brumm“-Messgerät umgebaut und nutzt es weiterhin.
-- **Motiv:** Will den KIs helfen und die Inkraftsetzung der Robotergesetze verhindern.
-- **Weitere Rolle:** Einer der drei Modularfaust-Bediener.
-
 **Ferron Stryg – Klingenmörder**
 
 - **Fell:** Blaugrau.

@@ -13,11 +13,13 @@ Hier siehst du einen dieser kleinen Kadetten :-)
 
 ## Propaganda
 
+![propaganda.png](_images%2Fpropaganda.png)
+
 Die Kadettschaft ist eine prämilitärische Gruppe.
 Hier werden die jungen Marser bereits an Befehlsketten und Drills gewöhnt.
 Eine kleine militärische AUsbildung an Waffen gibt es dazu.
 
-Das Ganze ist sau kinderfrundlich und wohlüberoegt.
+Das Ganze ist sau kinderfreundlich und wohlüberlegt.
 Ziel ist es, den gehorsamen Soldaten zu formen, den perfekten Befehlsempfänger und -ausführenden.
 Und das geht natürlich nur mit viel Spass und ggf. auch schwarzer Pädagogik.
 

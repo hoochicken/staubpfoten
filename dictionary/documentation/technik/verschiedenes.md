@@ -1,5 +1,14 @@
 # Technologien
 
+## Industrie-Anlagen
+
+::: carousel
+![Windschaufeln](/technik/_images/industrie-anlagen/windschaufeln.jpeg "Windschaufeln")
+![Rohrkoks](/technik/_images/industrie-anlagen/rohrkoks.jpeg "Rohrkoks")
+![Rohrsprit](/technik/_images/industrie-anlagen/rohrsprit.jpeg "Rohrsprit")
+![Methan-Anlage](/technik/_images/industrie-anlagen/methan.jpeg "Methan-Anlage")
+:::
+
 ## Fernunterhalt
 
 Um sich zu unterhalten verwenden die Marser den sogenannten Fernunterhalt.
@@ -13,6 +22,8 @@ Barriere sind elektromagnetische Netze mit über Batterien aufrecht erhalten wer
 Sie werden z. B. in Gefängnissen eingesetzt als Tür oder anderen Schliessmechaniken.
 
 ## Modularfaust
+
+![modularfaust.png](_images%2Fmodularfaust.png)
 
 Die Modularfaust ist eine Abschussvorrichtung üfr Granaten. Es ist eine ziemlich grosse Kiste auf ssechs Rädern bzw. mit Kettenantrieb.
 

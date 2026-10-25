@@ -2,7 +2,12 @@
 
 ## Brumsen
 
-![_images/fauna/brumsen.png](_images/fauna/brumsen.png)
+::: carousel
+![Brumse](/welt/_images/fauna/brumsen/brumse.jpeg "Brumse")
+![Hinog-Glas](/welt/_images/fauna/brumsen/brumse-hinog.jpeg "Hinog-Glas")
+![Brumsenstock](/welt/_images/fauna/brumsen/brumsenstock.jpeg "Brumsenstock")
+![Brumsen](/welt/_images/fauna/brumsen/brumsen.png "Brumsen")
+:::
 
 Brumsen sind große, auffällige Insektenwesen. Ihr Körper ist von einem stabilen Panzer geschützt, während ihre Flügel ein deutlich hörbares Brummen erzeugen. Ihre Erscheinung wirkt auf Fremde einschüchternd.
 
@@ -14,7 +19,12 @@ Brumsen werden unter anderem als Wachtiere genutzt. Ihre Nester und ihr Verhalte
 
 ## Plötzen
 
-![_images/fauna/ploetzen.png](_images/fauna/ploetzen.png)
+::: carousel
+![Plötzen](/welt/_images/fauna/ploetzen/transparent.jpeg "Plötzen - transparente Haut")
+![Plötzen](/welt/_images/fauna/ploetzen/ploetzen.png "Plötzen")
+![Plötzen](/welt/_images/fauna/ploetzen/ploetzen.jpeg "Plötzen")
+![Anatomie](/welt/_images/fauna/ploetzen/ploetze-anatomie.jpeg "Anatomie")
+:::
 
 Plötzen sind große, raupenartige Freundwesen mit durchscheinender Haut. Durch ihre Körperwand sind die inneren Organe sichtbar, die von den Marsern liebevoll Welse, Robengang, Bromscheide und Sekretwabbel genannt werden.
 
@@ -23,6 +33,14 @@ Plötzen sind große, raupenartige Freundwesen mit durchscheinender Haut. Durch 
 **Verhalten**: Plötzen sind freundlich, neugierig und nähern sich Besuchern häufig aus eigenem Antrieb. Ihre Bewegungen sind langsam, aber zielstrebig.
 
 Plötzen gelten als Freundwesen und sind ein wichtiger Teil der Landwirtschaft. Sie werden gepflegt und gehalten und gehören zum vertrauten Bild vieler marsischer Höfe.
+
+## Makerlake
+
+![makerlake.jpeg](_images%2Ffauna%2Fmakerlake.jpeg)
+
+## Waske
+
+![waspe.jpeg](_images%2Ffauna%2Fwaspe.jpeg)
 
 ## Flittermolche
 

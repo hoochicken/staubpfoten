@@ -22,6 +22,8 @@ Der Boden ist von unzähligen Fußspuren zerfurcht. Die schweren Hebroboter hint
 
 Am Rand des Exerzierplatzes steht der **Kadettencontainer**. Er dient als Unterkunft und Aufenthaltsbereich der Kadetten.
 
+![stabscontainer.jpeg](..%2F..%2F_images%2Fkarten%2Fstabscontainer.jpeg)
+
 Im Container befinden sich:
 
 - **Kuppelschleuse** – Übergang zwischen Außenwelt und Container.

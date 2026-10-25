@@ -26,6 +26,13 @@ Schachtelhalme sind nützliche Pflanzen für Landwirtschaft und Handwerk. Ihre B
 
 Marsische Pilze kommen in vielen Formen, Größen und Farben vor. Manche besitzen breite Hüte, andere wachsen fächerartig an Oberflächen oder bilden lange Büschel. Einige Arten leuchten schwach im Dunkeln.
 
+::: carousel
+![Fächerling](/welt/_images/flora/pilze/faecherling.jpeg "Fächerling")
+![Fächerling](/welt/_images/flora/pilze/faecherling-real.png "Fächerling")
+![Schildpilz](/welt/_images/flora/pilze/schildpilz.jpeg "Schildpilz")
+![Wellenpilz](/welt/_images/flora/pilze/faecherling.jpeg "Wellenpilz")
+:::
+
 **Wachstum und Lebensraum**: Pilze wachsen bevorzugt an feuchten, schattigen Orten, in Höhlen, unter Farnen und auf verrottendem Pflanzenmaterial. Sie können einzeln oder in großen Gruppen auftreten.
 
 **Nutzung**: Bestimmte Arten dienen als Nahrung oder werden für medizinische und technische Zwecke gesammelt. Leuchtende Pilze können als schwache natürliche Lichtquelle genutzt werden.
@@ -33,6 +40,10 @@ Marsische Pilze kommen in vielen Formen, Größen und Farben vor. Manche besitze
 **Gefahren**: Nicht alle Pilze sind harmlos. Unbekannte Arten können giftig sein, Hautreizungen verursachen oder andere unerwartete Wirkungen haben. Deshalb sollten sie vor der Verwendung untersucht werden.
 
 Pilze spielen eine wichtige Rolle beim Abbau abgestorbener Pflanzen und anderer organischer Stoffe. Zugleich sind sie eine mögliche Nahrungs- und Rohstoffquelle.
+
+## Weissrohr
+
+![weissrohr.jpeg](_images/flora/weissrohr.jpeg)
 
 ## Farn
 

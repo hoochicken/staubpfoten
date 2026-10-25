@@ -112,10 +112,10 @@ nav:
     - Fauna: welt/fauna.md
     - Flora: welt/flora.md
     - Bromsal:
-      - Stadt: welt/geographie/bromsal/bromsal.md
       - Wehrerziehungslager: welt/geographie/bromsal/wel.md
-      - Stabsgebäude: welt/geographie/bromsal/stabsgebaeude.md
       - Bauernhof Kropp: welt/geographie/bromsal/bauernhof-kropp.md
+      - Stabsgebäude: welt/geographie/bromsal/stabsgebaeude.md
+      - Stadt: welt/geographie/bromsal/bromsal.md
       - Granaten-Fertigungsanlage: welt/geographie/bromsal/granaten-fertigung.md
     - "Kräfte & Völker":
       - Völker - Übersicht: welt/kraefte/voelker.md

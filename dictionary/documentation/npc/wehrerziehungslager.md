@@ -2,6 +2,8 @@
 
 ## Befehls-Stab
 
+![heinlein.jpeg](_images%2Fheinlein.jpeg)
+
 **Stabskadettin Heinlein**
 
 * Hobby: Alte Märchen über die Erde sammeln und nachspielen

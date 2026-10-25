@@ -9,6 +9,7 @@
 ![Ornithopter](/kultur/_images/einlinie/ornithopter.jpeg "Ornithopter")
 ![HR](/kultur/_images/einlinie/hr.jpeg "HR")
 ![Stiefel](/kultur/_images/einlinie/stiefel.jpeg "Stiefel")
+![Helm](/kultur/_images/einlinie/helm.jpeg "Helm")
 ![Planetoform-Anlage](/kultur/_images/einlinie/pfa.jpeg "Planetoform-Anlage")
 :::
 

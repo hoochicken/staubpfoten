@@ -1,5 +1,14 @@
 # Helme
 
+## Helm, Filter und Essen
+
+::: carousel
+![Helm und Filter](/kadettschaft/ausruestung/_images/filter/helm-filter.jpeg "Helm und Filter")
+![Helm und Filter](/kadettschaft/ausruestung/_images/filter/helm-filter-2.jpeg "Helm und Filter")
+![Helm ohne Filter](/kadettschaft/ausruestung/_images/filter/helm-ohne-filter.jpeg "Helm ohne Filter")
+![Helm, Filter und Essen](/kadettschaft/ausruestung/_images/filter/helm-filter-essen.jpeg "Helm, Filter und Essen")
+:::
+
 ## Leichtatmer mit Helm
 
 ![Leichtatmer mit Helm](_images/helme/leichtatmer-mit-helm.jpg)

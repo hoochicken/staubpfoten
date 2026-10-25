@@ -8,20 +8,12 @@ document.querySelectorAll(".product-gallery").forEach((gallery) => {
     ".product-gallery__thumbs > button.product-gallery__thumb"
   );
 
-  console.log("Gallery initialized:", {
-    stageFound: !!stage,
-    captionFound: !!caption,
-    buttonsFound: buttons.length
-  });
-
   if (!stage || !caption || buttons.length === 0) return;
 
   buttons.forEach((button) => {
     button.addEventListener("click", () => {
       const thumb = button.querySelector("img");
       if (!thumb) return;
-
-      console.log("Thumbnail clicked:", thumb.alt, thumb.title);
 
       stage.src = thumb.src;
       stage.alt = thumb.alt;

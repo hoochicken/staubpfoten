@@ -333,6 +333,10 @@
          <lastmod>2026-10-25</lastmod>
     </url>
     <url>
+         <loc>http://127.0.0.1:8000/abenteuer/apps/</loc>
+         <lastmod>2026-10-25</lastmod>
+    </url>
+    <url>
          <loc>http://127.0.0.1:8000/abenteuer/fit-wie-ein-kadett/</loc>
          <lastmod>2026-10-25</lastmod>
     </url>
@@ -341,11 +345,11 @@
          <lastmod>2026-10-25</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/abenteuer/mini-rpg/</loc>
+         <loc>http://127.0.0.1:8000/abenteuer/schnellstarter/</loc>
          <lastmod>2026-10-25</lastmod>
     </url>
     <url>
-         <loc>http://127.0.0.1:8000/abenteuer/schnellstarter/</loc>
+         <loc>http://127.0.0.1:8000/abenteuer/solo-rpg/</loc>
          <lastmod>2026-10-25</lastmod>
     </url>
     <url>

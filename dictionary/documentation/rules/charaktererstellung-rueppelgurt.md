@@ -2,7 +2,7 @@
 
 ## Wer bist du?
 
-Für manche Abenteuer bite du ein Rüppelgurt? Was?!
+Für manche Abenteuer bist du ein Rüppelgurt? Was?!
 
 **Was ist Rüppelgurt?**
 

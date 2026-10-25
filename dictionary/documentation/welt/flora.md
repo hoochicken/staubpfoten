@@ -2,7 +2,10 @@
 
 ## Blaugras
 
-## Blaugras
+::: carousel
+![Blaugras](/welt/_images/flora/blaugras.jpeg "Blaugras")
+![Azurgras](/welt/_images/flora/azurgras.jpeg "Azurgras")
+:::
 
 Blaugras ist eine widerstandsfähige, blaugrün schimmernde Graspflanze, die auf dem Mars weit verbreitet ist. Es wächst in dichten Büscheln und bildet auf geeigneten Böden ganze Weideflächen. Bei Wind bewegen sich die Halme wie kleine Wellen über den Boden.
 
@@ -49,6 +52,11 @@ Pilze spielen eine wichtige Rolle beim Abbau abgestorbener Pflanzen und anderer 
 :::
 
 ## Farn
+
+::: carousel
+![Buschfarn](/welt/_images/flora/buschfarn.jpeg "Buschfarn")
+![Rotfarn](/welt/_images/flora/rotfarn.jpeg "Rotfarn")
+:::
 
 Marsische Farne besitzen große, gefiederte Wedel, die dichte grüne Flächen bilden. Manche Arten wachsen niedrig und breit, andere entwickeln kräftige, lange Wedel. Ihre Fasern können erstaunlich stabil sein. Bei Stürmen ringeln sie sich zum Schutz zusammen.
 

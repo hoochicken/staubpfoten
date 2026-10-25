@@ -10,6 +10,8 @@ Ein Rollenspiel ist wie eine gemeinsame Geschichte. Die erzählt ihr gemeinsam.
 
 Die anderen sind **die Spieler* und erzählen mit und sprechen und handeln.
 
+![der-weg-ins-abenteuer.jpeg](_images%2Fder-weg-ins-abenteuer.jpeg)
+
 ## Benötigte Materialien
 
 Das braucht ihr zum Spielen

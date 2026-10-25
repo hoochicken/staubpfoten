@@ -38,7 +38,7 @@ Plötzen gelten als Freundwesen und sind ein wichtiger Teil der Landwirtschaft. 
 
 ![makerlake.jpeg](_images%2Ffauna%2Fmakerlake.jpeg)
 
-## Waske
+## Waspe
 
 ![waspe.jpeg](_images%2Ffauna%2Fwaspe.jpeg)
 

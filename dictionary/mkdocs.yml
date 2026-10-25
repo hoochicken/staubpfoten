@@ -132,12 +132,6 @@ nav:
       - Zeitstrahl: welt/geschichte/zeitgeschehen.md
       - Roboter-Gesetze: welt/geschichte/roboter-gesetze.md
 
-  - "🧑‍🌾 NPCs":
-    - Wehrerziehungslager: npc/wehrerziehungslager.md
-    - Politiker: npc/politiker.md
-    - Zivilisten: npc/zivilisten.md
-    - Sonstige: npc/sonstige.md
-
   - "🛠️ Technik":
       - Kommunikation: technik/kommunikation.md
       - Hebrobotos: technik/hr.md
@@ -146,6 +140,12 @@ nav:
       - Verschiedenes: technik/verschiedenes.md
       - Medizin: technik/medizin.md
       - Entkörperung: technik/entkoerperung.md
+
+  - "🧑‍🌾 NPCs":
+    - Wehrerziehungslager: npc/wehrerziehungslager.md
+    - Politiker: npc/politiker.md
+    - Zivilisten: npc/zivilisten.md
+    - Sonstige: npc/sonstige.md
 
   - "🎲 Abenteuer":
     - Schnellstarter: abenteuer/schnellstarter.md

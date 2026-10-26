@@ -11,6 +11,8 @@ Marser sind zweibeinige, katzenartige Lebewesen. Sie besitzen Fell, Ohren, Schna
 
 ## Wohnbleiben und Häuser
 
+![wohnbleibe.png](bromsal%2F_images%2Fwohnbleibe.png)
+
 Marser leben in Siedlungen, Dörfern und Städten. Ihre Wohnbleiben sind an die Bedingungen des terraformierten Mars angepasst. Sie bestehen beispielsweise aus Lehmziegeln, Metallplatten und wiederverwendeten Bauteilen. Auf Bauernhöfen gibt es Wohnhäuser, Stallungen, Lager, Feuerstellen und Unterstände für Landmaschinen.
 
 Die Innenräume sind praktisch eingerichtet. Werkzeuge, Ersatzteile und persönliche Gegenstände gehören zum Alltag. Viele Dinge werden repariert und weiterverwendet, statt sie wegzuwerfen.

@@ -117,8 +117,11 @@ nav:
       - Wehrerziehungslager: welt/bromsal/wel.md
       - Bauernhof Kropp: welt/bromsal/bauernhof-kropp.md
       - Stabsgebäude: welt/bromsal/stabsgebaeude.md
+      - Bunker: welt/bromsal/bunker.md
+      - Sonnenkollektor: welt/bromsal/sonnenkollektor.md
       - Stadt: welt/bromsal/bromsal.md
       - Granaten-Fertigungsanlage: welt/bromsal/granaten-fertigung.md
+      - "Wohnbleibe Dreifiger": welt/bromsal/wohnbleibe-dreifinger.md
     - "Kräfte & Völker":
       - Völker - Übersicht: welt/kraefte/voelker.md
       - KI: welt/kraefte/ki.md
@@ -147,6 +150,8 @@ nav:
     - Wehrerziehungslager: npc/wehrerziehungslager.md
     - Politiker: npc/politiker.md
     - Zivilisten: npc/zivilisten.md
+    - "Lunare Dreifinger": npc/lunare-dreidinger.md
+    - Titanen: npc/titanen.md
     - Sonstige: npc/sonstige.md
 
   - "🎲 Abenteuer":

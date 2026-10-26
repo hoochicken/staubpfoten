@@ -22,7 +22,7 @@ Wenn ein Spieler sagt: „Mein Charakter wird einen Baum hochklettern“, entsch
 
 **Beispiel**
 
-::: dice eigenschaft="GE (Gewandtheit)" wert="4"
+::: dice eigenschaft="z. B. GE-Probe auf einen Gewandtheitheitswert von 4" wert="4"
 :::
 
 **(1) Einfaches Beispiel**

@@ -20,6 +20,11 @@ Wenn ein Spieler sagt: „Mein Charakter wird einen Baum hochklettern“, entsch
 * Eine 6 ist immer ein Fehlschlag. **Würfle danach noch einmal.**
 * Eine 6 und noch eine 6 = **Doppelsechs  schlimmer Fehlschlag**
 
+**Beispiel**
+
+::: dice eigenschaft="GE (Gewandtheit)" wert="4"
+:::
+
 **(1) Einfaches Beispiel**
 
 **Beispiel**: Enno möchte einen Jerrybaum hochklettern. Er würfelt auf die passende Grundeigenschaft, hier KörperKraft (KK). Seine KK hat er 4. Er würfelt eine 🎲 3. Die Augenzahl 3 ist kleiner als eine KK von 4  die Probe ist geschafft. Enno klettert also den Baum hoch.

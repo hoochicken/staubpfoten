@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: mkdocs-dice
+Version: 0.1.0
+Summary: Interactive dice checks for MkDocs
+Requires-Python: >=3.9
+Requires-Dist: mkdocs>=1.5
+Requires-Dist: Markdown>=3.4

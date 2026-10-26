@@ -1,0 +1,24 @@
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mkdocs-dice"
+version = "0.1.0"
+description = "Interactive dice checks for MkDocs"
+requires-python = ">=3.9"
+dependencies = ["mkdocs>=1.5", "Markdown>=3.4"]
+
+[project.entry-points."mkdocs.plugins"]
+dice = "mkdocs_dice.plugin:DicePlugin"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+mkdocs_dice = [
+    "assets/js/*.js",
+    "assets/css/*.css",
+    "assets/images/dice/*.png",
+]

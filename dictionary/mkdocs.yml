@@ -58,13 +58,13 @@ theme:
 plugins:
   - include-markdown
   - search:
-      separator: '[\s\-\.]+'                   # Worttrennung für Suche
+      separator: '[\s\-\.]+'
       lang:
-        - de                                   # Suchindex auf Deutsch
+        - de
+  - dice
 
-# Markdown-Erweiterungen
 markdown_extensions:
-  - markdown_include.include:                  # Andere .md-Dateien einbinden
+  - markdown_include.include:
       base_path: documentation
   - attr_list
   - md_in_html
@@ -74,9 +74,11 @@ markdown_extensions:
 extra_css:
   - "assets/css/custom.css"                    # Pfad relativ zu docs_dir                              # Attribute im Markdown ({ })
   - "assets/css/gallery.css"                    # Pfad relativ zu docs_dir                              # Attribute im Markdown ({ })
+  - "assets/css/dice.css"                    # Pfad relativ zu docs_dir                              # Attribute im Markdown ({ })
 
 extra_javascript:
   - "assets/js/gallery.js"
+  - "assets/js/dice.js"
 
 # Navigation
 nav:

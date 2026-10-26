@@ -96,7 +96,7 @@ class DicePlugin(BasePlugin):
                 f'data-image-base="{image_base}">\n'
                 f'<h3 class="dice-check__title">Würfelprobe: {name}</h3>\n'
                 '<label class="dice-check__label">'
-                'Eigenschaftswert (1–5) '
+                'Eigenschaftswert '
                 f'<input class="dice-check__value" type="number" '
                 f'min="1" max="5" value="{value}">'
                 '</label>\n'

@@ -1,6 +1,5 @@
 pyproject.toml
 src/mkdocs_dice/__init__.py
-src/mkdocs_dice/extension.py
 src/mkdocs_dice/plugin.py
 src/mkdocs_dice.egg-info/PKG-INFO
 src/mkdocs_dice.egg-info/SOURCES.txt

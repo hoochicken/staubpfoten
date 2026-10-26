@@ -87,11 +87,8 @@ PS: Wenn du ein Kind kennst, dass sich weigert, kannst du seine Familie hier auc
 
 ## Erkennungszeichen
 
-![kadett.jpg](_images/mz-armbinde.jpg)
-
-
-![kadett.jpg](_images/mz-flagge.jpg)
-
-## Kadett (vor Gefreiten-Status)
-
-![kadett.jpg](_images/vor-gefreiter.jpg)
+::: carousel
+![Armbinde](/kadettschaft/_images/mz-armbinde.jpg "Armbinde")
+![Flagge](/kadettschaft/_images/mz-flagge.jpg "Flagge")
+![Kadett (vor Gefreiten-Status)](/kadettschaft/_images/vor-gefreiter.jpg "Kadett (vor Gefreiten-Status)")
+:::

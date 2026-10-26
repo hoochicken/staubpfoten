@@ -105,8 +105,8 @@ nav:
 
   - "🌍 Welt":
     - "Mars":
-      - Planet: welt/geographie/mars.md
       - Marser: welt/marser.md
+      - Planet: welt/geographie/mars.md
       - Brom: welt/geographie/brom.md
       - "Noctis Labyrinthus": welt/geographie/noctis-labyrinthus.md
       - Karten: welt/karten.md
@@ -114,11 +114,11 @@ nav:
     - Fauna: welt/fauna.md
     - Flora: welt/flora.md
     - Bromsal:
-      - Wehrerziehungslager: welt/geographie/bromsal/wel.md
-      - Bauernhof Kropp: welt/geographie/bromsal/bauernhof-kropp.md
-      - Stabsgebäude: welt/geographie/bromsal/stabsgebaeude.md
-      - Stadt: welt/geographie/bromsal/bromsal.md
-      - Granaten-Fertigungsanlage: welt/geographie/bromsal/granaten-fertigung.md
+      - Wehrerziehungslager: welt/bromsal/wel.md
+      - Bauernhof Kropp: welt/bromsal/bauernhof-kropp.md
+      - Stabsgebäude: welt/bromsal/stabsgebaeude.md
+      - Stadt: welt/bromsal/bromsal.md
+      - Granaten-Fertigungsanlage: welt/bromsal/granaten-fertigung.md
     - "Kräfte & Völker":
       - Völker - Übersicht: welt/kraefte/voelker.md
       - KI: welt/kraefte/ki.md

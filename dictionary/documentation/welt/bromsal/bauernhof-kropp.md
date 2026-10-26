@@ -1,5 +1,10 @@
 # Der Kropp-Hof
 
+::: carousel
+![Kropp Bauernhof](/welt/bromsal/_images/kropp-karte.png "Kropp Bauernhof")
+![Kropp und Plötzen auf Weide](/welt/bromsal/_images/kropp-ploetzen.jpeg "Kropp und Plötzen auf Weide")
+:::
+
 Der **Kropp-Hof** ist ein landwirtschaftlicher Hof in der Umgebung von Bromsal. Hier leben **Bauer Kropp** und seine Familie. Der Hof ist ein wichtiger Treffpunkt für die Kadetten und später auch ein sicherer Ort für die Gruppe.
 
 Es ist kein besonders großer oder moderner Betrieb. Dafür ist hier fast immer etwas los. Maschinen laufen, Plötzen bewegen sich über das Gelände und irgendwo muss immer etwas repariert oder gefüttert werden.
@@ -7,6 +12,8 @@ Es ist kein besonders großer oder moderner Betrieb. Dafür ist hier fast immer 
 ## Wohnhaus
 
 Das Wohnhaus ist der Mittelpunkt des Hofes. Es ist einfach eingerichtet und wirkt bewohnt und gemütlich.
+
+Es ist ein aus Blechteilen zusammengeschweißter Bauernhof mit rötlicher Schutzlackierung. Im Hof wachsen Marswurzeln aus künstlich bewässerten Rillen. Über allem liegt ein bronzefarbener Solarschirm. Ein Generator surrt freundlich.
 
 Hier wird gemeinsam gegessen, geredet und gefeiert. Gerade nach aufregenden Ereignissen bietet das Haus einen deutlichen Kontrast zum WEL und zu den militärischen Anlagen.
 
@@ -37,6 +44,12 @@ Die Plötzen gehören zum Alltag des Hofes. Die riesigen, freundlichen Raupen be
 Sie sind keine Nutztiere im klassischen Sinne. Trotzdem sind sie für die Landwirtschaft wichtig.
 
 Eine Plötze kann dabei durchaus einmal mitten auf dem Weg liegen und sich weigern, Platz zu machen.
+
+## Plötzenweide
+
+![kropp-ploetzen.jpeg](_images%2Fkropp-ploetzen.jpeg)
+
+Ein flacher Krater mit grün-grauen Futterstreifen. Die Plötzen sind plump, mit schimmernden Häuten in Violett, Beige oder Hellblau. Ihr Sekret tropft n tiefe Auffangschalen aus gebürstetem Stahl. In der Ferne stehen Windtürme, die surren wie Insekten.
 
 ## Werkzeuge und Maschinen
 
@@ -88,3 +101,10 @@ Hinter seiner miesepetrigen Fassade steckt allerdings ein zuverlässiger und hil
 Zum Hof gehört außerdem ein **blickdichter Holzschopf**. Er dient zur Lagerung von Holz und anderem Material.
 
 Später befindet sich dort etwas, das dort eigentlich nicht hingehört ...
+
+## Nachbarhof von Brul Eryns Eltern
+
+Hellgelber Anbau an einem alten Frachtcontainer. In den Fenstern hängen
+blaue Tücher. Zwei klapprige Drohnen kreisen über kleinen Tiergehegen
+aus Netzstoff. Die Erde hier ist heller, fast sandweiß – ungewöhnlich für die
+Gegend.

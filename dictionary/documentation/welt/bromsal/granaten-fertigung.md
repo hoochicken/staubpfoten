@@ -1,7 +1,10 @@
 # Granaten-Fabrik / Fertigungsmaterialien
 
 In Bromsal wurde in der Lagerhalle am alten Raumhafen eine behelfsmässige Fertigungsanlage für Granaten eingerichtet.
+
 [in Arbeit]
+
+## Notizen
 
 **ᚠ 🟢 Ungefährliche Dinge (grün markiert, aber wichtig)**
 

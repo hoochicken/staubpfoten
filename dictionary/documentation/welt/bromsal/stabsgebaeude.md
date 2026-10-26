@@ -1,5 +1,7 @@
 ## Das Stabsgebäude am Raumhafen
 
+![stabsgebaeude.jpeg](_images%2Fstabsgebaeude.jpeg)
+
 Das Stabsgebäude steht am Rand des Raumhafens. Seine Vorderseite zeigt zur Straße und zum übrigen Raumhafengelände, die Rückseite direkt zum Landefeld. Dort liegen **sechs Landeplätze**, auf denen normalerweise ein bis vier Ornithopter stehen. Durch mehrere kleine Bullaugen in der Rückwand können die Soldaten das Landefeld beobachten.
 
 Das Gebäude ist ein typischer **Mars-Rund- bzw. Kuppelbau**: zweiflügelig angelegt, mit einem mittigen Eingang und einem leicht gewölbten Dach. Es wirkt zweckmäßig und solide, aber schon etwas alt. An der Fassade finden sich Reparaturstellen, nachträglich eingesetzte Leitungen und unterschiedlich gefärbte Platten.

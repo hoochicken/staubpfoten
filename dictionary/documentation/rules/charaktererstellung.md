@@ -8,6 +8,20 @@
 
 ## Wer bist du?
 
+::: carousel
+![Marserin](/welt/_images/marser/marserin.jpeg "Marserin")
+![Marser](/welt/_images/marser/marser.jpeg "Marser")
+![Marser-Arten](/welt/_images/marser/marser-arten-tafel-0.jpeg "Marser-Arten")
+![Marser-Arten](/welt/_images/marser/marser-arten-tafel-2.jpeg "Marser-Arten")
+![Marser-Arten](/welt/_images/marser/marser-arten-tafel-3.jpeg "Marser-Arten")
+![Marser-Arten](/welt/_images/marser/marser-arten-tafel-4.jpeg "Marser-Arten")
+![Marser-Arten](/welt/_images/marser/marser-arten-tafel-5.jpeg "Marser-Arten")
+![Marser-Arten](/welt/_images/marser/marser-arten-tafel-6.jpeg "Marser-Arten")
+![Marser-Arten](/welt/_images/marser/marser-arten-tafel-7.jpeg "Marser-Arten")
+![Marser-Arten](/welt/_images/marser/marser-arten-tafel-8.jpeg "Marser-Arten")
+![Marser-Arten](/welt/_images/marser/marser-arten-tafel-9.jpeg "Marser-Arten")
+:::
+
 Bevor dein Abenteuer beginnt, erschaffst du deinen eigenen Marser-Kadetten. Du brauchst dazu nur einen Stift, den Charakterbogen und einen sechsseitigen Würfel (W6).
 
 ## 1. Name & Handzeichen

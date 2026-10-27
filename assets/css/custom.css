@@ -14,6 +14,44 @@ h1, h2, h3, h4, h5 {font-family:Orbitron, Sans-serif;}
    - Header/Tabs explizit in Primärfarbe einfärben
 */
 
+article table tr:nth-child(2n) td { background:rgba(170,170,170,0.2);}
+
+
+/* Make Markdown tables span the full available width */
+.md-typeset__scrollwrap {
+  width: 100%;
+  max-width: 100%;
+}
+
+.md-typeset__table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+}
+
+.md-typeset__table table {
+  display: table;
+  width: 100%;
+  min-width: 100%;
+  table-layout: auto;
+}
+.md-typeset__table th:nth-child(1),
+.md-typeset__table td:nth-child(1) {
+  width: 30%;
+}
+
+.md-typeset__table th:nth-child(2),
+.md-typeset__table td:nth-child(2) {
+  width: 55%;
+}
+
+.md-typeset__table th:nth-child(3),
+.md-typeset__table td:nth-child(3) {
+  width: 15%;
+}
+
+
+
 /* Schriften einbinden (liegt im selben Ordner) */
 @import "fonts.css";  /* lädt deine Schriftdefinitionen, wenn vorhanden */
 

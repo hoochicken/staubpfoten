@@ -5,7 +5,15 @@
 ::: carousel
 ![Marserin](/welt/_images/marser/marserin.jpeg "Marserin")
 ![Marser](/welt/_images/marser/marser.jpeg "Marser")
-![Marser-Arten](/welt/_images/marser-arten.jpeg "Marser-Arten")
+![Marser-Arten](/welt/_images/marser/marser-arten-tafel-0.jpeg "Marser-Arten")
+![Marser-Arten](/welt/_images/marser/marser-arten-tafel-2.jpeg "Marser-Arten")
+![Marser-Arten](/welt/_images/marser/marser-arten-tafel-3.jpeg "Marser-Arten")
+![Marser-Arten](/welt/_images/marser/marser-arten-tafel-4.jpeg "Marser-Arten")
+![Marser-Arten](/welt/_images/marser/marser-arten-tafel-5.jpeg "Marser-Arten")
+![Marser-Arten](/welt/_images/marser/marser-arten-tafel-6.jpeg "Marser-Arten")
+![Marser-Arten](/welt/_images/marser/marser-arten-tafel-7.jpeg "Marser-Arten")
+![Marser-Arten](/welt/_images/marser/marser-arten-tafel-8.jpeg "Marser-Arten")
+![Marser-Arten](/welt/_images/marser/marser-arten-tafel-9.jpeg "Marser-Arten")
 :::
 
 Marser sind zweibeinige, katzenartige Lebewesen. Sie besitzen Fell, Ohren, Schnauze, Pfoten und einen Schwanz. Fellfarbe, Muster und Körperbau unterscheiden sich von Marser zu Marser. Manche sind schlank und flink, andere kräftig und breit gebaut. Ihre Ohren und Schwänze verraten oft ihre Stimmung.

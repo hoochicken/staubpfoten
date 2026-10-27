@@ -14,6 +14,9 @@ Merke: Verwende das Funkprotokoll [Funkprotokoll](../kultur/kommunikation.md)
 
 ![Fernunterhalt](_images/kommunikation/fernunterhalt.jpg)
 
+Über dieses Gerät verbreitet der Marsianische Zephyr seine Propaganda.
+Es ist praktisch in jeder Wohnbleibe zu finden.
+
 ## Anzug mit Kommunikations-Einheit
 
 ::: carousel

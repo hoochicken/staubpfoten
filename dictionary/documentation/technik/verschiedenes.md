@@ -9,9 +9,9 @@
 ![Methan-Anlage](/technik/_images/industrie-anlagen/methan.jpeg "Methan-Anlage")
 :::
 
-## Fernunterhalt
+## Fernsprech
 
-Um sich zu unterhalten verwenden die Marser den sogenannten Fernunterhalt.
+Um sich zu unterhalten verwenden die Marser den sogenannten "Fernsprech".
 Viele Marser Wohnbleiben verfügen über diese Art von Geräten.
 Sie hängen in der Regel im Wohnraum an der Wand, haben einen abnehmbaren Hörer.
 Mit einer seitlichen Kurbel muss man das Initialsignal geben.

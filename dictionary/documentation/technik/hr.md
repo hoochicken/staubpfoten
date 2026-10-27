@@ -1,11 +1,24 @@
 # Hebroboto
 
-![image](_images/hr/hr-02.jpg) Ein Arbeitgerät in Form eines Exoskeletts. Es gibt sie in verschiedenen Grössen, je nach auszuführender Arbeit und wie s
+::: carousel
+![HR](/technik/_images/hr/hr-01.jpg "HR")
+![HR](/technik/_images/hr/hr-02.jpg "HR")
+![HR](/technik/_images/hr/hr-03.jpg "HR")
+![HR](/technik/_images/hr/hr-04.jpg "HR")
+![HR](/technik/_images/hr/hr-basic.png "HR")
+![HR](/technik/_images/hr/hr-bohrer.png "HR")
+![HR](/technik/_images/hr/hr-gabel.png "HR")
+![HR](/technik/_images/hr/hr-greifer.png "HR")
+![HR](/technik/_images/hr/hr-greifer-2.png "HR")
+![HR](/technik/_images/hr/hr-haken.png "HR")
+![HR](/technik/_images/hr/hr-hochlauffen.png "HR")
+![HR](/technik/_images/hr/hr-hochlauffen-traeger.png "HR")
+![HR](/technik/_images/hr/hr-plaetter.png "HR")
+![HR](/technik/_images/hr/hr-schaufel.png "HR")
+![HR](/technik/_images/hr/hr-scheinwerfer.png "HR")
+:::
 
-![hr-01.jpg](_images/hr/hr-01.jpg)
-
-**Hebrobotos**
-
+Ein Arbeitgerät in Form eines Exoskeletts. Es gibt sie in verschiedenen Grössen, je nach auszuführender Arbeit und wie s
 Hebrobotos sind große Arbeitsmaschinen, die auf dem Mars vor allem in der **Landwirtschaft, beim Transport und bei schweren Arbeiten** eingesetzt werden. Sie ersetzen dort viele menschliche Arbeitskräfte und können Aufgaben erledigen, für die ein einzelner Marser zu schwach wäre.
 
 **Aufbau**
@@ -41,3 +54,14 @@ Ein alter Hebroboto, der jeden Morgen am gleichen Platz steht, kann schnell zum 
 Und wehe, jemand will ihn verschrotten.
 
 „Der funktioniert doch noch!“
+
+## Gladiatoren
+
+::: carousel
+![HRG](/technik/_images/hrg/hrg-bohrer.png "HRG")
+![HRG](/technik/_images/hrg/hrg-faeuste.png "HRG")
+![HRG](/technik/_images/hrg/hrg-faeuste-2.png "HRG")
+![HRG](/technik/_images/hrg/hrg-grau.png "HRG")
+![HRG](/technik/_images/hrg/hrg-massige-faeuste.png "HRG")
+![HRG](/technik/_images/hrg/hrg-stomper.png "HRG")
+:::

@@ -8,7 +8,7 @@ Ein Rollenspiel ist wie eine gemeinsame Geschichte. Die erzählt ihr gemeinsam.
 * wen oder welche Tiere sie treffen und
 * welche Auswirkungen ihre Handlungen haben
 
-Die anderen sind **die Spieler* und erzählen mit und sprechen und handeln.
+Die anderen sind **die Spieler** und erzählen mit und sprechen und handeln.
 
 ![der-weg-ins-abenteuer.jpeg](_images%2Fder-weg-ins-abenteuer.jpeg)
 

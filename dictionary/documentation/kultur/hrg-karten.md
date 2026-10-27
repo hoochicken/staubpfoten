@@ -1,14 +1,13 @@
-# HR-Gladiatoren
+# HR-Gladiatoren zur Propaganda
 
 ::: carousel
-![Brakk](/kultur/_images/hrg/brakk.jpeg "Brakk")
-![Skorr](/kultur/_images/hrg/skorr.jpeg "Skorr")
-![Mörder Murk](/kultur/_images/hrg/moerder-murk.jpeg "Mörder Murk")
-![Zyle](/kultur/_images/hrg/zyle.jpeg "Zyle")
-![Metz](/kultur/_images/hrg/metz.jpeg "Metz")
+![HRG](/technik/_images/hrg/hrg-bohrer.png "HRG")
+![HRG](/technik/_images/hrg/hrg-faeuste.png "HRG")
+![HRG](/technik/_images/hrg/hrg-faeuste-2.png "HRG")
+![HRG](/technik/_images/hrg/hrg-grau.png "HRG")
+![HRG](/technik/_images/hrg/hrg-massige-faeuste.png "HRG")
+![HRG](/technik/_images/hrg/hrg-stomper.png "HRG")
 :::
-
-## HR-Gladiatoren zur Propaganda
 
 HR-Gladiatoren sind bezahlte Kämpfer.
 Oft sind es noch aktive Soldaten oder Veteranen.
@@ -25,6 +24,14 @@ Wer in der Arena siegt, erlangt Ansehen. Der Staat sorgt angesichts der Kriegsla
 
 Ausgehend von den Gladiatorenspielen haben sich Sammelkarten etabliert.
 Sie sind beliebte Tausch- und Sammelobjekte aller kleinen Marser.
+
+::: carousel
+![Brakk](/kultur/_images/hrg/brakk.jpeg "Brakk")
+![Skorr](/kultur/_images/hrg/skorr.jpeg "Skorr")
+![Mörder Murk](/kultur/_images/hrg/moerder-murk.jpeg "Mörder Murk")
+![Zyle](/kultur/_images/hrg/zyle.jpeg "Zyle")
+![Metz](/kultur/_images/hrg/metz.jpeg "Metz")
+:::
 
 Eine HR-Gladiator-Karte ist 7 × 10 cm groß und in hochwertiger Kartenform gehalten — ähnlich einem großen Spielkartenset, aber stabiler.
 Die Karten sind auf festem Karton (350 g/m²) gedruckt und beidseitig laminiert, damit sie auch intensivem kindlichen Gebrauch standhalten.

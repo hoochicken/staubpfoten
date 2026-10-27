@@ -43,12 +43,17 @@ Das heisst: Es kann jederzeit ein neuer Typ oder Prototyp entstehen, wenn du den
 ::: carousel
 ![LT](/technik/_images/vehikel/lt/lasttransport.jpeg "LT")
 ![LT mit Waggons](/technik/_images/vehikel/lt/lasttransport-mit-waggons.jpeg "LT mit Waggons")
+![LT Detail](/technik/_images/vehikel/lt/lt-detail.jpeg "LT Detail")
+![LT Sammeldarstellung](/technik/_images/vehikel/lt/lt-sammeldarstellung.jpeg "LT Sammeldarstellung")
 :::
 
 ## Meppelin
 
 ::: carousel
 ![Meppelin](/technik/_images/vehikel/meppelin/meppelin.jpeg "Meppelin")
+![Meppelin gross](/technik/_images/vehikel/meppelin/meppelin-gross.jpeg "Meppelin gross")
+![Meppelin Sammeldarstellung](/technik/_images/vehikel/meppelin/meppelin-sammeldarstellung.jpeg "Meppelin Sammeldarstellung")
+![Meppelin Sammeldarstellung](/technik/_images/vehikel/meppelin/meppelin-sammeldarstellung-2.jpeg "Meppelin Sammeldarstellung")
 ![Meppelin des Zephyrs](/technik/_images/vehikel/meppelin/meppelin-zephyr.jpeg "Meppelin des Zephyrs")
 :::
 

@@ -10,6 +10,10 @@ Merke: Verwende das Funkprotokoll [Funkprotokoll](../kultur/kommunikation.md)
 
 ![funkgeraet-handheld.jpg](_images/kommunikation/funkgeraet-handheld.jpg)
 
+## Fernunterhalt
+
+![Fernunterhalt](_images/kommunikation/fernunterhalt.jpg)
+
 ## Anzug mit Kommunikations-Einheit
 
 ::: carousel

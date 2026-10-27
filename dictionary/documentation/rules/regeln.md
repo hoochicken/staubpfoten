@@ -18,7 +18,7 @@ Wenn ein Spieler sagt: „Mein Charakter wird einen Baum hochklettern“, entsch
 
 * Eine 1 ist ziemlich gut und in der Regel immer gelungen.
 * Eine 6 ist immer ein Fehlschlag. **Würfle danach noch einmal.**
-* Eine 6 und noch eine 6 = **Doppelsechs  schlimmer Fehlschlag**
+* Eine 6 und noch eine 6 = **Doppelsechs => schlimmer Fehlschlag**
 
 **Beispiel**
 
@@ -27,11 +27,11 @@ Wenn ein Spieler sagt: „Mein Charakter wird einen Baum hochklettern“, entsch
 
 **(1) Einfaches Beispiel**
 
-**Beispiel**: Enno möchte einen Jerrybaum hochklettern. Er würfelt auf die passende Grundeigenschaft, hier KörperKraft (KK). Seine KK hat er 4. Er würfelt eine 🎲 3. Die Augenzahl 3 ist kleiner als eine KK von 4  die Probe ist geschafft. Enno klettert also den Baum hoch.
+**Beispiel**: Enno möchte einen Jerrybaum hochklettern. Er würfelt auf die passende Grundeigenschaft, hier KörperKraft (KK). Seine KK hat er 4. Er würfelt eine 🎲 3. Die Augenzahl 3 ist kleiner als eine KK von 4 => die Probe ist geschafft. Enno klettert also den Baum hoch.
 
 **(2) Fähigkeiten erleichtern die Probe um ihre Wertigkeit.**
 
-**Beispiel**: Ralli möchte auch den Jerrybaum hochklettern. Seine KörperKraft beträgt 3 und ist ein „Guter Kletterer“, Bonus +2. Er hat also einen Kletterwert von 3 + 2 = 5. Er würfelt eine 🎲 5. Die Augenzahl 5 ist kleiner als der Wert von 5  die Probe ist geschafft. Er klettert behände hoch.
+**Beispiel**: Ralli möchte auch den Jerrybaum hochklettern. Seine KörperKraft beträgt 3 und ist ein „Guter Kletterer“, Bonus +2. Er hat also einen Kletterwert von 3 + 2 = 5. Er würfelt eine 🎲 5. Die Augenzahl 5 ist kleiner als der Wert von 5 => die Probe ist geschafft. Er klettert behände hoch.
 
 **(3) Einschränkungen erschweren die Probe um ihre Wertigkeit.**
 

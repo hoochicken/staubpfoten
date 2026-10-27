@@ -4,7 +4,10 @@
 
 **Stabskadettin Heinlein**
 
-![heinlein.jpeg](_images%2Fheinlein.jpeg)
+::: carousel
+![Heinlein](/npc/_images%2Fheinlein-farbe.jpeg)
+![Heinlein](/npc/_images%2Fheinlein.jpeg)
+:::
 
 * Hobby: Alte Märchen über die Erde sammeln und nachspielen
 * Geheimnis: Ihre Oma war früher eine berühmte Geschichtenerzählerin – doch ihre Bücher sind verboten
@@ -12,6 +15,8 @@
   Inspektor kommt
 
 **Kommandantin Solan**
+
+![Kommandantin Solan](_images%2Fsolan.jpeg)
 
 * Rolle: Lagerleitung / Disziplin / Taktische Planung
 * Funktion: Hat das letzte Wort im Lager. Führt mit klarem Blick und harter Stimme.

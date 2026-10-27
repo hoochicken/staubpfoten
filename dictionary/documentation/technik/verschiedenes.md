@@ -23,7 +23,7 @@ Sie werden z. B. in Gefängnissen eingesetzt als Tür oder anderen Schliessmecha
 
 ## Modularfaust
 
-![modularfaust.png](_images%2Fmodularfaust.png)
+![Modularfaust](_images%2Fmodularfaust-farbe.png)
 
 Die Modularfaust ist eine Abschussvorrichtung üfr Granaten. Es ist eine ziemlich grosse Kiste auf ssechs Rädern bzw. mit Kettenantrieb.
 

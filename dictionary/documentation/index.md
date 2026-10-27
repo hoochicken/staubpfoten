@@ -4,7 +4,7 @@
 
 Hab Spaß auf dem Mars! Erlebe Gefahren und Abenteuer – und finde heraus, wie weit du gehen wirst, um den Mars und das Marservolk zu retten.
 
-![Eine Kadettschaft](assets/images/_website/startseite/kadettschaft_neu_50.png)
+![Eine Kadettschaft](assets/images/_website/startseite/kadettschaft.jpeg)
 
 **Das Rollenspiel in Kürze:**
 

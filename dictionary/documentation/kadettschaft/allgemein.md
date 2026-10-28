@@ -88,7 +88,10 @@ PS: Wenn du ein Kind kennst, dass sich weigert, kannst du seine Familie hier auc
 ## Erkennungszeichen
 
 ::: carousel
-![Armbinde](/kadettschaft/_images/mz-armbinde.jpg "Armbinde")
-![Flagge](/kadettschaft/_images/mz-flagge.jpg "Flagge")
+![Armbinde](/kadettschaft/_images/mz-armbinde.jpeg "Armbinde")
+![Flagge](/kadettschaft/_images/mz-flagge.jpeg "Flagge")
 ![Kadett (vor Gefreiten-Status)](/kadettschaft/_images/vor-gefreiter.jpg "Kadett (vor Gefreiten-Status)")
+![Heinlein](/kadettschaft/_images/heinlein-farbe.jpeg "Heinlein")
+![Solan](/kadettschaft/_images/solan.jpeg "Solan")
+![Marsianischer Zephyr](/kadettschaft/_images/marsianischer-zephyr-farbe.jpeg "Marsianischer Zephyr")
 :::

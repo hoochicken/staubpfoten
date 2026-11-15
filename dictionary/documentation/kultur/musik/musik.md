@@ -57,6 +57,13 @@ Wir sind Mars
 
 ##  Marschlied
 
+<p style="text-align:left; float:left;">
+  <audio controls preload="auto">
+    <source src="/kultur/musik/_audio/kadettenlied.mp3" type="audio/mp3">
+    Dein Browser unterstützt das Audio-Element nicht.
+  </audio>
+</p>
+
 ~~~
 Der Sand ist rot, der Himmel grün,
 Wenn wir durchg die Dünen ziehn.

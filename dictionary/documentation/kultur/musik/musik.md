@@ -146,4 +146,19 @@ so wirst du tot.
 
 ## Mars, wo ich geboren
 
+<p style="text-align:left; float:left;">
+  <audio controls preload="auto">
+    <source src="/kultur/musik/_audio/mars wo ich geboren bin.mp3" type="audio/mp3">
+    Dein Browser unterstützt das Audio-Element nicht.
+  </audio>
+</p>
+
+Alte Aufnahme aus dem Jahr 2026. Diese etwa 100 Jahre alte Aufnahme stammt aus Eberingen, und wurde bei einem Volksfest aufgenommen.
+
+* Kleines Dünenhorn
+* Stockstock
+* Gesang
+
+Info: Die Melodie des Liedes stammt vom japanischen Volklied "Mogawa-Lied".
+
 ![mars-wo-ich-geboren-bin.png](_images%2Fmars-wo-ich-geboren-bin.png)

@@ -57,7 +57,7 @@ Wir sind Mars
 
 ##  Marschlied
 
-<p style="text-align:left; float:left;">
+<p style="text-align:center">
   <audio controls preload="auto">
     <source src="/kultur/musik/_audio/kadettenlied.mp3" type="audio/mp3">
     Dein Browser unterstützt das Audio-Element nicht.
@@ -153,7 +153,7 @@ so wirst du tot.
 
 ## Mars, wo ich geboren
 
-<p style="text-align:left; float:left;">
+<p style="text-align:center">
   <audio controls preload="auto">
     <source src="/kultur/musik/_audio/mars wo ich geboren bin.mp3" type="audio/mp3">
     Dein Browser unterstützt das Audio-Element nicht.

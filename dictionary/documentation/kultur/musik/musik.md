@@ -41,18 +41,22 @@ Im Wind flüster das Blaugras, unter Mars ist wunderschön.
 Hmm hm hm hm hm
 [melodiöses Schnurren]
 
-Von Vater Mars bis an den Merkur, von Jupiter bis Neptun
-All' Planeten beugen sich dem Marsertum.
-
-Hmm hm hm hm hm
-[melodiöses Schnurren]
-
 Rotes Brom
 Smaragdner Himmel
 Azuren Gras
 Sand in der Hand
 Rot grün Blau
 Wir sind Mars
+~~~
+
+Eine weitere Strophe existiert, wurde jedoch offiziell verboten.
+Denn  diese Strophe proklamiert Planetarausweitung und Krieg.
+Diese Strophe lautet:
+
+~~~
+
+Von Vater Mars bis an den Merkur, von Jupiter bis Neptun
+All' Planeten beugen sich dem Marsertum.
 ~~~
 
 ##  Marschlied

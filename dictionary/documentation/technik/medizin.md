@@ -1,5 +1,28 @@
 # Medizin
 
+Für alle medizinischen Belange gilt:
+
+* Nur Humanmedizin darf hier zur Anwendung kommen!
+
+Hier kannst du deinem Kind oder den Spielern so viel beibringen, das Menschen später das Leben retten kann!
+
+* Eigensicherung
+* Stabile Seitenlage
+* Wundverarztung
+
+Tipp: Frische deinen Erste-Hilfe-Kurs auf ;-)
+
+**Hinweis**: Dasselbe glt für die Marser Küche.
+Aus **Sicherheit**sgründen achte darauf, dass nur wirklich essbare Dinge in diesem Rollenspiel essbar sind.
+Aus diesem Grund gibt es keine essbaren Farne oder Schachtelhalme. Die sind nämlich alle giftig auf der Erde.
+Also Pfoten weg!
+
+Weiter unten findest du die sogenannten Notfallbilder.
+Diese habe ich (Mareike) während der Sanitäter-Ausbildung kennengelernt.
+Sie waren die Basis für den Erste-Hilfe-Kurs in Deutschland (Stand 2021).
+Ihr findet da einige Hinweise zur Anpassung auf Marser Anatomie.
+Ich bemühe mich um ein Update :-)
+
 ## Sanitäter-Abzeichen
 
 ![Sanitaeter-Abzeichen, Pfotenabdruck mit innenliegendem roten Kreuz](_images/medizin/sanitaeter-abzeichen.jpg)

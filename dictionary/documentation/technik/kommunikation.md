@@ -12,7 +12,7 @@ Merke: Verwende das Funkprotokoll [Funkprotokoll](../kultur/kommunikation.md)
 
 ## Fernunterhalt
 
-![Fernunterhalt](_images/kommunikation/fernunterhalt.jpg)
+![Fernunterhalt](_images/kommunikation/fernunterhalt.jpeg)
 
 Über dieses Gerät verbreitet der Marsianische Zephyr seine Propaganda.
 Es ist praktisch in jeder Wohnbleibe zu finden.

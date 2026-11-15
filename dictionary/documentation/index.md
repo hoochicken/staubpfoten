@@ -39,7 +39,7 @@ Es riecht nach Brom. Dein Filter ist alt und hätte längst ersetzt werden müss
 > Marser sind katzenartige Wesen mit Fell, schwarzen Nasen und Schnurrhaaren.
 > Erlebt ein Abenteuer – und macht die Welt ein bisschen besser!
 
-![MZ-Armbinde](assets/images/_website/startseite/armbinde_50.png){ style="float:right; width:50%;" }
+![MZ-Armbinde](assets/images/_website/startseite/armbinde.jpeg){ style="float:right; width:50%;" }
 
 Die Handlung spielt auf dem Mars einer nahen Dimension. Du bist eine Felin: eine Katze auf zwei Beinen, die in einem Schutzanzug lebt.
 

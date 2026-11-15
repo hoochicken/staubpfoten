@@ -1,0 +1,71 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 30px;
+  font-family: Arial, sans-serif;
+  background: #f4f5f7;
+  color: #222;
+}
+
+header {
+  margin-bottom: 30px;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 25px;
+}
+
+.editor,
+.sheet {
+  background: white;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+textarea {
+  width: 100%;
+  min-height: 260px;
+  padding: 15px;
+  font-family: monospace;
+  font-size: 15px;
+  line-height: 1.6;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  resize: vertical;
+}
+
+.controls {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  background: #2563eb;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1d4ed8;
+}
+
+#paper {
+  overflow-x: auto;
+}
+
+@media (min-width: 1100px) {
+  main {
+    grid-template-columns: 1fr 1fr;
+  }
+}

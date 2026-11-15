@@ -130,7 +130,8 @@ nav:
       - Kommunikation: kultur/kommunikation.md
       - "HRG-Karten": kultur/hrg-karten.md
       - Design: kultur/design.md
-      - Musik: kultur/musik.md
+      - Musik: kultur/musik/musik.md
+      - Küche: kultur/kueche.md
     - Geschichte:
       - Zeitstrahl: welt/geschichte/zeitgeschehen.md
       - Roboter-Gesetze: welt/geschichte/roboter-gesetze.md

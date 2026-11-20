@@ -170,6 +170,6 @@ Alte Aufnahme aus dem Jahr 2026. Diese etwa 100 Jahre alte Aufnahme stammt aus E
 * Stockstock
 * Gesang
 
-Info: Die Melodie des Liedes stammt vom japanischen Volklied "Mogawa-Lied".
+Info: Die Melodie des Liedes stammt vom japanischen Volklied "Mogami-gawa-Lied".
 
 ![mars-wo-ich-geboren-bin.png](_images%2Fmars-wo-ich-geboren-bin.png)
